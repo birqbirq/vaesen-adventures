@@ -94,7 +94,7 @@ Castle spreadsheet: https://docs.google.com/spreadsheets/d/1AjeOQvpPHPOMFaLM1vZo
 After each session, user will ask for a review. At that point:
 1. Delegate to the `transcript-parser` agent to read the latest Discord transcript from `Transcripts/` and generate structured adventure notes as a `.md` file in `Adventures/`
 2. Read the generated adventure notes
-3. Add/update `[[wikilinks]]` throughout all adventure files for NPCs, locations, factions, vaesen, and items
-4. Create or update files in `NPCs/`, `Locations/`, `Factions/`, `Vaesen/`, and `Items/` with any new details
+3. Add/update `[[wikilinks]]` throughout all adventure files for NPCs, locations, factions, vaesen, items, and player characters
+4. Create or update files in `NPCs/`, `Locations/`, `Factions/`, `Vaesen/`, `Items/`, and `Characters/` with any new details
 5. Update the **Key Recurring NPCs** section in this file
 6. Update the relevant **Adventure summary** section in this file
