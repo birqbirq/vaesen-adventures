@@ -1,0 +1,1038 @@
+?? Gameplay 'Card'
+Actions
+Skill Test
+To make a skill test, add your skill level to your score in the attribute linked to the skill, and roll all the dice together. For the test to succeed, you must roll at least one six.
+? AGILITY (Physique)
+? CLOSE COMBAT (Physique)
+? FORCE (Physique)
+? MEDICINE (Precision)
+? RANGED COMBAT (Precision)
+? STEALTH (Precision)
+? INVESTIGATION (Logic)
+? LEARNING (Logic)
+? VIGILIANCE (Logic)
+? INSPIRATION (Empathy)
+? MANIPULATION (Empathy)
+? OBSERVATION (Empathy)
+Helping
+Up to three other player characters or NPCs can help you with a dice roll. Each person helping gives you +1 die, but they need to be in a position to actually support your action.
+Pushing
+If you fail a skill test, or if you need more successes, you can choose to push the roll -re-roll all of the dice (except any sixes, should there be any). After pushing a roll, you suffer Condition.
+Swapping Initiative
+You and another player character can choose to swap initiative during combat. You may only swap at the start of the round.
+In combat, extra successes can be used to outmaneuver the opponent, forcing them to swap initiative with you. If the opponent has not yet had their turn, they won’t get a turn this round.
+       Note: Spent fast actions still count as spent
+Slow & Fast Actions
+You can perform two actions per round, one slow and one fast. If you want, you can perform a fast action instead of your slow one and thus get two fast actions that round.
+Typical Slow Actions
+? Attack with melee weapon - CLOSE COMBAT
+? Attack with ranged weapon - RANGED COMBAT
+? Unarmed attack - FORCE
+? Wrestle, push, grapple - FORCE
+? Flee (Run Away!) - AGILITY
+? Persuade - MANIPULATION
+? Lure enemy to a certain place - AGILITY
+? Perform ritual
+? Survey the situation - VIGILANCE
+? Treat injuries - MEDICINE
+? Climb a wall - AGILITY
+Typical Fast Actions
+? Draw weapon / Swap weapon
+? Stand up
+? Dodge (reaction) - AGILITY
+? Parry (reaction) - CLOSE COMBAT / FORCE
+? Break free (reaction) - FORCE
+? Hold (reaction) - FORCE
+? Chase (reaction) - AGILITY
+? Resist magic (reaction) - depends on the magic
+? Shout more than a few words
+? Turn around (bright eyes)
+? Close a door
+? Put out a candle
+? Move within the zone
+? Move into the next zone
+? Take cover
+Attacking
+Unarmed attacks are performed with a FORCE skill test. When armed with a melee weapon, use CLOSE COMBAT. For ranged attacks, use RANGED COMBAT. If the test succeeds, the target suffers a number of physical Conditions equal to the damage rating of the weapon. For each extra success you rolled beyond the first, the target suffers an additional Condition.
+Dodging & Parrying
+When attacked, you can use a fast action to parry in close combat, or dodge a ranged attack. You can do this even if it is not your turn. To dodge, test AGILITY. To parry, test FORCE or CLOSE COMBAT depending on if you are armed. Each success eliminates one success from the enemy’s attack. If you eliminate all successes, the attack misses. You must declare a dodge or parry before the enemy rolls for the attack.
+Conditions
+When you suffer a Condition, you can choose any Condition you like from the relevant type (physical or mental). When you have checked off all three physical or mental Conditions and suffer another one of the same type, you are Broken. This means that you are incapacitated or have suffered a breakdown, and are unable to act. If Broken by physical Conditions, you risk dying.
+Once broken, you suffer a critical injury which will be either an affliction or an insight
+? Affliction has a negative effect
+? Insight has a positive effect
+A dice roll at the end of the mystery will determine if the effect is permanent or wears off.
+? One roll for physical; Physique + Precision
+? one roll for mental; Logic + Empathy
+Fear
+When encountering something frightening, you must pass a Fear test to avoid being Terrified. This is not an action. Roll for Logic or Empathy (the attribute only) and you get +1 die for each other player character present in the scene, up to a maximum of +3 dice.
+If you fail, you suffer a number of mental Conditions equal to the Fear value minus the number of successes you did roll and you become Terrified.
+
+Vaesen in a Nutshell
+VAESEN 
+Throughout history, humans have shared their land with vaesen; trolls, ghosts, lindworms, and other creatures inhabiting the woods and lakes. Like the humans, these have had their ups and downs with one another. Many have assisted the farmers in their back-breaking labor and made the dark, winter nights more bearable with enchanted music and gifts in the form of strange handicrafts to blacksmiths and lute players. 
+
+Although vaesen have always been present, few have actually seen them. The creatures are imperceptible to the human eye – they choose whether or not to reveal themselves. It is said that their presence may be inferred from something as innocuous as a draft in the room, or from the abnormal behavior of farm animals.
+
+Tales and songs tell of rules that must be followed so as not to anger the vaesen. Rural people often think they know how to avoid getting on the wrong side of those who dwell underground, but something has altered the balance between the humans on the surface and the creatures beneath. Vaesen have started attacking villages and destroying homes, factories, and train stations. They no longer behave as they do in the stories. Some think they have gone mad, others that the end times are nigh. 
+THE SIGHT 
+You are a person with the Sight, meaning that you have the ability to see vaesen – even when they are trying to remain invisible. You acquired the Sight as a result of some physical or psychological trauma, most likely some form of supernatural event, either during childhood or as an adult. Those who have the Sight are sometimes referred to as Thursday’s Children. 
+
+For one reason or another you have sought out other people with the Sight, and together you have decided to use your ability to help those affected by the ill-tempered caprice of the vaesen. You have learned that there used to be an organization known as the Society, and decided to re-establish it. The Society existed for hundreds of years, made up of people with the Sight who devoted their time to studying and expelling vaesen. 
+THE FIGHT AGAINST VAESEN 
+Your mission is to protect humanity from vaesen. But the world is not black and white. The vaesen you encounter are often victims of other vaesen, or of human activities, so you will have to take a stand and do what is right. Whatever that may be. 
+
+Before heading out on expeditions you arm yourself with rifles and rapiers. Your weapons can help you defeat human adversaries such as robbers and rebels. Against vaesen, however, you may as well be carrying sticks and scraps of paper. Vaesen may be stalled or temporarily driven off by human weaponry, but can rarely be killed by bullets or blades. 
+
+To combat vaesen, you must turn to the tales and forgotten books of the olden days. The rituals required to expel them are always exact and seldom easy to perform. You might have to sprinkle silver powder into the waterfall on the night of a full moon – or chase giants into the woods by ringing the church bells at dawn. Each vaesen protects its weakness very carefully, and those seeking to exploit it risk provoking its wrath.
+The Mythic North and Upsala
+The city of Upsala – which will be where the society “homebase” is – is described with several examples of places you can visit, either to search for clues or drive away the vaesen occupying them. The city and the countryside are pitted against each other as two increasingly different habitats for humans and vaesen alike. Read on to learn more and to read about some of the important cities in nineteenth-century Scandinavia, which can be used as inspiration when creating a backstory for your player character. 
+YOUR MYTHIC NORTH 
+The Mythic North Map.pdf
+The Vaesen core game takes place in Sweden, Norway, Finland, and Denmark. It is a time and place that mixes events, cultural expressions, and conflicts from the entire 19th century, in a way that will be unique for each gaming group. 
+
+Note from the Gamemaster: Our game is beyond the borders of Norway and Sweden, it will include all of Scandinavia, Britain, Wales, Scotland, Ireland, Russia, Ukraine, and Belarus. Though if you want to go beyond these for your backstory, why not ??
+Mythic Britain & Ireland Map.pdf
+CONFLICTS 
+The Mythic North is marked by a series of conflicts that affect your player character. Europe is starting to recover from the Napoleonic Wars that raged across the entire continent, and a number of new wars have already begun, or are about to. News of the American Civil War is coming in from across the Atlantic. 
+
+A growing nationalism divides people in all countries into two groups: us and them. It becomes important to define what a true Swede or Norwegian really is, and those who fail to meet the criteria risk being ostracized, deported, or even killed. Conflicts are growing within the Church as well. Catholics are pitted against Protestants, and those who dare go their own way with small independent denominations are persecuted and severely punished. 
+
+Industrialization sparks conflicts between the old and the new, between workers and employers, and between people living in the cities and those who go there to seek their fortune. Tensions arise between those wishing to leave the rural villages and those wanting to preserve everything that previous generations helped build. In the forests, peasants and maids are fighting the logging and mining companies that seek to evict them in order to secure timber and ore for the urban factories. 
+
+There is a rift between the city and the countryside. The city is vibrant and dynamic – the machines in the factories constantly belch out smoke through huge smokestacks, while shipments of goods and raw materials come and go from the ports and train stations. With each new load, people, stories, and new ideas flow into the cities. The lower class multiplies in the suburbs, while city centers become crowded with new buildings where businessmen are turning gold and labor into profit. Donations from the wealthy are bolstering the universities, where it is believed the spread of knowledge will help man subdue nature. Anything is possible; anything can be explained and understood. 
+
+The rural villages seem to wither and die. Houses are abandoned and fields covered with rotting vegetation. The water from the marshes is rising, seeping into people’s homes. When the food runs out, the sick and poor are left to die in the snow. The wilderness is untamed and eternal. 
+
+There are profound injustices in the distribution of wealth and knowledge. The Church and the nobility still have power, but they are threatened by the bourgeoisie and the influence that trade and property provide. The world is hierarchical, politically as well as domestically. At the bottom are the poor and dispossessed, the children, and those who have been declared insane or enemies of the state. 
+
+There are also tensions brought on by the fight surrounding the rights of men and women. It is a time when gender inequality is being challenged and women gain the right to inherit property and make their own decisions about their lives. Women are also becoming more prominent in the workplace. At the same time, new gender ideals emerge that give rise to new constraints – women should be delicate, wear corsets, and preferably faint in difficult situations. A feminist countermovement is launched, leading to greater freedom of movement for some. The strict dress codes that denote gender and social status are starting to erode.
+
+Revolutionary groups from all over Europe, infecting many with various philosophies of how society should be arranged – and the idea that the status quo can not only be challenged, but overthrown. 
+LIFE IN THE CITY 
+Cities are the heart of the industrial revolution. Important decisions have previously been made in castles and mansions by representatives of the clergy and nobility; now the burghers are using their capital to take control of political and economic decisions, and their homes are in the cities. 
+
+The Church is losing authority to the scientists, who are objectively studying and cataloging everything from stones and moss to human thoughts and behavior. No mystery is left unexamined. The accumulation of knowledge takes place at the universities, which sometimes grow into independent communities within the cities. 
+
+On the edge of town, the working class lives in squalor – vast slums are emerging where temporary tents and huts become permanent shacks and houses. Unions are trying to unite factory workers in the struggle for better living and working conditions, but are opposed with violence and cunning by police and capital holders. 
+
+Inventions are changing the lives of many people in the cities. Soap and factory-made cotton clothing improve hygiene and reduce the spread of disease. Robust brick buildings are raised throughout the city, and straight streets are laid out with ample space for coaches and pedestrians. The sewers are expanded, and the filth that would previously pile up in the alleys can now be washed away from the city centers. Healthcare also improves, thanks to new technology and medication. 
+
+Ships from colonies around the world enter the ports with spices, tea, opium, and exotic animals in cages, spreading stories of strange cultures and landscapes. 
+
+The police force becomes more organized, with greater responsibility for controlling the general population, and the role of the state changes. Citizens must be governed, supervised, and shaped according to national ideals. Many governments employ secret police to monitor and crack down on the nation’s enemies. Spies infiltrate foreign powers to gather information and prepare for armed conflicts. 
+
+Scientists no longer view mental illness as a sign of demonic possession – instead they establish mental institutions with modern means of curing the sick. These new treatments are often painful and tend to make matters worse: a very high-pressure jet of water is blasted at the sick person’s head; patients are strapped to rotating chairs and spun until they faint, and many believe in cure through fright. Sometimes they will even hide body parts in patients’ beds – one of many forms of abuse and sadistic treatments practiced by medical professionals. 
+IMPORTANT CITIES IN NORTHERN EUROPE 
+Your player characters and the people they encounter may be well-traveled individuals with roots outside Upsala. Described below are some of the major cities of 19th century Scandinavia. 
+STOCKHOLM 
+The capital of Sweden is home to roughly 100,000 people, but the population is growing fast due to urban migration and high birth rates. The city suffers greatly from starvation and disease, and one in three children die before the age of one. The first railroad station has been built, with routes to Gothenburg, Upsala, and Scania. Recently, the city has also constructed waterworks, gasworks, and power plants. Gas lights illuminate the streets where horse-drawn trams and buses move about at a leisurely pace. The king and the royal family reside in a luxurious palace. 
+CHRISTIANIA 
+Christiania (Oslo in modern day)  is the capital of Norway. The population is soaring, and the city is the center of the first Norwegian railroad and steamship lines. Timber and ore flow in from the wilds and are shipped throughout Europe. 
+COPENHAGEN 
+The capital of Denmark is marked by political debates. There is great dissatisfaction with the absolute monarchy. Copenhagen is the commercial hub of northern Europe, and the city is rapidly expanding. Many of its new, hastily constructed residences are cramped and dark, with tiny alleys and yards. Cultural life is flourishing. Several theaters and zoological gardens have recently been built. 
+HELSINKI 
+The Finnish capital is a relatively young city with few inhabitants, half of which speak Swedish. It has recently seen the addition of numerous buildings, including a railroad station and the Uspenski Cathedral. The city center is called Kluuvi, and is now composed of wide boulevards and vast plazas. In Kallio, the workers are crammed together in simple wooden houses. At the edge of town lies Lapinlahti Hospital, the largest mental hospital in the country.
+LIFE IN THE COUNTRY 
+In the countryside, wealth is measured in animals, tools, and houses. All work is done by muscle power – either that of humans or animals. The villages are strictly divided between the landowners and the vast majority who work for others, and who depend on their goodwill. As the population grows, the number of landless laborers increases dramatically. 
+
+Churches are important social meeting points and priests usually the only source of news. It is illegal to engage in any other faith than the form of Christianity practiced in the churches. The priest preaches “truths” and condemns those who deviate from the norm. Everyone knows everything about everyone. A person’s reputation, and the reputation of her family, can be ruined by a single ill-considered action. 
+
+Local county administrators are in charge of tax collection and law enforcement, sometimes also serving as prosecutors. They are assisted by part-time police officers and bailiffs. Children who cannot be cared for are placed in orphanages run by the Poor Care Board. 
+
+In rural areas, people’s diet consists of whatever can be caught or grown nearby. Food is preserved by salting and smoking, and the seasons have a supreme impact on life – particularly during the cold, dark, and hungry winter. People make most of their belongings themselves: clothes are locally manufactured; fabrics are colored with dyes from plants; leatherware and metal are in high demand, but expensive and hard to come by. 
+
+The beginning and end of the harvest are often celebrated with a feast, where people dance the waltz, schottische, hambo, and polka. The violin is a common instrument. Songs, dances, and other cultural expressions have persisted from the time before Christianity’s ascendance. In some cases, pagan traditions have been mixed with Christian teachings. 
+
+It should also be noted that, in the 19th century, large parts of Scandinavia are struck by crop failure and famine. In Sweden, this time is referred to as Storsvagåren (“the Years of Great Weakness”), while the Finns call it Lavåren (“the Lichen Years”) as many are forced to eat bark bread and porridge made of lichen. The winters are extremely cold and long. Ice covers ponds, lakes and waterways, while animals freeze to death in their stables. 
+
+Some summers are almost as cold as the winters. One year, Stockholm is 3 degrees celsius at the end of May, and in many of the northern provinces the ground remains frozen well into June. The ice prevents freighters from reaching cities on the northern coast. Emergency committees are established. The press spreads appeals for help to people in the cities. Charity concerts and other spectacles are hosted to raise funds for the starving. Other summers are so hot that fields become parched and crops are scorched by the sun.
+TECHNOLOGY 
+It is up to the game group to decide how far technology has come in your particular game world, and there is no need for consistency – although you should try to create a world that feels believable to you. In one mystery you might visit a remote location where the technological development seems to have stagnated, while the next mystery takes place in a city with technology from the end of the century. Some thoughts on 19th century technology are presented below. 
+
+One of the most important inventions of the industrial age is the steam engine. It powers the machines in the factories and the trains which allow for quick travel across Europe. Steamboats carry goods and people through freshly dug canals. 
+
+Newspapers become increasingly common thanks to improved printing presses and typewriters. People can communicate through telegraphs. The chemical industry produces a series of revolutionary substances like dynamite and new kinds of paint. The match is invented. Vaccines are spreading, making it possible to combat diseases that were previously thought to be terminal. The camera becomes more and more advanced. A number of scientific expeditions are mounted to explore the world, including the North and South Pole.
+
+In the 19th century, unpredictable flintlock rifles and muzzle-loading muskets are replaced with breach-loading cap lock rifles. These new firearms are reliable and quick to load. In battle, a bayonet is fixed to the rifle. 
+
+The rapier is used by nobles as an ornament, a weapon, and a marker of class. The lower estates favor the knife, while peasants use axes and scythes. Muskets and crossbows are still used in rural areas. 
+TITLES AND NAMES 
+Titles are important when addressing other people. Miss is used for unmarried women and missus for married ones. Mister can be used for men. Many professions come with a title as well, such as bailiff, or father for Catholic priests. Teachers in higher education are called adjunct or lector. Soldiers and officers are addressed with their rank.
+TRAVEL IN SCANDINAVIA 
+Traveling takes time. The player characters will usually go by boat, train, or coach. Most people they encounter have only left their villages a few times in their lives. Despite the growing industrialization, the Mythic North is still an agrarian society.
+
+
+UPSALA – SCIENCE AND FAIRYTALES
+Upsala Map.pdf 
+Upsala is located just north of the Swedish capital of Stockholm – on the border of Norrland, where cities and villages are few and the wilderness endless. The city is best known for its university. But it is also a place deeply rooted in the pagan world. Upsala was one of the last outposts of the old Norse religion when the country was Christianized. Just outside the city lie the Mounds of Upsala – barrows where mighty kings were buried in the sixth century. 
+
+Upsala was recently struck by a huge fire that killed one fifth of its population and devastated much of the city itself. It was on the brink of complete destruction, but rose from the ashes and has since undergone a significant transformation, with lots of new buildings, a great influx of uneducated workers for the factories, and students and scientists from across the globe flocking to the university. 
+
+The streets of Upsala are lit by gas lamps. Paperboys cry out the latest headlines. Through the city center runs the Fyris River which flows into Lake Malar. There are several bridges over the river, including the Cathedral Bridge and the Iron Bridge. The poorer sections of the city are plagued by cholera. Robbers hide in the alleys, and policemen move around with drawn sabers in search of burglars and speakeasies. 
+
+The presence of brick clay has given rise to an entire brick industry, and there are several textile factories on the outskirts of town. The city’s main source of income, however, is the production of aquavit – liquor money, legal and illegal, is paying for many of the city’s establishments. 
+
+Upsala University is massive, thanks to the Gustavian patrimony. In the 17th century, King Gustavus Adolphus donated 400 farms and their land to the campus. There are numerous grand and beautiful buildings. The students gather in student unions, singing songs and discussing science and philosophy. Some groups favor the romantic ideals, with focus on emotions rather than reason, idealization of the exotic, and an interest in mysticism. Other groups believe in the natural sciences and despise the sublime. They wish to uncover truths through carefully performed experiments. Conflicts and confrontations are constantly raging between these groups. 
+
+Upsala is a divided city. Farmers, industrial workers and servants live side by side with students, nobles, and clerics – the latter enjoying extravagant luxuries in huge villas and apartments, while the former tend to their every need, bowing and scraping, until their bodies are all worn out. Open conflicts rarely arise between the two groups, but when they do, it tends to happen at illegal night clubs and brothels, where the distinction between rich and poor is less clear. 
+
+The Church holds great power. The Archbishop of Sweden, Henrik Reuterdahl, has his seat in Upsala. The gothic cathedral is one of the largest in Scandinavia, with a bell called Storan which can be heard throughout the city. The altar cross contains a relic of the True Cross, and a new gigantic pipe organ takes up an entire wall inside the cathedral. 
+UPSALA UNIVERSITY HOSPITAL 
+Upsala’s hospital is one of the most modern in Scandinavia. The building is brand new and resembles a multistory castle with beautiful turrets and ornaments. Patients are distributed between 16 wards, each managed by a chief physician. There are operating rooms, autopsy rooms, session rooms, a chapel, a library and offices. 
+
+There have been health facilities in the area for hundreds of years, and it is rumored that people who died on their sickbeds are bound to the place, haunting the new hospital. These creatures are said to torment the patients and scare doctors and nurses into madness.
+
+UPSALA ASYLUM 
+The city’s mental asylum is encircled by a black iron fence. Patients arrive at the brick building in wagons, but rarely leave except in a casket. It is a place for mentally ill, and people who have caused outrage in the parish. Patients are divided into first and second class, depending on their financial situation. Wealthier patients are treated well and have meals brought to their rooms on a tray. 
+
+Lower-class patients are starved, shackled, and put in confinement boxes. They are treated with laxatives and emetics. Their skin develops ulcers after being smeared with irritant substances. Mental illness is attributed to mucus, and so the patient must be cleansed. All treatment is supervised by Doctor Niklas Frejd, a man of small stature and good humor, who is convinced his treatments are effective. He is supported by a large group of orderlies, guards, and physicians. 
+THE POLICE STATION 
+The city’s police wear blue uniforms with golden buttons and helmets, and are armed with sabers. The force is corrupt and violent. The police station is cramped, water-damaged, and badly infested with vermin. The wooden floors are creaky, and the entire building smells of filth. The station consists of offices, cells, and courtrooms. One end of the building is occupied by a special detective branch responsible for more complicated investigations. A laboratory has recently been installed in the basement, where chemical tests are now conducted to facilitate the hunt for criminals. 
+
+The newly-appointed police chief, Oscar Stierna, is one of the few people in the force who cannot be bought. He is trying to purge his organization of corruption. Some officers idealize him and have stopped working with shady elements. Others hate him.
+THE POORHOUSE 
+Begging, vagrancy, and poverty are illegal. Those who are found guilty of such crimes are confined to poorhouses. Upsala’s poorhouse, located in Kamphavet Square, is packed with paupers, reduced to poverty by years of crop failure. The master of the poorhouse is Doctor Per Dubb. Together with the local police force, Dubb runs an extensive network of informants with the aim of tracking down and apprehending thieves and beggars. Those who are forced to live at the poorhouse lead miserable lives plagued by starvation, lice, and abuse.
+
+
+
+
+
+
+WELLSPRING STREET 59 
+There are plenty of brothels in Upsala, the most famous being Wellspring Street 59 run by Madam Tekla. Said to be a crofter’s daughter from the small town of Vänge, Tekla is now a wealthy woman, well-connected with both the university and elite members of the clergy. Her employees are treated very badly. Many have contracted syphilis and pneumonia, and most have given birth to children who died or were taken away. Beatings are common, as are various forms of drug use. People who make their living selling sex are registered in the prostitution ledger, forced to undergo regular medical examinations, and can never again hold a normal job.
+
+THE UPSALA GAZETTE 
+In a smoky, noisy building called Olympus, 22 journalists are working around the clock. The newspaper’s editor-in-chief, Felicia Lipschitz, is an ambitious visionary who welcomes the modern age with opened arms. The paper was founded by students as a liberal counterbalance to the conservative publications of the time. The editorial team call themselves the pioneers of Upsala radicalism. The newspaper comes out three times a week, mostly reporting news from the city and its surrounding communities. Occasionally a strange or entertaining story from the countryside will find its way into the paper.
+UPSALA BOTANICAL GARDEN 
+The botanical garden of Upsala University was founded in the 17th century by Olof Rudbeck, but is best known for being the workplace of Carl Linnaeus in the 18th century. Linnaeus transformed the garden into one of the finest in the world, with thousands of different plants. Today the garden is run by mycology professor Elias Fries, renowned for his book Systema Mycologicum and his relentless efforts to introduce mushrooms as food items. A few people know about his traumatic trip to Värmland where he was badly injured by a bear. Fewer still are aware that Elias thinks the animal that attacked him was not actually a bear, but a “terrible beast,” and that since the incident he has seen strange creatures moving unseen among humans.
+THE JUNTA 
+The student movement known as the Junta was established at the end of the 18th century as a political protest movement against restrictions on the freedom of the press and other civil liberties. Several of its members were musicians of the Royal Academic Orchestra. In the year 1800 they put on a concert for the king; some refused to play, while others performed the piece so poorly it caused a scandal. The musicians were severely punished, and the Junta was dissolved. 
+
+Or so the official story goes. The truth is that the Junta went underground and was joined by more members. It is now a secret revolutionary organization with ties to enemy nations.
+
+The Society and The Headquarters
+THE HISTORY OF THE SOCIETY 
+Linnea Elfeklint can tell you a lot about the founding of the Society and what happened afterwards. She is renting a room in a simple apartment in central Upsala, but spends most of her time at the city’s mental asylum.
+THE SOCIETY IS REBORN 
+You and the other player characters have for different reasons decided to track down and fight vaesen, or help resolve conflicts between humans and vaesen.
+CAMPAIGN RULES 
+Every time the player characters return to headquarters you must determine whether any Insights and Afflictions obtained become permanent or wear off. Furthermore, the player characters may expand and upgrade their headquarters. But there is also a risk of threats arising in Upsala – vaesen who for whatever reason are after the player characters or their headquarters, or ordinary humans such as police officers or journalists looking to cause trouble. 
+YOUR HEADQUARTERS 
+After solving mysteries you will have an opportunity to improve your headquarters. You can hire staff, explore unknown parts of the HQ, add new facilities or renovate existing ones. Once you return to Upsala after a mystery, you must together answer questions about what you have experienced – each affirmative answer yields one Development Point. Before taking on a new mystery you can use your Development Points to purchase Upgrades for your headquarters. Unspent Development Points are saved. Every time you purchase an Upgrade there is a risk that a threat will arise. At the start of the game you already have two Upgrades: Library and Butler Algot Frisk.
+RECOVERY – AFFLICTIONS AND INSIGHTS 
+After completing a mystery each player character must determine whether the Afflictions and Insights you have gained become permanent or wear off. This is done with a dice roll. On a failure your Afflictions become permanent and your Insights wear off before the next mystery. The roll cannot be pushed. Insights and Afflictions that become permanent can never be removed. 
+
+If you have gained both physical and mental Insights or Afflictions, you make a physical recovery roll and a mental recovery roll. 
+
+The number of dice used for the physical recovery roll is determined by adding the values of your Physique and Precision together – for example, if you have Physique 3 and Precision 2, you should roll 5 dice. For each success you may either heal an Affliction or make an Insight permanent. 
+
+For mental Afflictions and Insights you roll a number of dice equal to your combined Logic and Empathy. Each success heals an Affliction or causes an Insight to become permanent. 
+
+By purchasing Upgrades to the Society’s headquarters, you can get a chance to push your recovery rolls or gain additional dice on your rolls.
+GEAR IN THE HEADQUARTERS 
+Besides your personal items, gear acquired during a mystery is assumed to be sold or lost once the mystery is concluded. Months can pass before the next mystery takes place, and once it does, it is time to acquire new equipment. Therefore, every player character only gets to keep their personal gear on the character sheet. The headquarters will, once it is expanded with Upgrades, gain the ability to store some temporary gear, but also to reward the player characters with free items to bring on their expeditions without spending Resources. 
+UPGRADES
+There are three types of Upgrades: Facilities, Contacts, and Personnel. Facilities are new rooms or functions you discover or construct at headquarters. Contacts are people who can help you, and Personnel are servants or new members of the Society. 
+
+All Upgrades consist of several categories: Prerequisite, Cost, Function, and Asset. Prerequisites are things you need before the Upgrade can be purchased – Resources means that the player characters (their Resources ratings added up) must have at least the specified value. Development Points is the number of such points to be spent to purchase the Upgrade. Function and Asset explain the purpose of the Upgrade and what effects it provides. 
+
+Each Upgrade can use its Function and its Asset once per mystery. The only exceptions are the Infirmary, Chapel, and Treasure Chamber, which can be used once by each player character – for example, everyone in the group may push their recovery rolls. Some Upgrades can be purchased multiple times, which allows them to be used more than once. 
+
+The gaming group is free to come up with other Upgrades in addition to the ones below.
+FACILITIES 
+These Upgrades are rooms and functions in the HQ and on the HQ grounds. 
+THE ANNALS OF THE SOCIETY 
+A hefty tome with written accounts of encounters with vaesen. 
+Prerequisite: — 
+Development Points: 4 
+Function: At the end of a gaming session, a player can record the party’s experiences, granting each player character one additional Experience Point. 
+ARMORY 
+Room with weapons on display in glass cases. 
+Prerequisite: Resources 5 and Weapons Corridor 
+Development Points: 5 (can be purchased up to three ranks) 
+Function: During the preparation phase, each rank allows the player characters to bring a melee weapon or piece of armor at cost 2 without using Resources. 
+BUTTERFLY HOUSE 
+An annex to the glazed garden full of beautiful butterflies and insects. 
+Prerequisite: Botanical Garden 
+Development Points: 2 
+Function: A player character who spends a scene in the botanical garden heals two mental Conditions. 
+CARP POND 
+A carp pond with little streams and waterfalls under white wooden bridges. 
+Prerequisite: Botanical Garden 
+Development Points: 2 
+Function: One of the player characters can gain an extra Advantage before a mystery: Unwavering Calm.
+INFIRMARY 
+A well-equipped infirmary. 
+Prerequisite: Resources 5 or Doctor in the group 
+Development Points: 6 
+Function: Makes it possible to push physical recovery rolls (page 88). 
+KENNEL 
+An enclosure for breeding and training dogs. 
+Prerequisite: Gamekeeper or Hunter in the group 
+Development Points: 4 (can be purchased up to three ranks) 
+Asset: During the preparation phase, each rank allows the player characters to bring a guard dog or hunting dog without using Resources. 
+LIBRARY 
+An enormous library. 
+Prerequisite: Available from the start 
+Development Points: 0 
+Function: Clues can be found here. 
+LOCAL TAVERN 
+Tavern (named by the players) of varying quality not far from the HQ. 
+Prerequisite: — 
+Development Points: 4 (can be purchased up to three ranks) 
+Function: One player character per rank can gain +2 to their physical recovery roll (page 88). 
+MAP ROOM 
+A room with a large globe. There are numerous maps and route descriptions piled on a massive oak table. 
+Prerequisite: Library or Professor 
+Development Points: 4 
+Asset: One of the player characters can gain an extra Advantage before a mystery: Old Map. 
+OBSERVATORY 
+One of the towers is converted into an observatory, ready to gaze at the stars. 
+Prerequisite: Patron or Inventor 
+Development Points: 5 
+Function: The player characters can seek information among the stars and planets. One of the player characters can gain an extra Advantage before a mystery: Divination or Weather Prophet. 
+Asset: One player character can bring the item Binoculars without using Resources. 
+PIGEON LOFT 
+Cage with homing pigeons. 
+Prerequisite: Caretaker 
+Development Points: 4 
+Asset: The player characters can bring a homing pigeon with them on the mystery and use it to send for help during a subsequent scene. 
+SEANCE PARLOR 
+A parlor for contacting spirits. 
+Prerequisite: Resources 4 or Occultist in the group 
+Development Points: 5 
+Function: The player characters can hold a séance before a mystery and gain access to additional clues – the Gamemaster decides which ones. 
+SHOOTING RANGE 
+Basement or walled garden complete with targets. 
+Prerequisite: Weapons Corridor 
+Development Points: 5 (can be purchased up to three ranks) 
+Function: All HQ guards carry ranged weapons at cost 3. 
+Asset: During the preparation of a mystery, allows the player characters to bring ranged weapons of their choosing (temporary gear) at a total cost of up to 3 per rank in this Facility, without using Resources. 
+STABLE 
+A stable for horses and carriages. 
+Prerequisite: Resources 5 or Vagabond in the group 
+Development Points: 4 (can be purchased up to three ranks) 
+Asset: During the preparation phase, each rank allows the player characters to bring a scrawny horse without using Resources. 
+WEAPONS CORRIDOR 
+Corridor or room with simple display cases full of weapons. 
+Prerequisite: Resources 4 
+Development Points: 4 (can be purchased up to three times) 
+Function: During the preparation of a mystery, allows the player characters to bring any melee weapons of their choosing (temporary gear) at a total cost of up to 2 per rank in this Facility, without using Resources. 
+WORKSHOP 
+Well-equipped workshop. 
+Prerequisite: Resources 4 
+Development Points: 4 
+Function: One of the player characters can gain an extra Advantage before a mystery: Well-Maintained Weapons or Well-Maintained Tools. 
+CONTACTS 
+These are helpful individuals or institutions.
+BANKER 
+Can pay in bonds. 
+Prerequisite: Resources 5 
+Development Points: 5 
+Function: Once per mystery a player character can raise her Resources by 2 for the duration of one scene.
+FIXER
+A handy contact. 
+Prerequisite: Six or more Facilities at the headquarters 
+Development Points: 4 
+Function: Restore or retrieve a lost memento at the end of the mystery without spending Experience Points. 
+JOURNALIST 
+Investigative reporter on your side. 
+Prerequisite: Resources 4, or Author in the group 
+Development Points: 4 
+Function: Can provide additional clues and come along on mysteries as a helping hand.
+PATRON 
+A generous benefactor. 
+Prerequisite: INSPIRATION 5, or Military Officer in the group 
+Development Points: 4 
+Function: Grants a free success on a MANIPULATION test when bartering or negotiating prices. 
+POLICE CONSTABLE 
+Kindly policeman. 
+Prerequisite: Resources 5, or Private Investigator in the group 
+Development Points: 4 
+Function: Can provide additional clues, fabricate evidence, protect against criminals, etc. The Gamemaster decides what is possible. 
+PROFESSOR 
+Contact at the university. 
+Prerequisite: Resources 5, or Academic in the group 
+Development Points: 4 
+Function: Grants a free success on a roll for finding or interpreting information in Upsala. 
+PSYCHIATRIST 
+Treatment at the mental hospital. 
+Prerequisite: A player character mentally Broken during the mystery. 
+Development Points: 4 
+Function: Gives the player character +2 on their mental recovery roll. 
+PERSONNEL 
+These Upgrades are servants or humans with the Sight who join the Society. 
+BUTLER ALGOT FRISK 
+Algot is already at the HQ when you move in. 
+Prerequisite: Available from the start. 
+Development Points: 0 
+Function: Manages the headquarters. 
+CARETAKER 
+A handy janitor looking after the property. 
+Prerequisite: Workshop 
+Development Points: 3 
+Function: Repairs facilities in the HQ if something is broken. 
+CHEF 
+Efficient housekeeper with a passion for large portions. 
+Prerequisite: — 
+Development Points: 4 
+Function: Cooks fancy dinners at the headquarters and makes sure that everyone is well fed. 
+Asset: Provides each player character with simple provisions during the preparation phase, without rolling for Resources. 
+COACHMAN 
+Quiet horse groom who lives in the stable. Can come along on mysteries as an NPC. The players may spend 10 points on the Coachman’s attributes (max 4) and 8 on skills (max 3), two of which must be based on Physique. Physical Toughness 1, mental Toughness 1. 
+Prerequisite: Stable boy 
+Development Points: 4 
+Asset: The player characters have their own carriage with two strong horses that they can use to travel to a new location and at the same time heal a Condition. 
+GAMEKEEPER 
+Keeps the animal population down on the estate. 
+Prerequisite: Shooting Range 
+Development Points: 5 
+Function: Upgrades the weapons from the shooting range to maximum cost 4 for the player characters and the HQ guards.
+Asset: The player characters may bring hunting gear or a hunting trap without rolling for Resources during the preparation phase. 
+GARDENER 
+An artisan of nature who looks after the HQ grounds. 
+Prerequisite: Resources 5 
+Development Points: 4 
+Function: All food from the headquarters automatically counts as nutritious. 
+Asset: Can provide the player characters with three doses of weak poison (toxicity 3) or one dose of strong poison (toxicity 6) during the preparation phase, without rolling for Resources. 
+GUARD 
+Guard at the HQ. The players spend 12 points on attributes (max 4) for the Guard and 6 on the skills CLOSE COMBAT, RANGED COMBAT, VIGILANCE, and OBSERVATION (max 3 in any given skill). Physical Toughness 2, mental Toughness 1 (page 166). The guard also gets a weapon at cost 1–2. 
+Prerequisite: — 
+Development Points: 5 (can be purchased multiple times) 
+Function: Protects the HQ from burglars and enemies, as best they can. 
+HOUSE PHYSICIAN 
+Troubled doctor who moves into one of the HQ’s wings. 
+Prerequisite: Infirmary 
+Development Points: 6 
+Function: Automatically treats Broken and two Conditions for all player characters at the headquarters during one scene per mystery. 
+Asset: Provides the group with medical equipment in the preparation phase without rolling for Resources. 
+INVENTOR 
+Eccentric engineer. 
+Prerequisite: Professor 
+Development Points: 5 
+Function: The player characters can build one mechanical item of their choosing before the mystery, regardless of cost. 
+Asset: Provides the group with chemical equipment without rolling for Resources. 
+MYSTIC 
+Recluse exploring the occult. 
+Prerequisite: Occult Library 
+Development Points: 5 
+Function: Can gain a clue about a power item or magic item connected to a vaesen in the current mystery. 
+QUARTERMASTER 
+A former officer with lots of contacts and an organizational mind. 
+Prerequisite: Banker or Patron 
+Development Points: 6 
+Function: All player characters gain +2 Capital, regardless of living standard (page 73). It can be used in the preparation phase or during the mystery. 
+RECRUIT
+A person with the Sight is recruited to the Society. The players spend 12 points on attributes (max 4) for the Recruit and 10 on skills (max 2). The Gamemaster decides their motivation and dark secret. The players and the Gamemaster together create a relationship with each of the player characters, as well as with other recruits. Physical Toughness 1, mental Toughness 1 (page 166). 
+Prerequisite: INSPIRATION 4 
+Development Points: 5 (can be purchased multiple times) 
+Function: Can come along on mysteries as an NPC. 
+STABLE BOY 
+A hardworking youngster. 
+Prerequisite: Stable 
+Development Points: 3 
+Function: All horses the player characters take from the headquarters count as strong.
+
+Six Principles
+Vaesen is governed by six principles that can be drawn on for inspiration or used to define the benchmark for how the world should be portrayed and how its people and creatures ought to behave. These principles are: 
+
+1. Vaesen Are Neither Good nor Evil: The creatures encountered by the player characters have their own daily lives, their own dreams and plans. Some are cooperating with human locals; others are mischievous or downright murderous. Whatever the case, they always have a motive for their actions. 
+
+2. Nature Is Dark and Dangerous: The player characters have their homes and headquarters in the city; that is where they feel most safe. Nature represents the unknown – the other, the different – and anything can happen in the dark woods and lonely mountains. No one will find you if you go missing. 
+
+3. The World Is Changing: The old Mythic North is being swept away by industrialization, and signs of this often violent shift are everywhere: abandoned farms, paupers roaming the streets, and confused vaesen seeking their place in the new world of factories and steam engines. 
+
+4. Knowledge and Cunning Are the Keys to Success: The mysteries of Vaesen can rarely be solved with violence. Instead you must use your abilities to study clues, contextualize the information you discover, and convince humans and vaesen to share their secrets. 
+
+5. The Journey Is Part of the Goal: The mysteries are not merely problems to be solved or overcome – their whole point is to pull the players and the player characters into the story that emerges during the course of the game. Another important focus is each player character’s journey from naive and untrained youngster to seasoned and experienced – and likely scarred – veteran.
+
+6. You Will Not Survive Without Each Other: The player characters will face creatures the mere sight of which can drive a person mad, and beasts that can kill a man with a single blow. The only way to survive is to stick together. The player characters‘ relationships with each other and with important NPCs are crucial, both to the story and for healing injuries that are sustained during the game.
+
+Creating your Character
+CREATING YOUR CHARACTER 
+1. Choose an archetype. 
+2. Choose an age. 
+3. Choose a name. 
+4. Distribute attribute points according to your age. 
+5. Distribute points to skills and Resources according to your age. 
+6. Choose a talent. 
+7. Choose a motivation. 
+8. Choose a trauma. 
+9. Choose a dark secret. 
+10. Choose your relationship with each of the other PCs. 
+11. Roll for mementos. 
+12. Choose equipment.
+PERSONALITY 
+You build your player character based on decisions about their background and personality. These become the foundation of your character; as the game progresses you will get an increasingly clear picture of who your character really is. 
+ARCHETYPE 
+The first thing to do is choose an archetype. Your archetype is a basis for creating the player character, and specifies a number of choices that need to be made. Your choices become a skeleton from which a character of flesh and blood may emerge. The archetype also says something about what you are good at. There are ten archetypes to choose from, all of them described at the end of this chapter. There should not be more than one player character of the same archetype in the group. 
+AGE 
+The next step is to decide the character’s age. There are three age groups in the game: young, middleaged, and old. Pick one, and note your choice on the character sheet. Your age will affect your attributes and skills. 
+
+Age GroupAgeAttribute PointsSkill PointsYoung17 - 25 years1510Middle-aged26 - 50 years1412Old51+ years1314NAME 
+Choose one of the names suggested under your archetype, or make up your own. 
+MOTIVATION 
+Your motivation explains why you are willing to risk your own life to track down and fight vaesen. It helps you play your character. Pick one of those suggested for your archetype, or come up with one yourself. 
+TRAUMA 
+Your trauma is the event that gave you the Sight. It could be an incident from your childhood or something more recent, but usually it has some connection to the supernatural. A trauma can be physical or mental – perhaps you witnessed something terrible, or were involved in an accident.
+DARK SECRET 
+Your dark secret is a problem you are ashamed of and therefore keep to yourself. It may be linked to your trauma or concern something completely different, but either way it will actively affect the game – it makes things difficult for you, in Upsala as well as on your travels. Perhaps you are hounded by government agents, hiding your alcoholism, suffering from delusions, or maybe there is something in your family that no one must know about. 
+
+It is the Gamemaster’s job to make sure that your dark secret comes into focus in your stories. Incorporating the secret into the game makes the mysteries more fun – even if it may cause trouble for your player character. Should your dark secret be resolved, or if you are getting bored with it, you should replace it with something else.
+CHARACTERISTICS 
+Attributes, skills, and talents indicate what your player character is (or is not) good at, and they affect the die rolls you will make as conflicts and exciting or dangerous situations arise in the game. 
+ATTRIBUTES 
+Four core attributes determine your basic abilities: Physique, Precision, Logic, and Empathy. Each attribute has a value between 2 and 5 which determines the number of dice you roll when attempting things that depend on the attribute in question. 
+You may distribute points according to your age between your attributes. The minimum value is 2 and the maximum is 4, except for the key attribute of your chosen archetype, which has a maximum value of 5. 
+PHYSIQUE 
+Physique is a measure of how big and strong you are. It is the ability to take and deliver a beating. It determines things like how long you can go without food or rest, and how easily you can lift a fallen tree trunk. 
+PRECISION 
+Precision is a measure of your coordination and motor skills. 
+LOGIC 
+Logic is your intellectual capacity, which you use to solve problems. Logic also measures how well-educated you are, and can help you tackle certain scary situations. 
+EMPATHY 
+Empathy represents your ability to understand other people, and to persuade, charm, or trick them. Empathy can also help you tackle certain scary situations.
+SKILLS 
+Skills represent acquired knowledge, training, and experience. There are twelve skills, all of them described in chapter 3. Each skill has a level between 0 and 5. The level determines the number of dice you add to your attribute when attempting something difficult or dangerous. 
+
+You may spend a number of points determined by your age. At the start of the game you cannot have more than 2 in any skill, except for the key skill of your chosen archetype, which you may spend 3 points on. Solving mysteries grants you Experience Points which you can use to improve your skills.
+
+? AGILITY (Physique) 
+? CLOSE COMBAT (Physique)
+? FORCE (Physique)
+? MEDICINE (Precision)
+? RANGED COMBAT (Precision)
+? STEALTH (Precision)
+? INVESTIGATION (Logic)
+? LEARNING (Logic)
+? VIGILANCE (Logic)
+? INSPIRATION (Empathy)
+? MANIPULATION (Empathy)
+? OBSERVATION (Empathy)
+TALENTS 
+Talents are tricks, traits, and abilities that can benefit you in various situations. They affect your die rolls, or give you access to powers or resources. See the Talents section. 
+
+Your archetype offers three starting talents to choose from when creating your player character. As you play and gain Experience Points you can get more talents. You may then choose freely among them, including talents from other archetypes. 
+MISCELLANEOUS 
+In order to survive her encounters with vaesen, your player character will need help from her friends, as well as weapons, equipment, and resources to pay for travel and accommodation in remote villages. Finish your character by describing her to the others. 
+
+Here you will also find information on what happens when you are injured, how to prepare for your journeys by acquiring an Advantage, and how your experiences can improve your skills and allow you to buy new talents. 
+RELATIONSHIPS 
+You have a relationship with each of the other player characters; at the start of the game you all know each other. You may have just become acquainted with each other, or been friends your whole lives. For each of the other characters, choose a relationship from your archetype or make one up on your own. The other player must approve the relationship. Relationships should be interesting, without making you enemies – you must be able to travel and work together. 
+RESOURCES 
+Your Resources value indicates how much capital you have at your disposal. A higher value means that you enjoy a nicer home and lifestyle, and have easier access to things you need. The table on the next page shows the meaning of different values. In-game events that affect your living standard will change the value. Normally you start out with the lower value for your archetype. However, this can be raised by spending skill points – each point raises Resources by one step, although your starting value cannot exceed what is indicated in the archetype. Resources can only be raised with skill points before you start playing; once the game has begun you can only increase Resources by purchasing talents.
+
+PERSONAL GEAR AND MEMENTOS 
+Your archetype specifies what personal gear you start with. As opposed to temporary gear that you buy or find during a mystery, you may keep your personal gear from one mystery to the next. In addition to your personal gear you get a memento that will help you play and portray your character. Roll on the table for mementos or decide for yourself what items you have. You can use your memento once per session to heal two Conditions while resting. Explain how you use the item in question. The Gamemaster has the final say. 
+
+Your memento is part of your character – feel free to weave it into your personality or background. It can be broken or lost during a mystery, but by spending one experience point you can have it returned or repaired in time for the next mystery. You may also choose a new one, but in that case you must first play a full mystery without a memento.
+
+DESCRIPTION 
+Before starting the game, you must introduce yourself to the Gamemaster and the other players. For example, you could describe what you look like, how you make the others feel, what you are wearing, and how you should be addressed. Perhaps there are rumors about you, or maybe you have an ability to always become the center of attention in social situations. Are you quiet and mysterious? Do you smell of forest and sweat? Your description should be vivid, but brief. Make some notes on your character sheet, and feel free to draw your character. 
+CONDITIONS 
+During the game you may have to suffer what are called Conditions, which can be likened to injuries or afflictions. These occur when you fail to protect yourself in dangerous situations, or when you push yourself to succeed. 
+
+There are three physical Conditions and three mental ones. 
+
+If you have incurred all Conditions of either type, mental or physical, and then suffer yet another one, you become Broken. The player character cannot continue without medical attention.
+
+Being physically Broken can mean that you are exhausted beyond your limits, or have sustained a serious wound. You might be unconscious or dying. Perhaps you have had your leg crushed or been shot in the gut, writhing in agony. While physically Broken you cannot move or do anything but utter a few words at a time. The Gamemaster decides whether you are able to crawl away, roll to safety, or cry for help. 
+
+When you are mentally Broken you might be terrified, shocked, or confused. Perhaps you have lost all hope of getting through the situation alive, or lost faith in yourself or your companions. Maybe you can no longer make sense of the world and collapse in tears. While mentally Broken you may move and flee the scene, should you wish to do so, but are unable to engage in any kind of sensible dialogue; at best, you can scream or whimper in monosyllabic bursts. 
+
+If you are Broken, you cannot make any successful die rolls, whether physical or mental. You also sustain a critical wound, which means that you must roll on a table to see whether you get an Affliction or an Insight. 
+
+Conditions can help you portray your character: if she is upset, that should be reflected in how you play her. But in the end, it is of course you who decides the extent to which Conditions will affect the way you play your character.
+
+CONDITIONS 
+       Physical Conditions	Exhausted · Battered · Wounded 
+       Mental Conditions	Angry · Frightened · Hopeless
+ADVANTAGE 
+On the way to a mystery you will be able to gain an Advantage, but only one per mystery. The Advantage might be a new acquaintance who will then be available at the location to help you, a mysterious experience that gives you power, or you maintaining or training with your weapons on the way to the location. The Advantage can also be you bonding with another player character, which will later help you work together. 
+You can use your Advantage once per gaming session, which adds +2 dice to a skill test. You must decide whether to use it before rolling the dice, or when pushing the roll, and explain how you use it. After the mystery your Advantage is lost. Next time you must choose another skill as your Advantage.
+EXAMPLES OF ADVANTAGES 
+  · I have trained with my rapier day and night 
+  · Miss Silferdaal seems to like me 
+  · I was blessed by an angel 
+  · I dreamed that I risked my life for my friends 
+  · The conversation with Captain Brungaard resolved our differences once and for all 
+  · With the memory of Professor Brunelius’s kiss, I can do anything
+EXPERIENCE POINTS 
+At the end of each session your player character gains Experience Points (XP). The Gamemaster asks your character questions (see adjacent sidebar), and for every one that you can answer with a “yes” you are granted 1 XP. 
+
+When you have gained 5 XP you can buy an Advance. This means that you may increase the value of a skill by one step, or buy a new talent. You can never have more than 5 in a skill, but there is no limit to how many talents you can purchase. Also note that you are free to choose any talent you want, including those pertaining to other archetypes.
+
+Archetypes
+This section describes ten archetypes, one of which you must choose as a basis for your character. For each archetype there are choices to be made, and suggestions on what to choose. 
+
+For the parts that constitute your character’s personality, you are free to make up your own alternatives – although they must ultimately be approved by the Gamemaster. For those that are referred to as characteristics, however, you must stay within the bounds of your archetype.
+
+LIFE PATHS 
+The quickest method of creating player characters is the default one found in this chapter. However, for those that want some more detail there is an alternative character creation process using random rolls on life path tables (Life Path Tables.pdf)
+
+See Archetypes.pdf for examples
+
+Skills
+Most of what happens in Vaesen can be handled through conversations between the players and the Gamemaster. But sooner or later a player character will attempt something exciting, where success is not guaranteed. In that case, it is time to bring out the dice and let chance decide what happens next. The more proficient your character is in their skill, the greater their chance of success will be. 
+
+This chapter describes using skill tests to determine how well you succeed at certain actions through a combination of skill and luck. It outlines the various stages of the skill test – and what the outcome may look like. We also describe how the test can be made easier or more difficult by the circumstances at hand, such as you being hurt or using your talents, Advantage, or equipment. There are rules for how you may push your roll – that is, putting in so much effort that you suffer negative effects but also get a chance to re-roll the skill test. The text proceeds to explain what happens when you are injured and forced to acquire physical or mental Conditions – as a result either of pushing the roll or failing a skill test. The chapter concludes with a description of the twelve skills featured in the game.
+SKILL TESTS 
+Skills will let you handle or endure difficult situations, if used successfully. There are twelve of them, each linked to a certain attribute. When using a skill, you start by adding the skill value and the attribute together. The sum determines how many six-sided dice you get to roll. Rolling a six counts as a success. You rarely need more than one success in order to pass a skill test. 
+
+Also note that your player character is free to use any skill in the game, even if their skill value is 0; in that case you simply roll the number of dice indicated by the relevant attribute. The same applies if you attempt something that is not covered by a specific skill.
+
+ADDING MODIFIERS 
+A basic rule is that everything affecting the roll is added together. If you have a talent that adds +2 to the roll, and use your Advantage to gain another +2, you get four extra dice to roll. 
+MEANS AND ENDS 
+Before rolling you must tell the others what your player character is doing and what they are trying to achieve. The Gamemaster may ask you to explain further or change your goal. This usually happens when they cannot get a clear picture of what you want to do, or find your goal too unrealistic. For example, you cannot use MANIPULATION to make an enemy kill itself, or heal hundreds of patients without access to medicine, equipment, or beds.
+FAILED TESTS 
+Failing a test means that something detrimental or unexpected happens to you. In most situations the implications are quite obvious. A failed attempt at sneaking means that you are detected. If you are trying to inspire a crowd they may turn against you. Even before the roll is made, the Gamemaster should try to be clear about what happens if the test fails. 
+
+In particularly difficult or dangerous situations, failing a test also means that you become afflicted with a Condition. The Gamemaster should inform you of this before you roll. You suffer a Condition of the same type (physical or mental) as the skill you attempted to use, but are free to choose which one. Not all tests should carry the risk of acquiring a Condition – the player characters would quickly be worn down and the game would come to a halt. 
+
+Some situations are so serious that you immediately become Broken upon failure. Perhaps you are trying not to get hit by a train or defending your seemingly outrageous behavior before the entire commission.
+SINGLE ROLL 
+Whenever your player character tries to do something, you make one roll for the entire situation. If you are attempting to sneak through a castle, you do not roll to see if you reach the gate, then roll again to see if you get to the stairway, and then to go up the stairs. One die roll is enough. Sometimes that means the effect of the skill test can last a long time; for instance, it can take many days to craft something or cure a sick person. The only exception is combat. 
+PUSHING THE ROLL 
+Having failed a test, you can choose to muster your strength and give it one more try. This can only be done once per action, and must happen immediately after failing a test. This is called pushing the roll. 
+
+When pushing your roll, you suffer a Condition. If you are using Physique or Precision you choose a physical Condition – if you are using Logic or Empathy you choose a mental one (the Gamesmaster can allow you to choose a Condition from either category if that suits the narrative). You may then re-roll A every die except the sixes, should there be any. You can push rolls that have already succeeded, since there are situations where multiple successes make you succeed particularly well (see below).
+BROKEN TO SUCCEED 
+When pushing a roll, you get to re-roll all dice except the sixes. The Condition you acquire as a result does not come into effect until after the roll. It is therefore possible to become Broken from pushing a roll. Only after the roll does the Condition Broken render you incapacitated.
+CONDITIONS 
+There are two ways to acquire Conditions. You may have to choose one when pushing a roll, and can also get them as a consequence of failing a test. Acquiring Conditions means that your player character has been negatively affected. 
+
+Conditions are divided into two types: physical and mental. Physical Conditions are linked to Physique and Precision, and mental ones to Logic and Empathy. Physical Conditions include: EXHAUSTED, BATTERED, and WOUNDED, while mental Conditions include ANGRY, FRIGHTENED, and HOPELESS. 
+
+While you are suffering from a Condition you get 1 fewer die for all rolls that are linked to either physical or mental attributes. Also worth noting is that Conditions stack, meaning that two Conditions of the same type will subtract two dice from your dice pool. No matter how many Conditions you have accumulated, you may always roll at least one die. Conditions can be healed through rest and other activities. 
+
+When you already have three Conditions of the same type and acquire a fourth one, you become Broken. This means that you are seriously injured, temporarily insane, or otherwise worn down. You may not perform any actions, physical or mental. In addition, a Broken player character also sustains a critical injury.
+
+LEVELS OF DIFFICULTY 
+In extreme cases, the Gamemaster may decide that it takes more than one success to succeed. This might happen when attempting to persuade a lynch mob to release the accused, or when you are being pursued by a killer across the stormy rooftops of a town. A challenging action requires two successes, while a difficult one requires three successes.
+
+HELPING EACH OTHER 
+Other player characters can increase your chance of passing a skill test by offering to help with whatever you are attempting to do. The Gamemaster decides whether you really do benefit from their actions. You gain +1 to your skill test for every person helping you, to a maximum of +3. 
+PARALLEL ACTIONS 
+When you are doing things at the same time, you cannot help each other. If all of you are trying to sneak past someone or avoid sinking into a swamp, each of you must pass your own test without assistance from the others. However, some skills allow a character whose test is extra successful to give successes to others, and help them that way instead
+
+OPPOSED ROLLS 
+There will be many situations where an NPC or a player character tries to stop you from succeeding. A guard may try to detect you while you are sneaking. You and your friend disagree on something and each try to sway the opinion of the other. In such cases the outcome is decided by opposed rolls.
+
+You and your opponent each make a roll. The person with the most successes prevails. Should both get an equal number of successes, you have neither succeeded nor failed. If your opponent is an NPC the Gamemaster may use one of the three methods described under failed rolls: consequences, Conditions, or requirements. You get what you want, but something goes wrong. 
+
+In a conflict between two player characters, where both roll the same number of successes, each may choose to push the roll to win. If you still get the same number of successes, you must agree on a compromise. Both get something they want, but at a cost.
+ADVANTAGE 
+You can use your Advantage to increase your chance of success. The Gamemaster must be able to explain what makes it helpful, but it is probably best to be generous in their assessments – it would be a shame if the player characters never got to use it. 
+
+Advantages are specific to each mystery and may be used once per session, granting you two extra dice when making a skill test. Using an Advantage must be declared before rolling the dice, or when you decide to push a roll. In other words, you cannot use an Advantage if you have already failed the test. The Advantage you have gained on your journey to a mystery expires when you return to Upsala, but you will of course be able to acquire a new one on your way to the next mystery. The next Advantage you gain cannot be tied to the same skill, you have to choose another. 
+GEAR 
+Most of the items you find during your mysteries are of the everyday variety, but some can be more useful, increasing your chance of passing your skill tests. You might need lockpicks to open something, or a horse to outride a lynch mob. These items add a bonus to your test, usually +1. Some special or even magic items may grant you a greater bonus, but rarely more than +3. For more about gear and its use. 
+EXTRA SUCCESSES 
+Rolling more successes than required means that you are extra successful. You impress yourself as well as others, get more than you wanted, or win renown for your skillfulness. In some cases, the Gamemaster may deem your surge in confidence so great that you heal a Condition. 
+
+Some skills let you use extra successes to achieve certain effects, such as helping another player character who has failed the same kind of skill test. Each effect costs one success. The Gamemaster decides whether or not (and for what purpose) you may use your extra successes.
+THE SKILLS
+
+AGILITY (PHYSIQUE) 
+AGILITY is the ability to run fast, be flexible, and leap out of danger. You make an AGILITY test when attempting to flee, chase someone, jump, or climb. If there are several of you performing the same action you may transfer your successes to others, thus improving their chance to succeed. 
+
+In combat you can use AGILITY to evade attacks or escape. Extra successes can be used to: 
+  · Outmaneuver your enemy. You exchange initiative cards. 
+  · Stress your enemy. The enemy gets a mental Condition (may be chosen once per round). 
+  · Move one zone away from the enemy. 
+  · Make your enemy position itself in a certain part of a zone. 
+  · Perform actions while evading the enemy, for instance performing a ritual or setting fire to things in the room. 
+CLOSE COMBAT (PHYSIQUE) 
+When fighting with melee weapons you use CLOSE COMBAT. By rolling more successes than required, you may: 
+  · Increase the damage you inflict by 1. This effect can be chosen multiple times.
+  · Outmaneuver your enemy. You exchange initiative cards. 
+  · Stress your enemy. Your attack causes mental Conditions rather than physical ones. 
+  · Push the enemy into another zone or a specific part of the zone you are in. 
+  · Make the enemy drop a weapon or item. Picking up an item during combat requires a fast action. 
+FORCE (PHYSIQUE) 
+When using brute strength to lift something heavy, or to endure pain and hardship, you make a FORCE test. The skill can let you survive without food or water, or walk day and night, without suffering a Condition. You may transfer any extra successes to other player characters in the same situation. 
+FORCE can sometimes be used to repair things, such as a wagon with a broken wheel. 
+When engaged in hand-to-hand combat, or when attempting to wrestle or grapple the enemy, you use FORCE. By rolling more successes than required you may: 
+  · Increase the damage you inflict by 1. This effect can be chosen multiple times. 
+  · Outmaneuver your enemy. You exchange initiative cards. 
+  · Stress your enemy. Your attack causes mental Conditions rather than physical ones. 
+  · Push the enemy into another zone or a specific part of the zone you are in. 
+  · Make the enemy drop a weapon or item. Picking up an item during combat requires a fast action. 
+  · Grapple your enemy. They must succeed with an opposed roll to break free.
+MEDICINE (PRECISION) 
+MEDICINE lets you use your expertise to help someone who is hurt. The skill can also provide knowledge about anatomy, diseases, and injuries. 
+
+When a player character has sustained a physical critical injury, they may sometimes require medical assistance in order to survive. Passing your skill test means that they are no longer Broken. Each extra success heals one physical Condition. If you fail and wish to try again, you must first procure more medical supplies, transport the patient to a more suitable location, or get help from someone else with medical training. 
+
+MEDICINE can be used to heal physical Conditions. Your patients must be in bed, safe from immediate harm, and have access to food, drink, and medical equipment. You make a MEDICINE test for each day of treatment. A successful test heals three physical Conditions, distributed between the patients as you see fit. Each extra success heals another three Conditions. Even the Broken Condition can be healed this way. Usually a failed test simply means that a day has been wasted, though the Gamemaster may allow an enemy to act. 
+RANGED COMBAT (PRECISION) 
+When attacking with ranged weapons or explosives you make a RANGED COMBAT test. By rolling more successes than required you may: 
+  · Increase the damage you inflict by 1. This effect can be chosen multiple times. 
+  · Outmaneuver your enemy. You exchange initiative cards. 
+  · Stress your enemy. Your attack causes mental Conditions rather than physical ones. 
+  · Push the enemy into another zone or a specific part of the zone you are in. 
+  · Make the enemy drop a weapon or item. Picking up an item during combat requires a fast action. 
+STEALTH (PRECISION) 
+When attempting to sneak, hide, pick locks, or perform card tricks, you make a STEALTH test. Extra successes make you succeed even better. 
+INVESTIGATION (LOGIC) 
+You can use INVESTIGATION to search a room, understand what happened at a crime scene, examine a dead body, or find what is obscured. If you succeed, the Gamemaster will provide you with clues. If you roll more successes than required, the Gamemaster decides whether you find more clues, understand the context, or simply enjoy the satisfaction of a job well done.
+
+LEARNING (LOGIC) 
+LEARNING is a measure of your education, as well as your ability to establish connections through logic and knowledge. When you need to know something about what is in front of you, you can make a LEARNING test to gain clues. Sometimes the Gamemaster will say that it requires books or other sources of information. In some situations, it is impossible to get any clues. 
+
+You can use LEARNING to translate foreign languages, figure out how best to behave in a certain situation, or understand the workings of a mechanical device, an occult ritual, or a magic item. You can use LEARNING to obtain basic information about a vaesen if the Gamemaster deems it appropriate. By rolling more successes than required you can sometimes gain access to more information.
+VIGILANCE (LOGIC) 
+You use VIGILANCE to notice someone sneaking up on you. The person doing the sneaking makes an opposed STEALTH roll against your VIGILANCE roll. You also use VIGILANCE to follow tracks left by creatures or other people. 
+
+Furthermore, VIGILANCE can be used to interpret situations you are monitoring. If you succeed the Gamemaster provides you with information. You may realize what is about to happen, who the leader of a group is, which people might become a threat, or how best to tackle a situation. If you roll more successes than required, each extra success adds a +1 bonus to a skill test where the information is helpful to you. Failing can mean that you have misread the situation, been detected, or appear hostile to the people you are watching. 
+INSPIRATION (EMPATHY) 
+INSPIRATION is the ability to address a crowd, encourage and guide your friends, and create or understand works of art. When trying to influence the thoughts or actions of a group of people, you make an INSPIRATION test. 
+
+When a player character has sustained a mental critical injury, they sometimes require INSPIRATION in order not to become chronically Broken. If you pass the test they are no longer Broken. Each extra success heals one mental Condition. If you fail and wish to try again, you must first find another way of getting through to them. You may need to take them to a new place, seek help from someone else, or find another way to connect with them. 
+
+INSPIRATION can be used to heal mental Conditions. Your friends must be somewhere safe, have access to food and drink, and be willing to engage in close contact or dialogue with you. You make an INSPIRATION test each day you spend together without doing anything else. A successful test heals three mental Conditions, distributed between your friends as you see fit. Each extra success heals another three Conditions. Even the Broken Condition can be healed this way. Usually a failed test simply means that a day has been wasted, though the Gamemaster may allow an enemy to act. 
+MANIPULATION (EMPATHY) 
+You can use MANIPULATION to influence how other people think, feel, or act by lying, flirting, bribing, negotiating, haggling, or using your social skills in other ways. When MANIPULATING someone you describe what you hope to achieve and what you are doing. You also use MANIPULATION to trade or purchase items and services during the mystery. 
+
+On a success you get what you want. Failure means that the other person distrusts or dislikes you, that you take a Condition, or that they are reinforced in their original convictions. Player characters can make an OBSERVATION test to resist your influence. 
+
+If the other person tries to MANIPULATE you as well, they too describe what they hope to achieve. You must approve each other’s goals before rolling the dice. There are limits to what you can convince people to do or believe. An opposed MANIPULATION test determines who gains influence over the other. 
+
+The losing party can decide to lay down a Condition for doing what the winner wants. Perhaps you must promise not to tell anyone about what they agreed to do, or maybe they first want to know something about you?
+
+When you get more successes than you need, you can use them to impose a mental Condition on your opponent – one for each extra success.
+
+OBSERVATION (EMPATHY) 
+When talking to another person or spending time in their presence, you can use OBSERVATION to understand what they are thinking, feeling, or planning. If you pass the skill test the Gamemaster describes the impression you get from them. For example, the Gamemaster may tell you that they are lying or reveal whether they mean you harm. You have the right to ask specific questions and have them answered. 
+
+Each extra success adds +1 to a test where the information is useful to you. Failing the test means that you give yourself away to the opposite party and must disclose your player character’s thoughts, feelings, and intentions.
+Talents
+In addition to your skills, you have certain tricks and traits that might come in handy. These are called talents, and they are described in this chapter. First we list the talents that are specific to the various archetypes, then the general ones. 
+
+A newly-created player character has one talent, chosen from among the three talents specific to her archetype. Over the course of the game you will be able to purchase more of them by spending Experience Points. You may then choose any talent you want – including those from other archetypes. 
+
+Some talents add bonuses to skill or Fear tests, affecting the number of extra dice you get to roll. The effects of different talents are added to the total.
+THE ACADEMIC’S TALENTS 
+BOOKWORM 
+Gain +2 to LEARNING when looking for clues in books or libraries. 
+ERUDITE 
+You can pass a LEARNING test to establish truths about places and phenomena in the game. You may know that a certain location is renowned for its glassblowers, or that a gang of criminals operates in the area. The Gamemaster judges what is appropriate, and what is reasonable for you to know. You should not be allowed to make up things about vaesen. 
+KNOWLEDGE IS REASSURING 
+Ignore Conditions when making LEARNING tests.
+THE DOCTOR’S TALENTS 
+ARMY MEDIC 
+Gain +2 to Fear tests when frightened by dead or damaged human bodies. 
+CHIEF PHYSICIAN 
+When you use MEDICINE to treat the other player characters, they can heal a total of four Conditions instead of three. The same applies to extra successes. 
+EMERGENCY MEDICINE 
+Ignore mental Conditions when using MEDICINE. 
+THE HUNTER’S TALENTS 
+BLOODHOUND 
+Gain +2 to VIGILANCE when tracking your prey. 
+HERBALIST 
+By utilizing wild herbs, you can use MEDICINE without having access to medical supplies. 
+MARKSMAN 
+Gain +2 to RANGED COMBAT on your first round when successfully ambushing or attacking your enemy.
+THE OCCULTIST’S TALENTS 
+CONJURING TRICKS 
+You can use STEALTH instead of MANIPULATION when performing conjuring tricks to influence people. 
+MEDIUM 
+You can use OBSERVATION to perform seances where you predict people’s futures and contact the dead. Extra successes provide more information, prolong the contact, or cause spirits to materialize. On failure you are given inaccurate information, attacked, or suffer a Condition. 
+STRIKE FEAR 
+You can strike fear with Fear 1. It counts as a slow action and does not work against vaesen. Choose a victim in your zone. Targeted NPCs must pass a Logic or Empathy test. Their roll gains bonus dice equal to the number of friendly individuals in the same zone.
+THE OFFICER’S TALENTS 
+BATTLE-HARDENED 
+You are used to battle. When drawing for initiative, draw two cards and pick one of them. 
+GENTLEMAN 
+You were raised to control your emotions and behavior in social situations, even under pressure. Ignore penalties from mental Conditions when making MANIPULATION tests. 
+TACTICIAN 
+When you pass a RANGED COMBAT test during combat and get extra successes, you may – in addition to the usual alternatives – issue an order to a friend. Doing so costs one success. If they follow your order, they gain +2 to her next test (can be chosen multiple times to give orders to different people). 
+THE PRIEST’S TALENTS 
+ABSOLUTION 
+A player character who confesses to you during resting (page 72) heals three Conditions instead of two. 
+BLESSING 
+Once per session you can bless an object or another player character. The player character, or anyone using the object, gains the Blessed Advantage, adding +2 to a test of their choice. The Advantage expires upon use or when the mystery is over. You can only bless the same character or object once per mystery. 
+CONFESSOR 
+You may use OBSERVATION instead of MANIPULATION when having a confidential conversation.
+THE PRIVATE DETECTIVE’S TALENTS 
+EAGLE EYE 
+You gain +2 to VIGILANCE when trying to interpret a situation you are not involved in. 
+ELEMENTARY 
+Once per session you can ask the Gamemaster to explain how clues are connected. 
+FOCUSED 
+Ignore penalties from Conditions when making INVESTIGATION tests. 
+THE SERVANT’S TALENTS 
+LOYAL 
+Gain +2 on Fear tests in the presence of someone you have sworn to protect. 
+TOUGH AS NAILS 
+Gain +2 to FORCE when fighting unarmed. 
+ROBUST 
+You may ignore penalties for physical Conditions on one roll per gaming session.
+THE VAGABOND’S TALENTS 
+HOBO TRICKS 
+Gain +2 to STEALTH when trying to hide yourself or an object from a wealthy human. 
+SUSPICIOUS 
+Ignore mental Conditions when making VIGILANCE tests. 
+WELL-TRAVELED 
+Once per mystery you can make a MANIPULATION test to create an NPC who is situated in the area, and who you have met before. The Gamemaster decides how they have changed since you last met, and what they think of you now. If the test fails, they are either hostile or in great need of your help. 
+THE WRITER’S TALENTS 
+AUTOMATIC WRITING 
+When channeling spirits through automatic writing you can use INSPIRATION to gain clues. The Gamemaster provides more or less vague clues, predictions about the future, or momentary insights into the thoughts and experiences of your enemies. Extra successes reveal more clues. On failure the Gamemaster decides whether you suffer a Condition, become possessed, or undergo a personality change (you decide what kind) that lasts for a few hours. You can use Automatic Writing once per gaming session. 
+JOURNALIST 
+You may use INSPIRATION instead of MANIPULATION when charming or deceiving someone to gain information. 
+WORDSMITH 
+Ignore penalties from Conditions when making INSPIRATION tests.
+GENERAL TALENTS 
+BATTLE EXPERIENCE 
+Gain +2 to MEDICINE when treating a physical critical injury. 
+BRAVE 
+Gain +1 to all Fear tests. 
+COMBAT-TRAINED 
+Gain +2 to CLOSE COMBAT and FORCE when parrying. 
+CONTACTS 
+Once per session you can decide that you already know a certain NPC, and that your relationship is a positive one. The Gamemaster may disallow it, if the contact would make the mystery less fun. 
+COWARD 
+When wounded in combat, you can make another player character take damage in your stead by passing a STEALTH test. It does not count as an action. If the test fails, you are hit for 1 extra damage. This can be done once per combat encounter.
+DECEPTIVE 
+Gain +2 to MANIPULATION when cheating and deceiving. 
+DEDICATED 
+Once per session you can ignore a mental Condition from pushing a skill test. 
+DEFENSIVE
+Each round you get one extra fast action that may only be used to dodge or parry. 
+DUAL WEAPONS 
+When using dual weapons in close combat, you can use extra successes to hit an additional enemy in the same zone. If you use more successes to increase damage, you may choose which attack deals more damage. 
+DYNAMITER 
+Gain +2 to RANGED COMBAT when using explosives. 
+EMPATHETIC 
+Ignore penalties from Conditions when making OBSERVATION tests.
+ESCAPE ARTIST 
+Ignore penalties from Conditions when using AGILITY to flee. 
+FAMOUS 
+Gain +2 to MANIPULATION when trying to influence someone who has heard of you. 
+FLEET-FOOTED 
+During combat you may move within your own zone without using actions. 
+HOLY SYMBOL 
+You have a religious item that allows you to use INSPIRATION to attack vaesen in close combat, dealing 1 damage.
+LIGHTNING REFLEXES 
+You can draw weapons without using an action. 
+NINE LIVES 
+When rolling for a critical injury, you may decide which of the dice represents the tens and which represents the ones. 
+PET 
+You have a pet that you can use once per session to gain +1 to a test of your choice in a situation where your pet is clearly of use. 
+PUGILIST 
+Deal 1 extra damage when fighting unarmed. 
+SAFETY IN NUMBERS 
+Gain +2 to Fear tests when accompanied by at least two other player characters. In combat this only applies if you are in the same zone. 
+SIXTH SENSE 
+When making INVESTIGATION tests you may spend extra successes to learn if a vaesen has been in the area, gain more or less vague impressions of what kind of vaesen it is, and find out if magic has been used. 
+SPRINTER 
+Gain +2 to AGILITY when trying to outrun or chase down someone. 
+THE LORD’S SHEPHERD 
+Gain +2 when using INSPIRATION to treat a mental critical injury. 
+WEALTHY 
+Increase Resources by 1 (can be purchased multiple times).
+
+Combat, Fear and Gear
+The subject of this chapter is conflict – situations that escalate beyond words, where passing a skill test is not enough, and you must follow the rules stepby-step to determine the outcome. The first section of the chapter presents rules for combat. It describes how to determine the order in which your characters will act during combat, what actions they can perform, and various circumstances that may affect your chances of success. It also explains how movement works during combat, and lays out rules for setting ambushes, chases, and grappling your enemy or breaking free from a hold. 
+
+Next, we provide rules for physical injuries and how they can affect you. This is followed by a section that explains how beholding a vaesen or going through other terrible experiences can cause mental injuries. The rules describe how to make Fear tests to avoid being affected by what is happening before your eyes. 
+
+The subsequent section concerns rules for explosions, fire, poison, damage from falling, and the effects of hunger, thirst, and fatigue. We then describe how you can heal your own injuries and those of others, before the chapter concludes with rules for armor, gear, and weapons.
+COMBAT 
+Combat begins when you or someone else attempts to shoot, hit, or otherwise harm someone. Combat is divided into rounds, approximately 5–10 seconds long. During each round everyone takes turns performing actions. When everyone is done, the round is over and another one begins.
+INITIATIVE 
+To determine the initiative, ten cards numbered 1 to 10 are used, included in this boxed set. Each player in the fight draws a random card at the beginning of each round, and the Gamemaster draws cards for NPCs and vaesen. If you are facing multiple similar opponents, the Gamemaster may choose to draw a single card for them as a group. 
+
+The number on the card determines the order in which you act in the round. Card #1 acts first, card #2 acts second, and so forth until everyone has acted. Your place in the initiative order is called your turn. Your “previous turn” or “your next turn” can occur in the current round or the previous/next round, depending on if you’ve had your turn in the current round yet. 
+
+Place your initiative card by your character sheet so everyone can see the order in which each person acts. The Gamemaster places their card (or cards) in front of them. When all participants have had their turn, the round is over, and a new round begins in the same initiative order. 
+SWAPPING INITIATIVE 
+At your turn in the round, you can choose to you swap initiative cards – and therefore places in the turn order – with another player character or NPC (or NPC group) whose turn comes after yours. They cannot refuse the trade and must take their turn immediately. You cannot swap initiative cards with someone who has already had their turn. The initiative swap remains in the next turn – you don’t get your old initiative back.
+
+All rules effects that are triggered “on your turn” are moved in the turn order when initiative cards are swapped. Your turn doesn’t happen until you use it. 
+Reactions that occur out of turn are not affected by swapping cards – spent fast actions still count as spent, even if you get a new initiative number. 
+VAESEN 
+Some vaesen are so fast that they get several turns per round. For these, the Gamemaster draws one initiative card for each turn.
+ZONES AND DISTANCE 
+The scene where combat takes place is divided into zones. A zone is an area where it only takes a couple of steps to engage the enemy in close combat. To hit enemies one zone away you need throwing weapons or pistols, while reaching someone two zones away requires a rifle. 
+
+Zones can vary in size depending on terrain. Usually it is an open space delimited by walls, stairs, a river or other similar features. When combat begins the Gamemaster can draw a map of the area and mark each zone. The Gamemaster can also mark places where it is possible to take cover. Some obstacles can only be moved through, over or around by performing an action or passing a skill test. For example, it might take a successful FORCE test and a slow action to clear a pile of rubble blocking an exit. 
+CIRCUMSTANCES 
+If a fight takes place under particularly difficult circumstances, the Gamemaster may decide that certain skill tests are harder to pass. For example, when fighting in darkness you may need an extra success to use RANGED COMBAT. 
+
+The Gamemaster should only demand extra successes when the circumstances clearly reduce the chance of success. Fog and dim light may contribute to the atmosphere, but should not affect skill tests. 
+
+Since some creatures are not affected by things like darkness, it can be tactical for them to choose the time and place of the confrontation. The player characters can also use such circumstances to their advantage. The Gamemaster should even encourage this, for instance by providing indications that a certain vaesen is vulnerable to sunlight or cannot stand the smell of soap. 
+FIGHTING VAESEN 
+Everything you have heard about vaesen suggests that they can rarely be killed in combat. Physical confrontations with them will almost always be a matter of holding them off long enough to perform a ritual or escape.
+
+Performing a ritual rarely requires any skill tests. Instead you describe what you are doing. If performed correctly, the ritual will drive the creature off.
+ACTIONS IN COMBAT 
+Humans, animals, and most vaesen can perform two actions per round, one slow and one fast. Slow actions take more time and usually involve a skill test. Fast actions are quick and rarely require a test to succeed; you might shout a word or two, or draw your weapon. If you want, you can perform a fast action instead of your slow one and thus get two fast actions that round. 
+
+Some fast actions are reactions – usually some kind of maneuver to evade attacks. Reactions may be performed at any time during the round. This means that you can use your fast action before your turn, or wait until after your turn to be ready for an enemy’s attacks. When using reactions to protect yourself, you must choose to spend your action before you know whether your opponent’s attack roll fails or succeeds.
+
+DESCRIBING ACTIONS 
+When choosing an action you must also describe how you perform it. This is part of creating the game’s atmosphere and bringing the story to life. Perhaps you plunge yourself into the mud, swearing as you fire your rifle at the creature. Or maybe you crouch down, sneaking toward the enemy, gripping your knife so tight your knuckles turn white. 
+MOVEMENT 
+You can use a fast action to position yourself anywhere within your zone. If the enemy is hiding behind cover or located far away in the zone, you may have to spend a fast action to get close enough to make a close combat attack. Entering an adjacent zone also requires a fast action.
+ATTACKING 
+Attacking an enemy requires a skill test. Unarmed attacks are performed with FORCE. When armed with melee weapons you use CLOSE COMBAT. For ranged attacks you use RANGED COMBAT. 
+
+You need one success to hit your target, dealing damage as indicated on the weapons tables. The damage value shown is the number of physical Conditions that afflict the enemy as a result of your attack. When rolling multiple successes you can choose to deal additional damage. For each success the opponent suffers another Condition.
+RANGED WEAPONS 
+The list of ranged weapons indicates the minimum and maximum range of each weapon, measured in zones. A zero means that you can only use the weapon against an enemy in the same zone. A weapon cannot be used beyond its maximum range. It is possible to use a weapon below its minimum range, but with ?2 dice.
+
+DODGING AND PARRYING 
+When attacked, you can use your fast action to parry in close combat, or dodge a gunshot or some other ranged attack. Both of these are reactions you can use at any time during the round, even if it is not your turn. This means that you can choose to “save” your fast action in case you need to parry later in the round – but you can also use it before your turn.
+
+You dodge or parry by passing a skill test. You use AGILITY to dodge, and FORCE or CLOSE COMBAT to parry depending on whether or not you are armed. 
+
+Each success deducts one success from the enemy’s attack. If you deduct all the enemy’s successes, the attack misses. By rolling more successes than required you may choose to swap initiative cards with your enemy. 
+
+You must declare a dodge or parry before the enemy rolls for their attack.
+GRAPPLING 
+When attempting to grapple your opponent, you make a FORCE test. The attack can be parried normally. If you succeed, your opponent is restrained and cannot perform any actions other than trying to break free or shouting. Preventing your opponent from speaking requires an extra success. The opponent is restrained until you let them go or they break free. Once per round, they may use a fast action to break free using a FORCE roll. You can resist the attempt by spending a fast action (also rolling for FORCE), turning it into an opposed roll.
+FLEEING AND CHASING 
+You can use the AGILITY skill to flee from combat. A successful skill test means that you leave the fight. If you fail, you remain in the same zone. You cannot flee if doing so would require you to move through a zone occupied by an enemy. An opponent standing in the same zone as you can try to prevent you from fleeing, spending a fast action and making an AGILITY test. Each success eliminates one success from your result. If your opponent eliminates all of your successes, you are forced to stay in the fight.
+AMBUSH AND SNEAK ATTACK 
+In order to ambush your opponent, roll for STEALTH against their VIGILANCE. If successful, you automatically act first (gaining the #1 initiative card, if cards are used). Each extra success adds +1 to your first action of the round. If the ambush fails, you are detected, and your opponent wins the initiative. 
+
+If there are several ambushers, only one of you makes a STEALTH test. The result applies to all of you. In some situations, the Gamemaster may decide that no skill test is required in order to surprise your enemy. You then automatically win the initiative.
+DAMAGE 
+By pushing skill tests or taking damage you may suffer Conditions. The type of damage (mental or physical) determines the type of Condition that afflicts you. In combat, the weapon’s damage value indicates how many Conditions you get.
+BROKEN 
+When you have checked off all physical or mental Conditions and suffer another one of the same type, you become Broken. This means that you are incapacitated, and have sustained a critical injury that threatens to kill you or traumatize you so badly that you may never recover – immediately roll on one of the critical injury tables on pages 65–66. You and the Gamemaster together decide exactly what happens to your character, depending on what caused you to become Broken.
+BROKEN BY PHYSICAL CONDITIONS 
+If you become Broken due to physical Conditions, it can mean that you have passed out, are bleeding heavily, have broken several bones, or that you experience such severe pain that you lose control of your body. You automatically fail all tests. All you can do is mumble through the pain and, if the Gamemaster allows it, crawl to safety. If you suffer further damage while Broken you suffer another critical injury.
+BROKEN BY MENTAL CONDITIONS 
+Being Broken as a result of acquiring mental Conditions means that you are overwhelmed by the situation you are in – perhaps you are suffering from delusions or have lost all hope of survival, or maybe you no longer know who or where you are. In any case, you have lost the ability to look after yourself and act with purpose. 
+
+If attacked while Broken by mental Conditions, you can flee, parry, and dodge, making skill tests as usual to see if you succeed. You cannot attack enemies or perform rituals, but are otherwise able to use your body and move around. You are still able speak, although what you say may not be coherent.
+CRITICAL INJURIES 
+When you become Broken you sustain a critical injury. You roll a D66, that is two six-sided dice, after deciding which die represents the tens and which represents the ones. For example, if you roll a three on the first die and a six on the other, the result is 36. 
+
+The Gamemaster will inform you of the injury you suffer from, the associated affliction, and if it is fatal. A fatal injury means that it must be treated by someone else within a certain time limit – or else you will die or remain mentally broken forever. Should that happen, you discard your player character and create a new one. The Society has gained a new member. 
+
+Even if you receive treatment and cease to be Broken, the injury will affect you for the rest of the mystery. Afflictions affect you negatively, such as impaired vision in one eye or a general sense of dread that refuses to let up. Insights are superhuman abilities that help you, for example by giving you visions of the future or infusing you with power that makes it easier for you to pass a certain skill test. 
+
+When you return to your headquarters, you must determine whether your Afflictions and Insights become permanent, or whether they heal or pass during the return trip to Upsala.
+AFFLICTION 
+Afflictions mean that your body has sustained an injury that will not heal, which makes life more difficult for you. An Affliction can affect you once per session – the Gamemaster decides when. The Gamemaster can activate your Affliction in the following ways: 
+  · Increased Difficulty: Adds a penalty to a skill test. The Affliction states which skill it affects, and how many dice are deducted. Some Afflictions affect Fear tests. 
+  · Social Stigma: A non-player character reacts negatively to meeting you. Your injury might make them afraid or hostile. The Gamemaster describes what happens. 
+  · My Own Worst Enemy: A situation which you would normally be able to handle now automatically requires a skill test. Perhaps you acquire a limp and must pass an AGILITY test to make your way up a hill. 
+  · Loss of Control: The Gamemaster assumes control of your actions in a certain situation. This only lasts for a brief moment – then you return to normal. Perhaps your traumatic memories make you question what a friend is saying, or gaps in your memory cause you to confuse important pieces of information? 
+INSIGHT 
+Insights change you, giving you supernatural powers beyond anything normal for a human. You can use an Insight once per gaming session. Insights can be used in the following ways: 
+  · Increased Skill: Adds a bonus to a skill test. The Insight states which skill it affects, and how many dice are added. 
+  · Vision: You have a supernatural experience, a prophetic vision, or an intuitive understanding of a problem. This provides a clue you need to solve the mystery. The Gamemaster sets the scene and gives you a clue. In some cases the Insight cannot be used this way. The Gamemaster decides. 
+  · Open Their Eyes: You can give another human the ability to see vaesen for the duration of one scene. When using this Insight, you must either touch the other person or say something that creates a strong emotional bond between you. 
+  · Control My Own Destiny: You can use your Insight to control what an NPC is thinking or doing. The effect only lasts a moment and you cannot make them harm themself or their friends. The Gamemaster may decide that an NPC cannot be controlled at the moment.
+
+SPECIAL EFFECTS 
+Your player character might end up in, or even cause, an array of dangerous or frightening situations that are not directly involved with combat, although they can certainly occur during combat as well. The rules for the effects of these situations are presented below. 
+FEAR 
+When encountering vaesen, being exposed to magic, or feeling scared or stressed as a result of seeing something horrible like dead bodies, it takes effort not to lose control and become Terrified. You must pass a Fear test. 
+
+Choose whether to tackle the situation with Logic or Empathy. The attribute value indicates how many dice you may roll. Add additional dice equal to the number of player characters present in the scene (maximum +3 dice). Player characters who are Broken or already Terrified do not count. If you become frightened during combat you use the number of player characters situated in the same zone as you. 
+
+On failure you can push the roll by acquiring a mental Condition. Some talents make Fear tests easier to pass. 
+
+The Fear value of the creature, magic, or occurrence indicates how many successes you need. If successful, you manage to control your emotions and can act normally. Extra successes have no effect.
+
+On failure you become Terrified. Whether you flee, freeze, faint, or attack on your next turn is up to you (see below). When you become Terrified, you suffer a number of mental Conditions equal to the Fear value. Each success on your Fear test reduces the number of Conditions that afflict you by 1. 
+
+After your first turn while Terrified, you may try again to overcome your fear on each turn. Make the Fear test again (no action). If you fail, you remain Terrified another round, but you don’t suffer any further mental Conditions. Even if you keep failing the Fear tests, you stop being Terrified when the scene ends.
+
+After your first turn while Terrified, you may try again to overcome your fear on each turn. Make the Fear test again (no action). If you fail, you remain Terrified another round, but you don’t suffer any further mental Conditions. Even if you keep failing the Fear tests, you stop being Terrified when the scene ends. 
+
+Lastly, it should be noted that if you become Terrified in a situation that isn’t particularly hazardous, where the duration of the effect or your exact reaction is irrelevant, the Gamemaster can let you improvise your reaction and how long it lasts – for example if you are examining a mutilated corpse in an otherwise secure location.
+EXPLOSIONS 
+Explosions hit everyone in the same zone. Dodge can be used to dive behind cover or into an adjacent zone. Cover reduces the damage of explosions, but armor does not. 
+
+The damage is determined by rolling a number of dice equal to the Blast Power. The number of successes shows how much damage is dealt to those hit by the explosion. The roll cannot be pushed. 
+
+You use RANGED COMBAT to throw explosives up to two zones (Range 1–2). Extra successes increase the damage. If you fail the skill test, the explosive charge hits a randomly selected adjacent zone.
+
+The table below indicates the Blast Power of different explosives and how many adjacent zones they affect. An explosive charge with one adjacent zone means that the explosion affects the zone where the charge detonates plus one additional zone. Exactly which adjacent zones it affects is determined at random. Mark the adjacent zones with numbers corresponding to a six-sided die. If there are three adjacent zones, they are marked with the values 1–2, 3–4, and 5–6. One die decides which zone is hit. For each zone away from the place of detonation, the damage decreases by 1.
+
+FIRE 
+Catching fire causes you to take damage and suffer a Condition. If the fire is not extinguished, you will keep taking damage at the start of each subsequent round. The amount of damage depends on the intensity of the fire (see the table below), but also on an automatic FORCE test you make to reduce the damage – each success deducts 1 point of damage. The only actions you can perform while burning are attempts to extinguish the fire, flee, or shout.
+
+Extinguishing the fire is a slow action and requires a successful AGILITY test. More intense fires are harder to put out and require a greater number of successes. The successes are saved between rounds, which means that you can start extinguishing it on one turn and finish on your next. 
+
+Each round the fire is not extinguished, the Gamemaster rolls a die. A success means the fire spreads and increases by one step, until most of the body is burning. If you are Broken by physical Conditions while suffering from fire, you automatically take critical injury #64.
+POISON 
+Poison is measured in toxicity. A weak poison has toxicity 3, a strong one has toxicity 6, and an extremely potent one has 9 or more. When you are subjected to poison, you and the Gamemaster make an opposed roll. The Gamemaster rolls as many dice as the poison’s toxicity, while you use FORCE. If successful you do not take any damage. If it is a tie you suffer one Condition. If you fail, you suffer a number of Conditions equal to the Gamemaster’s successes. 
+
+In subsequent rounds you keep acquiring Conditions, though one fewer for each round. If you are Broken by physical Conditions while suffering from poison, you automatically take critical injury #51. The effect of the poison can be canceled by using an antidote or passing a MEDICINE test with as many successes as the poison’s damage. 
+FALLING DAMAGE 
+When you fall three meters or more onto a hard surface, the Gamemaster rolls an attack against you. They roll as many dice as the number of meters you fall, minus 2. For each success you get a physical Condition. Armor offers no protection. 
+HUNGRY, TIRED, THIRSTY 
+If you do not eat, drink, or rest, the Gamemaster will ask you to make a FORCE test, where failing means you suffer a Condition. The Gamemaster decides whether it is physical or mental.
+HEALING INJURIES 
+After violent or frightening encounters, you and your friends may need to heal your Conditions. This section describes ways in which you can help each other. 
+TREATING CRITICAL INJURIES 
+When you have sustained a critical injury that might either kill you or become chronic, someone must treat you with MEDICINE or INSPIRATION before the time limit expires. If it succeeds, you cease to be Broken, while retaining all other Conditions. Extra successes can be used to heal additional Conditions. If the attempt fails, the person treating you must either find help, gather more medical supplies, or move you to a safer location before they can try again. If no one has successfully treated you before the time runs out, you either die or become permanently Broken. Then it is time to create a new player character. 
+MEDICAL AND MENTAL CARE 
+You can use MEDICINE to heal other people’s physical Conditions, but not your own. You and your patients must spend a few hours on treatment, in a (reasonably) secure location.
+
+Likewise, you can use INSPIRATION to cure others of their mental Conditions. In addition to spending a few hours in a safe place, your friends must willingly engage in close contact and dialogue with you. 
+
+If the skill test succeeds, your patients heal a total of three Conditions which you distribute between them. They decide which Conditions are healed. Broken can also be healed this way. Each extra success can be used to heal another three Conditions. Only one attempt can be made per day. 
+
+A patient cannot have their physical or mental Conditions treated by more than one person at a time. However, it is possible for one person to treat the physical Conditions while another treats the mental ones. While you are treating the Conditions of others, you yourself may not receive treatment. That goes for both physical and mental Conditions.
+
+RESTING 
+In addition to medical and mental care, you can heal your own Conditions by resting or engaging in an activity that provides relaxation. Summarize what happens or play a short scene. If alone, you heal one physical or mental Condition of your choice. If the scene involves another person, NPC or player character, or your memento (your memento can only be used once per session) you heal two Conditions. 
+
+Resting can only be done once per day, and the Broken Condition cannot be healed this way. If multiple characters are participating in the same scene, they can all heal Conditions from it.
+
+SERVICES AND ESTABLISHMENTS 
+Finally, it is possible to purchase medical attention or heal Conditions at a local doctor’s office, by recuperating at some finer establishment, traveling lavishly, or resting at a nice hostel or hotel. It counts as resting (above) but must be bought with a roll for Resources.
+GEAR 
+You always have access to your personal gear, but during a mystery you may also need to procure weapons, armor, or other equipment. Such items are called temporary gear and are usually acquired during the mystery’s preparation phase, before leaving your headquarters, but it can also be done on site as the story unfolds. 
+PREPARATORY GEAR 
+Items have a cost level from 1 to 5 that indicates how easy it is to acquire. Equipment is mostly obtained through contacts and status, represented by your Resources value. Your party is expected to procure temporary gear for the expedition at the start of the mystery, before you head out. It is part of the preparation phase. 
+
+Each player rolls the number of dice indicated by their character’s Resources value. The number of successes is used to purchase temporary gear – for example, an item with cost 1 costs one success, while another with level 3 costs three successes. 
+
+You can donate successes to each other, or add them together to purchase more expensive items and decide among yourselves who will carry them, regardless of whose successes paid for them. 
+
+Each player may also decide to move points from their free Capital, but will then have less money to spend during the mystery (see below). In addition, certain Upgrades to the Society’s headquarters can help you acquire temporary gear at the start of a mystery. 
+
+SHOPPING DURING THE MYSTERY 
+Once on site, the PCs are expected to have money, status, or goods that correspond to their respective living standards. When bartering with a non-player character who is reluctant to part with an item, you make an opposed roll for MANIPULATION and add a bonus based on your living standard (see the table above). An item is bought by achieving a number of successes equal to or greater than the item’s cost. 
+
+For normal purchases, from someone willing to sell at a fixed price, the Resources value is rolled to see how much money (or what promise of future payment) the player character is good for. 
+
+Rich individuals can automatically purchase equipment during an ongoing mystery by spending Capital (see the table above). Spent Capital is used up until the next mystery and can be used instead of a success test or added to increase the number of successes. 
+LOSING GEAR 
+All temporary gear is lost at the end of the mystery. It’s assumed to be lost, returned or sold in the time that passes before the next mystery. This also goes for temporary gear found or stolen during the mystery. Only a character’s personal gear remains from one mystery to the next. However, Upgrades of the Society’s headquarters can allow for saving some temporary gear from one mystery to the next.
+ARMOR AND COVER 
+You can wear armor to protect yourself from attacks. Armor gives you a Protection value. When hit by an attack, you roll the number of dice indicated by the armor’s Protection. Each success reduces the damage by 1. Wearing armor also makes you clumsy and imparts a penalty to AGILITY. 
+
+The table above lists the Protection value, the number of dice you must subtract from AGILITY tests, and the cost. 
+
+An example of light armor is a leather cuirass. A medium armor could be to wear a helmet and a chain mail shirt, while heavy armor could mean putting on an old suit of plate mail armor before your encounter with a fearsome vaesen. 
+
+In combat you can also choose to take cover behind walls, barriers, or parts of the terrain to avoid getting hit by ranged weapons. This requires a fast action. While in cover you may also dodge attacks as usual. 
+
+The cover gives you a Protection value. You roll the number of dice indicated by the Protection value, and each success reduces the damage of the attack by 1. Cover does not protect against attacks from enemies in the same zone as you, since the enemy can go around or over the cover and attack you. An exception to this rule is explosions; cover protects against explosions even in the same zone.
+
+GEAR, WEAPONS AND SERVICES 
+Tools, weapons, and other items help you by adding a bonus to your skill tests. The bonus indicates the number of extra dice you may roll. You may also visit various establishments or purchase services that can make things easier during the mystery or serve as a place for healing Conditions. Each service applies to the whole party, rather than any individual character. 
+
+The weapons tables show a list of weapons the characters might use. Damage indicates how many Conditions the opponent suffers if hit. Range shows which zones you can reach with your attack. Range 0–1 means you can attack enemies in your zone and adjacent zones, while 1–3 means you can attack enemies one, two, or three zones away, but not enemies in your own zone. Bonus indicates how many dice you may add to your success test when trying to hit your enemy. Skill shows which skill to roll for.
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,9 @@
+After completing a mystery you must together answer the following questions. Each affirmative answer yields one Development Point.
+1. Did you play at least one scene at the headquarters?
+2. Did you encounter a new type of vaesen?
+3. Did you visit a place of magic?
+4. Were you subjected to magic?
+5. Did you bring occult books or other important items back to headquarters?
+6. Did you make important contacts?
+7. Was the mystery particularly difficult and epic?
+8. Did you solve the mystery?
