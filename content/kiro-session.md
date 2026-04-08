@@ -3,19 +3,6 @@
 ## Context
 These are notes for an ongoing Kiro CLI chat session to assist with a Vaesen TTRPG campaign.
 
-## File Structure
-- `/mnt/d/Obsidian/Vaesen/` — working directory
-- `Adventures/1. Intro Session.md` — session notes for the intro adventure (sessions 1–4)
-- `Adventures/2. Dance of Dreams.md` — session notes for the Dance of Dreams adventure (sessions 5–6)
-- `Adventures/3. New Adventure.md` — session notes for the current ongoing adventure (session 7+)
-- `Reference/Vaesen PH.txt` — plain text version of the Vaesen player handbook (parseable)
-- `Reference/Vaesen PH.mht` — MHT version of the handbook (parseable but noisier)
-- `Reference/Vaesen PH.docx` — original Word doc (not directly readable)
-- `Reference/Archetypes.pdf` / `Archetypes.txt` — archetype reference
-- `Reference/Life Path Tables.pdf` — life path tables (PDF, not directly readable)
-- `Reference/Questions for Experience Points.txt` — XP questions asked at end of each session
-- `Reference/Questions for Development Points.txt` — DP questions asked after completing a mystery
-
 ## XP Questions (per session, 1 XP per yes)
 1. Did you participate in the session?
 2. Did you confront any vaesen?
@@ -69,12 +56,14 @@ Castle spreadsheet: https://docs.google.com/spreadsheets/d/1AjeOQvpPHPOMFaLM1vZo
 - Olaus tried to recruit party to the [[Rosenberg Faction]] (believes all Vaesen are evil — party declined)
 - Reward: [[Nora's Journal|Nora's journal]]; Séance Parlor built at castle
 
-### Adventure 3: New Adventure ([[3. S.o.a.K.|3. New Adventure.md]]) — ONGOING
-- Linnea received letter from [[August T. Lysander]] (Stockholm, wealthy occult enthusiast)
-- Murder at the [[Royal Opera]] in Stockholm — tenor [[Sverker]] killed (throat ripped open mid-note)
-- Party conducted séance with Sverker: was singing near [[St. James Church]], something watched from shadows
-- Party heading to Stockholm by train
-- Contact: [[Sigrund Hierta]] (journalist) asked to set up a local Stockholm contact
+### Adventure 3: A Stranger in Stockholm ([[Adventures/3. S.o.a.K.|3. S.o.a.K.]]) — ONGOING
+- Client: [[August T. Lysander]] (wealthy Stockholm occultist) — believes a vaesen killed tenor [[Sverker]] von Essen at the [[Royal Opera]]
+- Séance with Sverker: something watched him from shadows near [[St. James Church]] as he sang; throat ripped open mid-note
+- Conductor [[Mortimer Cronstedt]] also dead (turtle soup, ~6 weeks prior) — possible connection
+- Party arrived in Stockholm, checked into [[Golden Peace]] hotel; met contact [[Erik Johan Stagnelius]] (poet, Sverker's close friend)
+- Erik names understudy [[Rufus Holberg]] as prime suspect — Sverker refused to step aside for him
+- Other leads: [[Sigrid]] (National Archives researcher), [[Professor Liebholz]] (ghost show at [[Bern's Salon]]), Police Commissioner [[Gabriel Utterson]] (Lysander's friend)
+- [[Abraham]] has a green gemstone jewelry piece left by [[Franzibald Hansen]] (Danish author, has the Sight, works with the Society) to research
 
 ### Key Recurring NPCs
 - [[Linnea Elfeklint]] — last original Society member, lives at Uppsala asylum, mentor figure
@@ -97,4 +86,4 @@ After each session, user will ask for a review. At that point:
 3. Add/update `[[wikilinks]]` throughout all adventure files for NPCs, locations, factions, vaesen, items, and player characters
 4. Create or update files in `NPCs/`, `Locations/`, `Factions/`, `Vaesen/`, `Items/`, and `Characters/` with any new details
 5. Update the **Key Recurring NPCs** section in this file
-6. Update the relevant **Adventure summary** section in this file
+6. Update the relevant **Adventure summary** section in this file — keep it short and concise, most important details only
