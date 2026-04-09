@@ -10,3 +10,5 @@ A rusty, ornate key found on the body of Ulf in the Laboratory on the 3rd floor 
 
 ## Adventure Appearances
 - [[1 - Intro Session|Intro Session]] — found on Ulf's body in the castle laboratory
+
+#uppsala

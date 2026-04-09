@@ -12,3 +12,5 @@ An asylum in Uppsala where [[Linnea Elfeklint]] lives. A safe haven for people w
 - [[1 - Intro Session|Intro Session]] — where the party first met Linnea
 - [[2 - Dance of Dreams|Dance of Dreams]] — party visited Linnea here to consult about Olaus Klint
 - [[3 - S.o.a.K.|New Adventure]] — party visited Linnea here; she shared August T. Lysander's letter
+
+#uppsala 

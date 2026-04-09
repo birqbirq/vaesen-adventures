@@ -14,3 +14,5 @@ A collection of forbidden occult books found in the library of [[Castle Gyllencr
 
 ## Adventure Appearances
 - [[1 - Intro Session|Intro Session]] — discovered in the castle library
+
+#uppsala #resolved

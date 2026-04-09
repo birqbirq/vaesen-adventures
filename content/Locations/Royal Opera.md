@@ -10,3 +10,5 @@ The Royal Opera in Stockholm. Site of the murder that kicks off Adventure 3.
 
 ## Adventure Appearances
 - [[3 - S.o.a.K.|New Adventure]] — murder scene; reason the party is traveling to Stockholm
+
+#stockholm 

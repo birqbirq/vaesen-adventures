@@ -13,3 +13,5 @@ Coachman and valet to [[August T. Lysander]].
 
 ## Adventure Appearances
 - [[3 - S.o.a.K.]] — drove the party from the station to the Golden Peace
+
+#stockholm

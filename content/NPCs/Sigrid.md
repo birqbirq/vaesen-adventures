@@ -15,3 +15,5 @@ Archivist at the National Archives in Stockholm. Knowledgeable resource for hist
 
 ## Adventure Appearances
 - [[3 - S.o.a.K.]] — recommended by Lysander as a research resource
+
+#stockholm

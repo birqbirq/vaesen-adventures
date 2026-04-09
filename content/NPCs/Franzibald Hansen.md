@@ -17,3 +17,5 @@ Danish author and acquaintance of Abraham. Has the Sight and is working with [[T
 
 ## Adventure Appearances
 - [[3 - S.o.a.K.]] — Abraham's advantage for this mystery; left the green gemstone jewelry for research
+
+#uppsala

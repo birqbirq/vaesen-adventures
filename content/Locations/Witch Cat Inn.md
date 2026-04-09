@@ -19,3 +19,5 @@ An inn on the road to Sigtuna by Lake Mälar. Run by [[Sami Harjula]]. Site of A
 
 ## Adventure Appearances
 - [[2 - Dance of Dreams|Dance of Dreams]] — primary location of the adventure
+
+#sigtuna 

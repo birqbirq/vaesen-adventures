@@ -22,3 +22,5 @@ The last surviving member of [[The Society]]. Elderly woman living at the Uppsal
 - [[1 - Intro Session|Intro Session]] — introduced the party to the Society and the castle; gave them the key
 - [[2 - Dance of Dreams|Dance of Dreams]] — consulted about Olaus Klint and the Witch Cat Inn invitation
 - [[3 - S.o.a.K.|New Adventure]] — received letter from August T. Lysander; briefed party on the Stockholm murder
+
+#uppsala

@@ -27,3 +27,5 @@ Deceased tenor at the [[Royal Opera]] in Stockholm. Murdered mid-performance. Ce
 
 ## Adventure Appearances
 - [[3 - S.o.a.K.]] — murder victim; party conducted a séance to gather clues
+
+#stockholm #investigating

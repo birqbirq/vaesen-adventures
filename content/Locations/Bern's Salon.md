@@ -10,3 +10,5 @@ Venue in Stockholm hosting a spiritualist ghost show by [[Professor Liebholz]].
 
 ## Adventure Appearances
 - [[3 - S.o.a.K.]] — noted from the City Gazette as a location of interest
+
+#stockholm

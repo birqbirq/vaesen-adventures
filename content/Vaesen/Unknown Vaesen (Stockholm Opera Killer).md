@@ -13,3 +13,5 @@ Unknown. Active. The party is traveling to Stockholm to investigate.
 
 ## Adventure Appearances
 - [[3 - S.o.a.K.|New Adventure]] — the mystery the party is currently pursuing
+
+#stockholm #investigating

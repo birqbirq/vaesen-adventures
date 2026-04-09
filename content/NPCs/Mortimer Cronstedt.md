@@ -12,3 +12,5 @@ Deceased conductor of the [[Royal Opera]] in Stockholm. Died approximately six w
 
 ## Adventure Appearances
 - [[3 - S.o.a.K.]] — death reported in the City Gazette; possible connection to the opera murders
+
+#stockholm #investigating

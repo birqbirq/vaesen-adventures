@@ -10,3 +10,5 @@ A church in Stockholm where [[Sverker]] was practicing before his murder.
 
 ## Adventure Appearances
 - [[3 - S.o.a.K.|New Adventure]] — referenced in Sverker's séance as the location where he was stalked before his death
+
+#stockholm 

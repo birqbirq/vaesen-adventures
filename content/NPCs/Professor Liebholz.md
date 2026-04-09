@@ -10,3 +10,5 @@ Presenter of a spiritualist ghost show at [[Bern's Salon]] in Stockholm.
 
 ## Adventure Appearances
 - [[3 - S.o.a.K.]] — noted from the City Gazette as a person of interest
+
+#stockholm

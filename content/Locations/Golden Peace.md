@@ -14,3 +14,5 @@ Hotel and tavern in Stockholm, located on the southeast side of the Town Between
 
 ## Adventure Appearances
 - [[3 - S.o.a.K.]] — party's base of operations; site of the turtle soup death
+
+#stockholm 

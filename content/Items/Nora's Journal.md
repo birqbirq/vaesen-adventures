@@ -5,7 +5,9 @@ A journal belonging to [[Nora]], deceased wife of [[Sami Harjula]]. Given to the
 
 ## Details
 - Given to the party by Sami after [[Oskar Hjort|Oskar]]'s ghost was laid to rest
-- Contents not yet detailed in session notes
+- Read by the party; specific contents not recorded in session notes
 
 ## Adventure Appearances
 - [[2 - Dance of Dreams|Dance of Dreams]] — received as a reward at the end of the adventure
+
+#sigtuna #resolved

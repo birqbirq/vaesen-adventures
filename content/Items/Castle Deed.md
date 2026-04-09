@@ -10,3 +10,5 @@ The deed to [[Castle Gyllencreutz]], signed by [[Linnea Elfeklint]]. Was nailed 
 
 ## Adventure Appearances
 - [[1 - Intro Session|Intro Session]] — taking the deed was the key action that defeated Manfred and resolved the adventure
+
+#uppsala #resolved

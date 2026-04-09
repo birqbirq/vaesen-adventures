@@ -21,3 +21,5 @@ Deceased wife of [[Sami Harjula]]. Her spirit lingered at the [[Witch Cat Inn]].
 
 ## Adventure Appearances
 - [[2 - Dance of Dreams|Dance of Dreams]] — referenced throughout; her spirit manifested during the investigation
+
+#sigtuna
