@@ -14,4 +14,4 @@ Police Commissioner of Stockholm. Close friend of [[August T. Lysander]].
 - [[August T. Lysander]] — close friend; shared case details with him
 
 ## Adventure Appearances
-- [[3. S.o.a.K.]] — quoted in the City Gazette; recommended as a contact by Lysander
+- [[3 - S.o.a.K.]] — quoted in the City Gazette; recommended as a contact by Lysander

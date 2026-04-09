@@ -17,4 +17,4 @@ Daughter of [[Sami Harjula]], innkeeper of the [[Witch Cat Inn]]. Was visited ni
 - [[Oskar Hjort]] — was visited by his ghost nightly; he guided her to tell his story
 
 ## Adventure Appearances
-- [[Adventures/2. Dance of Dreams|Dance of Dreams]] — performed the shadow play; key to uncovering Oskar's story
+- [[2 - Dance of Dreams|Dance of Dreams]] — performed the shadow play; key to uncovering Oskar's story

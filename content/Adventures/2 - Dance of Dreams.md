@@ -1,0 +1,102 @@
+Second adventure
+# 2/17/26
+*[[Killian]], [[Abraham]], [[Niklas Natt|Niklas]]*
+*S5, Several days later*
+
+[[Algot Frisk|Algot]] the butler brings us an envelope from [[Olaus Klint]]. It's an invitation to the theater to see THE DANCE OF DREAMS at the [[Witch Cat Inn]] on the way to the town of Sigtuna by Lake Malar. I ask Algot if he's heard of Olaus Klint and he thinks the name is familiar. Might be a relative of one of the original families that created [[The Society]]. Doesn't think that Klint was the family name of the original family that he's thinking of. He suggests we dress up or at least be presentable.
+
+We look for Society history in the library and find a handwritten journal written by Carl Linnaeus. [[Abraham]] searches in it and finds in Carl's notes where he's talking about the history of the Society and says it started out of a different society ([[Order of Artemis]]) and 1 of the first members with the Sight was Mats Rosenberg. He remembers seeing that name before so he searches in another book and finds the lineages of the Society and find Olaus' parents - a Rosenberg married a Klint. Olaus is a direct descendant of the founders of the Order of Artemis.
+
+He also finds a book called The Hulu Fires. It was a hugely devastating fire in Upsala that destroyed a bunch of [[The Society]]'s stuff and records. The [[Witch Cat Inn]] was a casualty and has since been rebuilt. The innkeeper at the time of the rebuild had the Sight and was in the Society. He was named [[Pyri Harjula]]. Algot doesn't recognize the name.
+
+We hop in the carriage and head to go see [[Linnea Elfeklint|Linnea]]. We head down to room 120 and she's happy to see us. Says [[Olaus Klint|Olaus]] is a private detective maybe. His family had a falling out with [[The Society]] - there were differences between Carl Rosenberg's lineage and the Klints. Doesn't remember the story but knows they weren't in the society anymore. There was bad blood. The [[Rosenberg Faction|Rosenbergs]] thought that Vaesen were evil and of the devil. The Society believed Vaesen could be either. They started a separate society to rid the Earth of Vaesen/the Devil.
+
+Linnea holds the letter and doesn't have any bad feelings about it. She can usually tell. She doesn't recognize the character names from the play.
+
+We head out as a thunderstorm starts and we get soaked.
+
+In the carriage on the way there we decide to have a séance to try to talk to Pyri about the inn.
+
+- Are there any secret passages or rooms? No
+- Do you know who was responsible for the Hulu fire? Giants. They come from Finland. They came and tried to drive all humans out of Scandinavia. Matriarch targeted hunters and miners for destroying nature.
+- What can you tell us about Olaus Klint? Nothing
+- What about the Klints or Rosenbergs? Rosenbergs are an interesting bunch. They started the Society and then left after the fire, believing that they needed to kill all Vaesen. They created a new society without a name led by a Finnish priest daughter named Johanna Lampinen. Both societies would end up in the same place and violence would ensue. Later in my life, the Rosenberg society started dispersing.
+- He wasn't a member of the Order of Artemis, he joined after the rename.
+- He died of old age and stress from running the inn
+- He keeps an eye on his grandson running the inn - Sami and great granddaughter
+- Sami doesn't have the Sight
+- Message for Sami: Let him know I'm proud of him
+- Is there danger awaiting us at the inn? Not that he's aware of
+- He believed Vaesen had room for good and maybe they could solve the evil Vaesen problem
+- The 3 surviving members of the Hulu fire met at his inn
+
+- Baroness Katja Kokola
+- Professor Albert Wredenhielm
+- Countess Hilma of Thulenstierna
+
+- I ask if he's at peace and if we can do anything to help but he doesn't answer and it feels tense
+- Should we be wary of anything at the inn? "Don't go in the cellar." He won't elaborate. There's static in the air.
+
+We're passing the lake roiled by the storm. Lots of lightning, lots of rain, wind knocking trees down.
+
+  
+We make it to the Inn. And older man (40's?) is leaning by the door. He greets us and welcomes us. He's Olaus. Well groomed, pointy nose, sharp eyes, worn jacket and a hat. Very outgoing, friendly, interested in meeting us.
+
+# 3/3/26
+*[[Killian]], [[Abraham]], [[Niklas Natt|Niklas]]*
+*S6D1*
+
+Olaus tells us the daughter of the inn, [[Sophia]] has built a whole shadow theater and has put together this play that she'll put on for us. He says that people that stay at the inn for roughly the last month have been having similar nightmares - see themselves as a well-educated man traveling the world and end up going to this inn and have our throats slit and we died. There are rumors of a ghost, and he thinks it's a Vaesen. He wants us to find out about the nightmares.
+
+Tonight is the first night of the play. It might be related to the nightmares. There are 3 other people staying in the inn, the owner [[Sami Harjula|Sami]] and his daughter Sophia, a waiter and a cook. [[Nora]] (Sophia's mother) is dead. She wanted to be an actor. She was being haunted by a ghost but nobody really believed her - thought she was being dramatic. He thinks Sophia is being visited by the same ghost.
+
+He sent the invitation just hoping there was someone in the Society that would come help.
+
+He takes us into the inn and shows us around. Sami has beautiful eyes but he's not having nightmares. We order stew and brew.
+
+There are 2 guys at the closer tables and a female at the farther one. Closest guy might be a priest. Other guy is rugged and dirty, pretty well built and study. Woman is gaunt, thin, and has noticed us looking at her.
+
+We get rooms and then head back down to talk to people. [[Niklas Natt|Niklas]] asked Sami about the play, who was upset that Sophia is doing it, and he went and yelled at her. She runs off and we find her in the attic, which is where her shadow theater is. [[Niklas Natt|Niklas]] sneaks up behind her and scares her but tells her that we want to see the play.
+
+She starts the play. As she talks, her voice changes and gets gruff, her posture changes, and she looks possessed. The play is about a well-known guy named [[Oskar Hjort|Oscar]] who was a playwright and put on plays around the world. He started seeing things and ended up penniless and homeless until a guy named [[Albert Wredenhielm|Albert]] rescued him. Oskar is killed and cut up. Suddenly a ghost comes flying at us and says "welcome" and then disappears down through the trapdoor. Sophia comes back to herself but we all freaked out and ran downstairs.
+
+She says the ghost is named Oskar and he's been visiting her every night, helping her to write the story, build the theater and tell her what to say. He gets angry when he talks about Albert, and sometimes he mentions her great grandfather Pyri, and that seems to make him angrier. She said this ghost knew her mom too. He talked to her about the theater and talked her into following the traveling troupe of performers.
+
+[[Niklas Natt|Niklas]] has questions for Sami about what just happened but we needed to quit the session
+
+# 3/10/26
+*[[Killian]], [[Abraham]], [[Niklas Natt|Niklas]]*
+*S6D1*
+
+[[Olaus Klint|Olaus]] has heard of [[Oskar Hjort]] - he knows a little bit, but has more questions than answers.
+
+- Oskar was in Upsala after his theater career ended. His trail went cold after that. He suggests researching at the castle for more info. He thinks Oskar ended up there.
+- [[Albert Wredenhielm|Albert]] was one of the higher-ranking members of [[The Society]] at the time. Not the leader, but a main person and one of the most experienced.
+- Albert came from Finland where he was the leader of the HQ when it burned down. He's referenced in the séance above
+- [[Oskar Hjort|Oskar]] got here roughly 50 years ago
+
+I talk to Sami about the garden and he says that his wife had a conservatory building in the back but it's gone to shit. I press him on letting us get in and see it. Everyone but us and Sami all spontaneously fall asleep, the lamps and fire turn blue and give no heat, and the temperature drops to freezing. We don't freak out this time. Sami says it's Nora and we need to get out.
+
+We sit at a table and try to have a séance to contact Nora or whoever it is. They don't answer. Sami comes walking down the stairs pretty chill but he doesn't acknowledge us and heads out the front door. We follow. He heads toward the stable and goes in. Sami says he has to pay and starts climbing on one of the stalls. We pull him down. He says he killed someone and needs to pay. He falls asleep.
+
+I can't wake him up. We drag him back to the tavern.
+
+[[Niklas Natt|Niklas]] tries to talk to the spirit again and says we're here to help and aren't a threat. The 3 sleeping people at the tables stand up and slowly open their eyes and stare off into space. The priest guy starts coughing. Sven stands up and starts shuffling toward us. The rest start shuffling toward us too. They surround us and point and call us the names of the founders and call Sami Pyri. I tell them they can't judge us on the actions of others and that Sami doesn’t bear the sins of his grandfather. They slump down and say 'if you're truly here to help me you need to find where I lay and rectify the wrongs'. [[Niklas Natt|Niklas]] asks for more info about where he is and he says he feels maggots and dirt and a closed-in space. If we find the place, we'll see a shovel nearby. I saw we'll do our best to find him and lay him to rest.
+
+Olaus is scared shitless and doesn't want to go with us.
+
+We head to the conservatory but it's mostly just rubble. We head over to the root cellar in the northwest. There's a shovel leaned up against it. We open the door and hear whispers of the past - "albert my love" "my right to decline" "you were my everything. You let Pyri kill me and I will" then the voices die out. There's rotten food and maggots and rot and gross. We see pieces of bone scattered on the floor that have been picked clean over time. We dig around and find all the parts of Oskar. Abraham tried to figure out what we need to do next and tried really hard and got a condition - hopelessness. We figure out that we need to lay his bones to rest.
+
+We take a horse and cart and head toward the church. The cemetery gate is swinging open in the wind. We take the body parts and [[Abraham]] realizes we need to find consecrated ground and have to carry it over a wall, not through the gate. As we start digging the hole, we feel Oskar watching us. He's not feeling angry and vengeance, he's feeling peace and serenity. Once we've buried him, his ghost dissipates and he's now at rest.
+
+We head back to the tavern and put the horse and cart back in the stable. In the inn, everyone is waking up. I get in Sami's face and ask him what he regrets and ashamed of. He swears he's as happy as he ever has been. My insight tells me he's not lying and there's no regret or shame. He was just being punished for what Pyri did. I tell him that his grandfather was a bad guy and he says he's shutting the tavern and needs to think.
+
+[[Sami Harjula|Sami]] give us [[Nora's Journal|Nora's journal]].
+
+[[Olaus Klint|Olaus]] tells us he's impressed and tells us we should join the [[Rosenberg Faction|Rosenbergs]]. He wants us to help with the Vaesen problem. He believes that all Vaesen are evil and need to be purged.
+
+We hit the hay. In the morning, we have breakfast before we head out.
+
+When researching, we find that [[Oskar Hjort|Oskar]] was a [[Revenant]]
+
+We all got XP and decided to build the Séance room in the [[Castle Gyllencreutz|castle]].

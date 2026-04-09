@@ -20,4 +20,4 @@ Innkeeper of the [[Witch Cat Inn]]. Grandson of [[Pyri Harjula]]. Does not have 
 - [[Oskar Hjort]] — Oskar's ghost haunted the inn and possessed Sami
 
 ## Adventure Appearances
-- [[Adventures/2. Dance of Dreams|Dance of Dreams]] — innkeeper; central to the haunting investigation
+- [[2 - Dance of Dreams|Dance of Dreams]] — innkeeper; central to the haunting investigation

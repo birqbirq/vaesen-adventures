@@ -10,4 +10,4 @@ A handwritten journal by Carl Linnaeus found in the library of [[Castle Gyllencr
 - Also references the Hulu fire and its impact on the Society
 
 ## Adventure Appearances
-- [[Adventures/2. Dance of Dreams|Dance of Dreams]] — researched by Abraham to learn about Olaus Klint's background
+- [[2 - Dance of Dreams|Dance of Dreams]] — researched by Abraham to learn about Olaus Klint's background

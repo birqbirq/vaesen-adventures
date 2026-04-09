@@ -20,4 +20,4 @@
 Defeated. Ghostly spirit fled the castle after the deed was taken. Presumed gone.
 
 ## Adventure Appearances
-- [[Adventures/1. Intro Session|Intro Session]] — primary villain; defeated at the end of the adventure
+- [[1 - Intro Session|Intro Session]] — primary villain; defeated at the end of the adventure

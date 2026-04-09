@@ -25,4 +25,4 @@ Poet and actor based in Stockholm. Close friend of [[Sverker]] von Essen. Perman
 - [[Abraham]] — new acquaintance; impressed by his poetry; wants a copy of his novel
 
 ## Adventure Appearances
-- [[3. S.o.a.K.]] — recommended by Sigrund as a local contact; met at the Golden Peace; provided early leads on suspects
+- [[3 - S.o.a.K.]] — recommended by Sigrund as a local contact; met at the Golden Peace; provided early leads on suspects

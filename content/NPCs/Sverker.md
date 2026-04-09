@@ -26,4 +26,4 @@ Deceased tenor at the [[Royal Opera]] in Stockholm. Murdered mid-performance. Ce
 - [[Mortimer Cronstedt]] — conductor; had decided to replace Sverker with Rufus before both their deaths
 
 ## Adventure Appearances
-- [[3. S.o.a.K.]] — murder victim; party conducted a séance to gather clues
+- [[3 - S.o.a.K.]] — murder victim; party conducted a séance to gather clues

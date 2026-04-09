@@ -11,4 +11,4 @@ Deceased conductor of the [[Royal Opera]] in Stockholm. Died approximately six w
 - Niklas wants to investigate whether anyone took out life insurance on him
 
 ## Adventure Appearances
-- [[3. S.o.a.K.]] — death reported in the City Gazette; possible connection to the opera murders
+- [[3 - S.o.a.K.]] — death reported in the City Gazette; possible connection to the opera murders

@@ -8,4 +8,4 @@ A journal belonging to [[Nora]], deceased wife of [[Sami Harjula]]. Given to the
 - Contents not yet detailed in session notes
 
 ## Adventure Appearances
-- [[Adventures/2. Dance of Dreams|Dance of Dreams]] — received as a reward at the end of the adventure
+- [[2 - Dance of Dreams|Dance of Dreams]] — received as a reward at the end of the adventure

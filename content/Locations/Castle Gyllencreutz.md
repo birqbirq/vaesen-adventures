@@ -28,6 +28,6 @@ The party's headquarters, located in Uppsala. Former base of [[The Society]]. No
 [Castle Gyllencreutz Spreadsheet](https://docs.google.com/spreadsheets/d/1AjeOQvpPHPOMFaLM1vZollt79eVSl2LAPMR0tsC4bLY/edit?usp=drive_link)
 
 ## Adventure Appearances
-- [[Adventures/1. Intro Session|Intro Session]] — explored and cleared; given to the party by Linnea
-- [[Adventures/2. Dance of Dreams|Dance of Dreams]] — party researched Society history in the library here
-- [[3. S.o.a.K.|New Adventure]] — party conducted séance with Sverker here before departing for Stockholm
+- [[1 - Intro Session|Intro Session]] — explored and cleared; given to the party by Linnea
+- [[2 - Dance of Dreams|Dance of Dreams]] — party researched Society history in the library here
+- [[3 - S.o.a.K.|New Adventure]] — party conducted séance with Sverker here before departing for Stockholm

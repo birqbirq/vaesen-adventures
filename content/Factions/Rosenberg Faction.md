@@ -18,4 +18,4 @@ A splinter group that broke away from [[The Society]] after the Hulu fire. Belie
 - [[Olaus Klint]] — private detective; tried to recruit the party
 
 ## Adventure Appearances
-- [[Adventures/2. Dance of Dreams|Dance of Dreams]] — Olaus Klint tried to recruit the party; party declined
+- [[2 - Dance of Dreams|Dance of Dreams]] — Olaus Klint tried to recruit the party; party declined

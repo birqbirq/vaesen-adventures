@@ -34,5 +34,5 @@ A secret organization of people with the Sight, dedicated to understanding and c
 - [[Rosenberg Faction]] — splinter group
 
 ## Adventure Appearances
-- [[Adventures/1. Intro Session|Intro Session]] — party learns of the Society and inherits the castle
-- [[Adventures/2. Dance of Dreams|Dance of Dreams]] — party researches Society history; Olaus Klint's family connection revealed
+- [[1 - Intro Session|Intro Session]] — party learns of the Society and inherits the castle
+- [[2 - Dance of Dreams|Dance of Dreams]] — party researches Society history; Olaus Klint's family connection revealed

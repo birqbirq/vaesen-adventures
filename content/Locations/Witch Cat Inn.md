@@ -18,4 +18,4 @@ An inn on the road to Sigtuna by Lake Mälar. Run by [[Sami Harjula]]. Site of A
 - [[Olaus Klint]] — sent the party here to investigate
 
 ## Adventure Appearances
-- [[Adventures/2. Dance of Dreams|Dance of Dreams]] — primary location of the adventure
+- [[2 - Dance of Dreams|Dance of Dreams]] — primary location of the adventure

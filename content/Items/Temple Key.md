@@ -9,4 +9,4 @@ A rusty, ornate key found on the body of Ulf in the Laboratory on the 3rd floor 
 - Ulf had been dead no more than a few days when found; was screaming when he died
 
 ## Adventure Appearances
-- [[Adventures/1. Intro Session|Intro Session]] — found on Ulf's body in the castle laboratory
+- [[1 - Intro Session|Intro Session]] — found on Ulf's body in the castle laboratory

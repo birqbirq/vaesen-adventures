@@ -9,4 +9,4 @@ The deed to [[Castle Gyllencreutz]], signed by [[Linnea Elfeklint]]. Was nailed 
 - Linnea subsequently gave the castle to the party to rebuild [[The Society]]
 
 ## Adventure Appearances
-- [[Adventures/1. Intro Session|Intro Session]] — taking the deed was the key action that defeated Manfred and resolved the adventure
+- [[1 - Intro Session|Intro Session]] — taking the deed was the key action that defeated Manfred and resolved the adventure

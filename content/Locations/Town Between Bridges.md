@@ -10,4 +10,4 @@ The central island district of Stockholm. The party's primary area of operation 
 - The National Archives are on a neighboring island
 
 ## Adventure Appearances
-- [[3. S.o.a.K.]] — party arrived here with [[August T. Lysander]]
+- [[3 - S.o.a.K.]] — party arrived here with [[August T. Lysander]]

@@ -20,4 +20,4 @@ Deceased wife of [[Sami Harjula]]. Her spirit lingered at the [[Witch Cat Inn]].
 - [[Nora's Journal]] — given to the party by Sami
 
 ## Adventure Appearances
-- [[Adventures/2. Dance of Dreams|Dance of Dreams]] — referenced throughout; her spirit manifested during the investigation
+- [[2 - Dance of Dreams|Dance of Dreams]] — referenced throughout; her spirit manifested during the investigation

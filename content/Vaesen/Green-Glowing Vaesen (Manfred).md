@@ -17,4 +17,4 @@ An unidentified Vaesen associated with [[Manfred]] at [[Castle Gyllencreutz]]. M
 - Manfred's spirit fled; the trapped souls were freed
 
 ## Adventure Appearances
-- [[Adventures/1. Intro Session|Intro Session]] — primary supernatural threat; defeated at the end of the adventure
+- [[1 - Intro Session|Intro Session]] — primary supernatural threat; defeated at the end of the adventure

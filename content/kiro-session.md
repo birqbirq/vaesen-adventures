@@ -39,7 +39,7 @@ Starting upgrades: Library (free), Butler Algot Frisk (free)
 After Dance of Dreams: Séance Parlor built (5 DP spent)
 Castle spreadsheet: https://docs.google.com/spreadsheets/d/1AjeOQvpPHPOMFaLM1vZollt79eVSl2LAPMR0tsC4bLY/edit?usp=drive_link
 
-### Adventure 1: Intro Session ([[Adventures/1. Intro Session|1. Intro Session.md]])
+### Adventure 1: Intro Session ([[1 - Intro Session|1. Intro Session.md]])
 - Party united by [[Linnea Elfeklint]], last surviving [[The Society|Society]] member
 - Investigated [[Castle Gyllencreutz]]; found missing people (souls trapped in green glowing vat)
 - Villain: [[Manfred]] (Linnea's fiancé), transformed into bat-winged creature
@@ -47,7 +47,7 @@ Castle spreadsheet: https://docs.google.com/spreadsheets/d/1AjeOQvpPHPOMFaLM1vZo
 - Reward: Linnea gave the party the castle to rebuild the Society
 - New NPC: [[Algot Frisk]] (butler, offered his services)
 
-### Adventure 2: Dance of Dreams ([[Adventures/2. Dance of Dreams|2. Dance of Dreams.md]])
+### Adventure 2: Dance of Dreams ([[2 - Dance of Dreams|2. Dance of Dreams.md]])
 - Invited to [[Witch Cat Inn]] near Sigtuna by [[Olaus Klint]] (private detective, descendant of Society founders)
 - Mystery: Ghost of [[Oskar Hjort]] (a [[Revenant]]) haunting the inn via innkeeper's daughter [[Sophia]]
 - Oskar was murdered by [[Pyri Harjula]] (Sami's grandfather) at the behest of [[Albert Wredenhielm|Albert]] (senior Society member)
@@ -56,7 +56,7 @@ Castle spreadsheet: https://docs.google.com/spreadsheets/d/1AjeOQvpPHPOMFaLM1vZo
 - Olaus tried to recruit party to the [[Rosenberg Faction]] (believes all Vaesen are evil — party declined)
 - Reward: [[Nora's Journal|Nora's journal]]; Séance Parlor built at castle
 
-### Adventure 3: A Stranger in Stockholm ([[Adventures/3. S.o.a.K.|3. S.o.a.K.]]) — ONGOING
+### Adventure 3: A Stranger in Stockholm ([[3 - S.o.a.K.|S.o.a.K.]]) — ONGOING
 - Client: [[August T. Lysander]] (wealthy Stockholm occultist) — believes a vaesen killed tenor [[Sverker]] von Essen at the [[Royal Opera]]
 - Séance with Sverker: something watched him from shadows near [[St. James Church]] as he sang; throat ripped open mid-note
 - Conductor [[Mortimer Cronstedt]] also dead (turtle soup, ~6 weeks prior) — possible connection

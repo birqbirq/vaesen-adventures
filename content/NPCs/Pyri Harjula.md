@@ -27,4 +27,4 @@ Deceased innkeeper of the [[Witch Cat Inn]]. Grandfather of [[Sami Harjula]]. Mu
 - [[The Society]] — member
 
 ## Adventure Appearances
-- [[Adventures/2. Dance of Dreams|Dance of Dreams]] — contacted via séance; his actions (murdering Oskar) were the root cause of the haunting
+- [[2 - Dance of Dreams|Dance of Dreams]] — contacted via séance; his actions (murdering Oskar) were the root cause of the haunting

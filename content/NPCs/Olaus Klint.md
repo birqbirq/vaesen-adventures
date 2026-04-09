@@ -19,4 +19,4 @@ Private detective, descendant of the founders of [[The Society]] / [[Order of Ar
 - [[Albert Wredenhielm]] — knows Albert was a senior Society member
 
 ## Adventure Appearances
-- [[Adventures/2. Dance of Dreams|Dance of Dreams]] — hired the party (via invitation) to investigate the Witch Cat Inn; tried to recruit them to the Rosenberg faction
+- [[2 - Dance of Dreams|Dance of Dreams]] — hired the party (via invitation) to investigate the Witch Cat Inn; tried to recruit them to the Rosenberg faction

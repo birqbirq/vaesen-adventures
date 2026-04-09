@@ -10,4 +10,4 @@ The predecessor organization to [[The Society]]. Founded by Mats Rosenberg and o
 - [[Pyri Harjula]] joined after the rename — was not a member of the Order of Artemis itself
 
 ## Adventure Appearances
-- [[Adventures/2. Dance of Dreams|Dance of Dreams]] — discovered via Carl Linnaeus's journal in the castle library
+- [[2 - Dance of Dreams|Dance of Dreams]] — discovered via Carl Linnaeus's journal in the castle library

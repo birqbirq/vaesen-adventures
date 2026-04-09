@@ -23,4 +23,4 @@ Presumably deceased (events took place ~50 years before the campaign). No confir
 - [[The Society]] — senior member, Finland HQ leader
 
 ## Adventure Appearances
-- [[Adventures/2. Dance of Dreams|Dance of Dreams]] — referenced throughout; central to the backstory of Oskar's murder
+- [[2 - Dance of Dreams|Dance of Dreams]] — referenced throughout; central to the backstory of Oskar's murder

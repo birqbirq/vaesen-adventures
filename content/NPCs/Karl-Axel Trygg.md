@@ -12,4 +12,4 @@ Coachman and valet to [[August T. Lysander]].
 - [[August T. Lysander]] — employer
 
 ## Adventure Appearances
-- [[3. S.o.a.K.]] — drove the party from the station to the Golden Peace
+- [[3 - S.o.a.K.]] — drove the party from the station to the Golden Peace

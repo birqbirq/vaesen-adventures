@@ -12,4 +12,4 @@ An unidentified Vaesen responsible for the murder of tenor [[Sverker]] at the [[
 Unknown. Active. The party is traveling to Stockholm to investigate.
 
 ## Adventure Appearances
-- [[3. S.o.a.K.|New Adventure]] — the mystery the party is currently pursuing
+- [[3 - S.o.a.K.|New Adventure]] — the mystery the party is currently pursuing

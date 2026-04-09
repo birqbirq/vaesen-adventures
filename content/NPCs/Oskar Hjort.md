@@ -26,4 +26,4 @@ At rest. Bones buried in consecrated ground near the Witch Cat Inn.
 - [[Sami Harjula]] — possessed him during the investigation (Sami is Pyri's grandson)
 
 ## Adventure Appearances
-- [[Adventures/2. Dance of Dreams|Dance of Dreams]] — central mystery; ghost laid to rest at end of adventure
+- [[2 - Dance of Dreams|Dance of Dreams]] — central mystery; ghost laid to rest at end of adventure

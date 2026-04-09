@@ -14,4 +14,4 @@ Archivist at the National Archives in Stockholm. Knowledgeable resource for hist
 - [[August T. Lysander]] — on good terms with him due to his wealth
 
 ## Adventure Appearances
-- [[3. S.o.a.K.]] — recommended by Lysander as a research resource
+- [[3 - S.o.a.K.]] — recommended by Lysander as a research resource

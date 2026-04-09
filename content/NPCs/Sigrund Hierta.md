@@ -23,5 +23,5 @@ Journalist based in Uppsala. Ally and contact to the party, though initially coe
 - Party — ally/contact; has a mutual-benefit arrangement
 
 ## Adventure Appearances
-- [[Adventures/1. Intro Session|Intro Session]] — met at the Burger & Baker inn; became an ally/contact
-- [[3. S.o.a.K.]] — provided intel on Stockholm, the opera scene, and recommended [[Erik Johan Stagnelius]] as a local contact; childhood friend of Erik's; will telegraph the party at the [[Golden Peace]] with details on a second opera death
+- [[1 - Intro Session|Intro Session]] — met at the Burger & Baker inn; became an ally/contact
+- [[3 - S.o.a.K.]] — provided intel on Stockholm, the opera scene, and recommended [[Erik Johan Stagnelius]] as a local contact; childhood friend of Erik's; will telegraph the party at the [[Golden Peace]] with details on a second opera death
