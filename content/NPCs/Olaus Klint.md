@@ -6,6 +6,7 @@ Private detective, descendant of the founders of [[The Society]] / [[Order of Ar
 ## Details
 - Appearance: older man (40s?), well groomed, pointy nose, sharp eyes, worn jacket and hat; very outgoing and friendly
 - Direct descendant of the Society's founding families — his parents were a Rosenberg married to a Klint
+- Has the Sight
 - Sent the party an invitation to the [[Witch Cat Inn]] to investigate the nightmares and ghost
 - Believes all Vaesen are evil and need to be purged — tried to recruit the party to the Rosenberg faction; party declined
 - Was scared and refused to accompany the party to the root cellar
@@ -21,4 +22,4 @@ Private detective, descendant of the founders of [[The Society]] / [[Order of Ar
 ## Adventure Appearances
 - [[2 - Dance of Dreams|Dance of Dreams]] — hired the party (via invitation) to investigate the Witch Cat Inn; tried to recruit them to the Rosenberg faction
 
-#sigtuna
+#sigtuna #sight

@@ -20,6 +20,7 @@ A secret organization of people with the Sight, dedicated to understanding and c
 - Carl Linnaeus — kept a journal of Society history
 - [[Albert Wredenhielm]] — senior member, led the Finland HQ
 - [[Pyri Harjula]] — member; rebuilt the Witch Cat Inn after the Hulu fire
+- [[Manfred]] — member; turned villain; used the castle to trap souls
 - Baroness Katja Kokola — Hulu fire survivor
 - Countess Hilma of Thulenstierna — Hulu fire survivor
 
