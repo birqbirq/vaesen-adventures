@@ -64,6 +64,16 @@ Write a new session entry in the exact style of the existing entries in the adve
 - Use `[[WikiLink]]` for all resolved proper nouns (NPCs, locations, items, factions, vaesen)
 - Mechanical notes (advantages, XP, development points, skill increases) go at the bottom, separated by `---`
 
+**Summarization rules — this is critical:**
+- Write like a GM jotting personal recap notes, not a transcript summary. Be concise and selective.
+- **Major plot beats** (key discoveries, confrontations, resolutions, important NPC reveals): 1–3 sentences each. Include what happened and why it matters.
+- **Minor interactions** (room searches, travel, small talk, flavor moments): compress into a single sentence or fold into a nearby beat. Skip entirely if it has no story consequence.
+- **NPC interviews and séances**: use bullet points, one bullet per meaningful piece of information. Skip pleasantries, filler, and anything that didn't yield useful info.
+- **Failed rolls and mechanical fumbles**: omit unless the failure had a meaningful story consequence.
+- **OOC jokes, rules debates, banter**: omit entirely.
+- When in doubt, cut it. If a detail doesn't affect the story, an NPC, a location, or a future lead — leave it out.
+- Aim for roughly the same density as the existing adventure entries. If the existing notes for a 3-hour session fit in ~300 words, yours should too.
+
 ---
 
 ## Step 4 — Append to file
@@ -75,4 +85,6 @@ Append the completed session entry to the end of the current adventure file at t
 ## Output
 
 Append to the adventure file. Do not output the notes in chat unless asked.
-If there are unresolved `[UNCERTAIN: ...]` names, list them in chat after appending so the user can review them.
+After appending, output in chat:
+1. Any unresolved `[UNCERTAIN: ...]` names for the user to review.
+2. A brief **Omitted Content** list — a short bullet per thing that was cut for being minor or story-irrelevant, so the user can request anything be added back.

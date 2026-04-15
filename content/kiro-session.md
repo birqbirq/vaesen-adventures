@@ -59,10 +59,13 @@ Castle spreadsheet: https://docs.google.com/spreadsheets/d/1AjeOQvpPHPOMFaLM1vZo
 ### Adventure 3: A Stranger in Stockholm ([[3 - S.o.a.K.|S.o.a.K.]]) — ONGOING
 - Client: [[August T. Lysander]] (wealthy Stockholm occultist) — believes a vaesen killed tenor [[Sverker]] von Essen at the [[Royal Opera]]
 - Séance with Sverker: something watched him from shadows near [[St. James Church]] as he sang; throat ripped open mid-note
-- Conductor [[Mortimer Cronstedt]] also dead (turtle soup, ~6 weeks prior) — possible connection
+- Conductor [[Mortimer Cronstedt]] also dead — officially turtle soup, actually opium poisoning (confirmed murder, covered up by Commissioner Utterson)
 - Party arrived in Stockholm, checked into [[Golden Peace]] hotel; met contact [[Erik Johan Stagnelius]] (poet, Sverker's close friend)
-- Erik names understudy [[Rufus Holberg]] as prime suspect — Sverker refused to step aside for him
-- Other leads: [[Sigrid]] (National Archives researcher), [[Professor Liebholz]] (ghost show at [[Bern's Salon]]), Police Commissioner [[Gabriel Utterson]] (Lysander's friend)
+- Erik names understudy [[Rufus Holberg]] as prime suspect — Sverker refused to step aside for him; Rufus has an alibi
+- Interviewed Commissioner [[Gabriel Utterson]] and Coroner [[Coroner Volk|Volk]]: all victims died from violent animal-like tearing wounds; murder dates follow a pattern — another killing may be imminent
+- [[Whitehill]] slums: a "disease" is actually forced limb transplants by a blonde, clean-shaven perpetrator; most victims die from rejection
+- Party escorted a surviving transplant victim ([[Mutilation]]) to [[Seraphim Hospital]]
+- Pending leads: [[Sigrid]] (National Archives), [[Professor Liebholz]] (ghost show at [[Bern's Salon]]), Whitehill investigation, Royal Opera / Rufus Holberg, strangled young women
 - [[Abraham]] has a green gemstone jewelry piece left by [[Franzibald Hansen]] (Danish author, has the Sight, works with the Society) to research
 
 ### Key Recurring NPCs
@@ -71,6 +74,10 @@ Castle spreadsheet: https://docs.google.com/spreadsheets/d/1AjeOQvpPHPOMFaLM1vZo
 - [[Sigrund Hierta]] — journalist, Uppsala, ally/contact
 - [[Olaus Klint]] — private detective, [[Rosenberg Faction]] (believes Vaesen are evil), not an ally
 - [[August T. Lysander]] — wealthy Stockholm occultist, client for current adventure
+- [[Gabriel Utterson]] — Stockholm Police Commissioner, Lysander's friend; covering up Mortimer's murder
+- [[Erik Johan Stagnelius]] — poet, permanent resident at the Golden Peace, Sverker's close friend
+- [[Coroner Volk]] — Stockholm city coroner; sharp and forthcoming; key forensic source
+- [[Mutilation]] — beggar/transplant survivor; now at Seraphim Hospital; would recognize the perpetrator
 
 ## User Preferences
 - Prefers plain text files over MHT/DOCX for handbook reference
