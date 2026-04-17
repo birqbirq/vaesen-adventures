@@ -1,0 +1,3 @@
+# PXL_20260414_212257843.MP
+
+US. [[Royal Opera]] House, second m to be]! taf Adolf’s Square entrance. r girls, apietee Aug. ities in| Note: It is requested that the to this} songbooks be returned at this asa HAMMER’S CONCERT nt . On Tuesday, October 17th, A GREAT CONCERT. ercent ) each, is held for the benefit Eo the Danish Chamberlain Emil d over] with a fimal performance sold at | aay Professor St. dina Tickets are 10 shilling for ‘kholm | and 2 shilling for gallery seats, the ticket office and the cigar Gustaf Adolf’s Square. Further details will be Tuesday’s ads and posters. af antl A ea WA ir iq iin

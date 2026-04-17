@@ -1,0 +1,11 @@
+# No Arrests for the Murder of Von Essen
+
+> [!info] GM Note
+> Per [[Gabriel Utterson]], there were 4 prior murders with similar wounds before Sverker's, all treated as underworld violence:
+> - May 23 - Mire Lake
+> - June 22 - Grain Harbor Square
+> - July 21 - Shipside Street
+> - August 19 - Ship's Lock
+> - **September 18 — The Royal Opera ([[Sverker|Sverker von Essen]])**
+
+rY-rt,y, As a result of these events and the worrving developments in Europe, Governor Jakob Wilhelm Sprengt porten and Police Commissioner Titterson have mobilized po Gabriel forces to quell fur atrated lice and military +her 11n rest NO ARRESTS FOR THE MURDER OF [[Sverker|VON ESSEN]] , after the horrific Essen, one Almost aA montt murder of Mr. [[Sverker]] von of the nation’s most prominent tenors and star of the [[Royal Opera]]’s famous production of Giuseppe Verdi’s A Masked Ball, the police have not been able to apprehend the perpetrator. Nor have they identified a suspect. Assuring the public that justice will soon be served for this monstrous crime, Police Commissioner [[Gabriel Utterson]] made the following state- ment to the City Gazette’s reporter at the new police headquarters on Coin Street: “Our best officers are on the case. We ask for patience as 3 we proceed with our investigation.” 4 The ill-fated. : tenor was kille == behind the [[Royal Opera]] House on t | | 18th of Seutonber in : oo ae a particularly cruel and barbarous | manner. His murder was the latest ina ery series of equally brutal attacks, which have previously been treated as a set- tling of scores in the capital’s under- world, as the victims came from its de- plorable ranks. But with the death of [[Sverker|von Essen]], a new fear has gripped the city, for this murder shows that no one is safe from the killer’s wrath. In the role of Gustav III, [[Sverker|von Essen]]’s I want to assure all opera lovers that our production of A Masked Ball will goon [[Sverker|Von Essen]]’s widow, Bernhardina, presi is replaced by upcoming star [[Rufus Holberg]], who told City Gazette: “Tt is a terrible tragedy. Nevertheless, as scheduled, despite the sorrow we all feel. Every night I shall sing for poor [[Sverker]], my friend and role model.”

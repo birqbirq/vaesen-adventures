@@ -1,0 +1,3 @@
+# PXL_20260414_160600697.MP
+
+Saturday REVOLUTIONARIES PROTESTED IN Col N SQU ARE A protest instigated by revolution- ary radicals escalated into a riot Coin Square on Saturday. Two of these troublemakers were oughly thrashed and later detained the capable constables, who quickly stored order in the city. — Inspired by revolutionary ments on the continent, several protests have recently taken place our capital, and members of law forcement have found inflammatory proclamations circulated among people. As a result of these events and worrying developments in Europe, Governor Jakob Wilhelm Sprengt- porten and Police Commissioner [[Gabriel Utterson]] have mobilized lice and military forces to quell ther unrest.
