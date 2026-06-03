@@ -10,7 +10,12 @@ Stockholm's main hospital. Located on the north side of the city.
 - [[Mutilation]] (the beggar) was brought here by the party for treatment of his transplanted hand — covered by [[August T. Lysander]]
 - Whitehill is on the south side of the city; the hospital is on the north side — the journey is too far for dying transplant victims to survive
 
+## Key Staff
+- **[[Dr. Svardh]]** — senior physician and research director; has been here since the hospital opened; travels to [[Whitehill]] to treat patients; on shift Sunday morning
+- **[[Dr. Tyko Gregorius]]** — junior doctor; 3 years at the hospital; provided the party with intel on the transplant operation
+- **Anna** — hospital administrator; was out the day of the party's visit; returns Monday
+
 ## Adventure Appearances
-- [[3 - S.o.a.K.]] — mentioned by [[Coroner Volk]]; party escorted [[Mutilation]] here at end of session
+- [[3 - S.o.a.K.]] — mentioned by [[Coroner Volk]]; party escorted [[Mutilation]] here; [[Mutilation]] died during treatment; party interviewed [[Dr. Tyko Gregorius]]
 
 #stockholm #investigating

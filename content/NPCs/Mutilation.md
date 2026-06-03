@@ -21,6 +21,6 @@ An unnamed beggar encountered outside the [[Golden Peace]]. One of the few survi
 - [[Abraham]] — offered him coin and hospital care in exchange for information
 
 ## Adventure Appearances
-- [[3 - S.o.a.K.]] — encountered twice; provided key info on the Whitehill transplant operation; escorted to Seraphim Hospital
+- [[3 - S.o.a.K.]] — encountered twice; provided key info on the Whitehill transplant operation; escorted to [[Seraphim Hospital]]; **died during treatment** (6/2/26) — hand too far gone from rejection/infection
 
-#stockholm #investigating
+#stockholm #resolved

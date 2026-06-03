@@ -64,8 +64,10 @@ Castle spreadsheet: https://docs.google.com/spreadsheets/d/1AjeOQvpPHPOMFaLM1vZo
 - Erik names understudy [[Rufus Holberg]] as prime suspect — Sverker refused to step aside for him; Rufus has an alibi
 - Interviewed Commissioner [[Gabriel Utterson]] and Coroner [[Coroner Volk|Volk]]: all victims died from violent animal-like tearing wounds; murder dates follow a pattern — another killing may be imminent
 - [[Whitehill]] slums: a "disease" is actually forced limb transplants by a blonde, clean-shaven perpetrator; most victims die from rejection
-- Party escorted a surviving transplant victim ([[Mutilation]]) to [[Seraphim Hospital]]
-- Pending leads: [[Sigrid]] (National Archives), [[Professor Liebholz]] (ghost show at [[Bern's Salon]]), Whitehill investigation, Royal Opera / Rufus Holberg, strangled young women
+- Party escorted a surviving transplant victim ([[Mutilation]]) to [[Seraphim Hospital]]; he died during treatment
+- At the hospital, interviewed [[Dr. Tyko Gregorius]]: surgery is technically skilled, supplies likely diverted from a hospital; [[Dr. Svardh]] (senior physician who visits Whitehill) is a person of interest
+- Party spotted the next serial murder victim: a man with his abdomen torn out, found in a church; [[Killian]]'s dark secret triggered by the wound
+- Pending leads: [[Dr. Svardh]] (Sunday morning), [[Sigrid]] (National Archives), [[Professor Liebholz]] (ghost show at [[Bern's Salon]]), Whitehill surgery location, Royal Opera / Rufus Holberg, strangled young women, hospital administrator Anna (Monday)
 - [[Abraham]] has a green gemstone jewelry piece left by [[Franzibald Hansen]] (Danish author, has the Sight, works with the Society) to research
 
 ### Key Recurring NPCs
@@ -74,10 +76,11 @@ Castle spreadsheet: https://docs.google.com/spreadsheets/d/1AjeOQvpPHPOMFaLM1vZo
 - [[Sigrund Hierta]] — journalist, Uppsala, ally/contact
 - [[Olaus Klint]] — private detective, [[Rosenberg Faction]] (believes Vaesen are evil), not an ally
 - [[August T. Lysander]] — wealthy Stockholm occultist, client for current adventure
-- [[Gabriel Utterson]] — Stockholm Police Commissioner, Lysander's friend; covering up Mortimer's murder
+- [[Gabriel Utterson]] — Stockholm Police Commissioner, Lysander's friend; covering up Mortimer's murder; dismisses the coroner
 - [[Erik Johan Stagnelius]] — poet, permanent resident at the Golden Peace, Sverker's close friend
 - [[Coroner Volk]] — Stockholm city coroner; sharp and forthcoming; key forensic source
-- [[Mutilation]] — beggar/transplant survivor; now at Seraphim Hospital; would recognize the perpetrator
+- [[Dr. Tyko Gregorius]] — junior doctor at [[Seraphim Hospital]]; provided transplant surgery intel
+- [[Dr. Svardh]] — senior physician at [[Seraphim Hospital]]; visits Whitehill; **person of interest**
 
 ## User Preferences
 - Prefers plain text files over MHT/DOCX for handbook reference
