@@ -174,3 +174,68 @@ I invoke my dark secret (bringing back memories of what I've done and wanted to 
 (Heather is working on how that will affect the story)
 Abraham and Niklas look at me and saw that I was pasty white and obviously disassociating.
 
+# 6/9/26
+Killian, Niklas, Abraham
+
+We go to check the body for ID and whatnot but I say I need some space and take off. Niklas tried to get a feeling for the supernatural-ness of the body (the general vibe) and saw
+1. the body is dead
+2. Something inhuman was in the area
+3. There was at least 1 spirit in the area
+4. Feels a lot of sadness and grief in the area
+
+Niklas starts to try to commune with the spirit. He puts his hands over the body and starts mumbling stuff in Latin. The priest is not at all happy about it but Niklas continues anyway. He rolled a super success and hears 3 different voices talking to each other (2 male, 1 female) and are kinda hysterical so it's hard to make them out. He tries to get them to talk to him about what happened. The female stops talking and 1 of the men says it's all new to him and he's not sure what happened. The other male says welcome to purgatory.
+
+He tries to single out the new one and asks his name. Friedrich Balm. He doesn't know anyone that would want to harm him. Niklas breaks the news that he was murdered and tries to get some info. Friedrich is confused and a little annoyed about being dead. He said he was getting ready for choir practice, walking up to the organ and that's all he remembers. It was dark so he didn't see anything.
+
+The female is speaking Polish so he can't understand her. The other man says he wishes he could help but was preoccupied.
+
+One of the constables points out that there's a notebook next to the body. Killian comes back into the room but isn't really engaging and is hanging back out of the way.
+
+Niklas asks Friedrich if he has anyone that he wants us to contact and he says no. Says he knows the priest, Rudolph, and wants him to know he appreciates everything he's done for him, giving him a room a place to stay at the church. He's a great man and the best boss and friend. 
+
+The female makes a noise and points to the window but doesn't say anything. There are 2 stained-glass windows flaking the organ. One of them is completely smashed. Can't tell if there's glass on the ground from here, but it looks more pushed out than in.
+
+Niklas ends the channeling and tells the priest what Friedrich said. Then he points out the busted window and wonders why someone would jump from that high. Niklas heads up the stairs to check it out.
+
+Abraham investigates the notepad. No words, just charcoal drawings of women. Some look lifeless. He recognizes one of the girls as the girl on the coroner's slab. He continues looking through the notebook for more clues. He found that Friedrich had signed some of the drawings. Some pages have been ripped out. Some pages have indentations of previous writing - addresses, street names, etc, but none are decipherable. He gets another piece of paper and tries making a rubbing like The Dude at Jackie Treehorn's house.
+
+He gets some street names and a couple of them have WH at the end.
+
+Commissioner Utterson shows up and talks to the constable and the priest.
+
+Niklas investigates the window area and sees that all the broken glass is outside and finds a small tuft of gray fur on a sharp edge of the broken window. It's not human. It looks like a clump of dog fur. We call the Commish up and show him the dog fur and notepad and the fact that the window was busted outward. Niklas said it might be a werewolf. Commish glosses over that and asks about the notebook. He recognizes that the girls are all the victims.
+
+The Commish says that all the previous murders were all people who had been criminals or bad people so this fits the pattern of the murderer's MO. The only one that doesn't fit is Sverker von Essen. I mention that maybe he's responsible for the conductor's death and he said maybe they need to reopen the case.
+
+It's been completely dark and the moon is almost completely full. I ask Abraham if the moon has to be completely full or not for werewolves to come out. He knows that it's around the full moon but not exactly on. They can turn early or late, but only if the blood lust is strong enough. The full moon was 3 days ago. He also knows that calling them by their Christian name can make them turn back to human form.
+
+While the Commissioner is distracted I try to look him over for wounds but I can't see anything. At least he doesn't notice me looking.
+
+I ask if we can take the tuft of fur and have it tested. He asks us to take it to the coroner.
+
+Abraham asks the commissioner to look at the street names. They're all in Whitehill. He assumes these are all where they're from. 
+
+Niklas checks Friedrich's clothes and finds a lock of hair tied with a silk ribbon. The commissioner says it looks like a keepsake from a victim. We bag it for the coroner too. Commish also checks the body but doesn't find anything else.
+
+I check the floor for non-human footprints but don't see any but I can kinda tell what happened - the murderer emerged from the darkness, slashed Friedrich and then jumped through the window and Friedrich had fallen down the stairs a bit to where we found him.
+
+I asked the priest if he knew Friedrich very well. He said not intimately, but he needed an organist and knew he was one. He wasn't inappropriate with anyone and kept to himself. He always showed up when he was needed. Never showed any strange tendencies or gave him a bad feeling. Was always a gentleman. Never mentioned Whitehall. I asked to see his room. Police business.
+
+It's a simple studio apartment kind of room. No personal effects or anything like that. We find music books and textbooks from the Royal Academy of Music, sheet music, etc. Found a history of the organ book with tons of notes in Russian. Niklas understands Russian and sees that the notes are detailed descriptions of girls he's observing - teachers, students, whoever. Also finds a drawing of a girl in the same style as the notebook. The handwriting is also the same.
+
+Killian needs a drink and drains his flask. Niklas asks if something is wrong and I tell him I don't want to talk about it and leave. Our carriage left without us so Utterson flags down a taxi and pays for it. Killian asks for the best bar within waking distance of the Golden Peace.
+
+The taxi takes us to Bern's Salon where Professor Liebholz is performing magic. There's a marquee outside advertising Prof. Liebholz. Inside, we see a lavish interior with Continental influences. The Professor is currently performing. We head to the restaurant/bar side of the place. 
+
+End.
+
+XP:
+1 for playing
+1 for dark secret
+1 for learning about Friedrich and what's linking the murders
+Kurt got 1 for the super success on the seance
+
+
+
+
+
