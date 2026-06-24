@@ -66,8 +66,8 @@ Castle spreadsheet: https://docs.google.com/spreadsheets/d/1AjeOQvpPHPOMFaLM1vZo
 - [[Whitehill]] slums: a "disease" is actually forced limb transplants by a well-dressed perpetrator; [[Mutilation]] (survivor) died at [[Seraphim Hospital]]; [[Dr. Svardh]] is a person of interest
 - 6th murder: church organist [[Friedrich Balm]], found in a Stockholm church with abdomen torn out — also the murderer of the missing Whitehill maids (notebook with portraits + Whitehill addresses found on body); gray animal fur found at scene — **werewolf hypothesis active**
 - Niklas made contact with 3 spirits via séance at the church; moon phase correction: murders occur around the **full moon** not new moon
-- Party ended session arriving at [[Bern's Salon]] where [[Professor Liebholz]] is performing
-- Pending leads: [[Dr. Svardh]] (Sunday morning), [[Sigrid]] (National Archives), [[Professor Liebholz]] (at [[Bern's Salon]]), Whitehill surgery location, Royal Opera / Rufus Holberg, hospital administrator Anna (Monday), why Sverker was targeted
+- At [[Bern's Salon]]: met [[August Strindberg]] (writer, local fixture, fan of Abraham's work — new contact); confirmed [[Professor Liebholz]] is a genuine medium (not a Thursday's child, but has cultivated the ability); Liebholz is withholding something; Killian took a mental injury (Angry)
+- Pending leads: [[Dr. Svardh]] (Sunday morning), [[Sigrid]] (National Archives), [[Professor Liebholz]] (holding back — show runs Sun/Mon), Whitehill surgery location, Royal Opera / Rufus Holberg, hospital administrator Anna (Monday), why Sverker was targeted; deliver fur + hair to [[Coroner Volk]]
 - [[Abraham]] has a green gemstone jewelry piece left by [[Franzibald Hansen]] (Danish author, has the Sight, works with the Society) to research
 
 ### Key Recurring NPCs
@@ -81,6 +81,8 @@ Castle spreadsheet: https://docs.google.com/spreadsheets/d/1AjeOQvpPHPOMFaLM1vZo
 - [[Coroner Volk]] — Stockholm city coroner; sharp and forthcoming; key forensic source
 - [[Dr. Tyko Gregorius]] — junior doctor at [[Seraphim Hospital]]; provided transplant surgery intel
 - [[Dr. Svardh]] — senior physician at [[Seraphim Hospital]]; visits Whitehill; **person of interest**
+- [[Professor Liebholz]] — German performer at [[Bern's Salon]]; genuine medium (not a Thursday's child, cultivated ability); communicates with dead via mirror; withholding something
+- [[August Strindberg]] — prominent Swedish writer; regular at [[Bern's Salon]]; fan of [[Abraham]]'s work; politically radical but no occult knowledge; available as a contact
 
 ## User Preferences
 - Prefers plain text files over MHT/DOCX for handbook reference
@@ -88,6 +90,7 @@ Castle spreadsheet: https://docs.google.com/spreadsheets/d/1AjeOQvpPHPOMFaLM1vZo
 - Wants XP/DP questions noted and available for end-of-session review
 - Wants HQ upgrade suggestions based on party playstyle and session history
 - Session notes are stored in Obsidian markdown format
+- Rules questions should be answered from `/mnt/d/Obsidian/Vaesen/vaesen-rules-summary.md`; only fall back to the PDF at `/mnt/d/Obsidian/GamePDFs/Vaesen_Revised_Core_Rules_2506.pdf` if the summary doesn't cover it
 
 ## End-of-Session Workflow
 After each session, user will ask for a review. At that point:

@@ -235,6 +235,34 @@ XP:
 1 for learning about Friedrich and what's linking the murders
 Kurt got 1 for the super success on the seance
 
+# 6/23/26
+Killian, Niklas, Abraham
+
+We're at Bern's salon and the show is going on. We're on the restaurant side. We're under-dressed but nobody seems to care to this point. We look around for someone that stands out or seems interesting .
+
+1 man is the life of the party. A big table in the corner, and it's packed. A few couples that look like they're on first dates. Some other parties, but nothing interesting. Abraham thinks we might recognize the guy but can't tell, then he remembers that it's August Strindberg, a well-known writer from this area, and that this is his favorite haunt and finds inspiration from this place. But he's not a paranormal kind of guy, mostly political writings.
+
+We listen in to the conversation. It's liberal-arts college level geopolitical discussion about how the government is failing the country and society is crumbling, etc. Abraham tries to get their attention by talking about how the inept police aren't able to investigate so we're having to do their work for them. August wanders by and recognizes Abraham and says he is a fan. They talk about how awesome they both are and says he overheard the talk about the police department. He pulls up a chair and sits down.
+
+He talks about the less fortunate and how most people look the other way and the police don't do anything. Abraham says how he's researching a new novel as part of the investigation. August offers to proof it. I ask if he's seen any werewolves around. He doesn't think they exist.
+
+I ask about the Professor's show and he says once you've seen it, it's enough. It only gets a refresh every once in a while. And he's kind of a dick. He heads back to his friends after giving Abraham his address so he can ship him his new book when it's done.
+
+We decide to go talk to the Professor Leibholz. He heads over to the restaurant and I flag him down on the way to the bar and ask him to join us. He's leery but sits with us. I tell him we're helping investigate the murders. He asks where we're from and why we're here. I'm vague. He says we need to see his show.
+
+I want to see if he's real or not so I ask him to commune with the dead guy and see if he can get any info. He leads us over to the theater and onto the stage. He puts a mirror on the stage and tells us to remember him and his face appears in the mirror. I ask something specific from his notes in his textbook and he answered perfectly. I told Professor it was a test so he released the spirit. He said he's not a Thursday's child but was blessed with the ability to speak with the dead and summon them. 
+
+He hasn't been involved in any of the murdered people; he focuses on contacting people's dead loved ones. Not aware of any new or increased paranormal activity in town. He's heard of things in his circles but nothing concerning. Niklas and I can sense that he's holding something back. I fail to elicit it but fail and get angry. He doesn't help further and nicely asks us to leave. I try to flip a table but it's screwed to the ground so I kick a chair and we head back to the bar.
+
+XP
+Participate? yes
+Vaesen? no
+Identify vaesen? no
+Dark secret? no
+Protect others? no
+Learned? yes - not all with powers are Thursday's children
+HQ? no
+Extraordinary action? yes (for Killian)
 
 
 
