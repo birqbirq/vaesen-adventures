@@ -23,6 +23,6 @@ Police Commissioner of Stockholm. Close friend of [[August T. Lysander]].
 - [[Coroner Volk]] — works in the basement morgue of his headquarters
 
 ## Adventure Appearances
-- [[3 - S.o.a.K.]] — quoted in the City Gazette; recommended as a contact by Lysander; interviewed by the party 4/14/26; updated by the party on [[Seraphim Hospital]] findings 6/2/26 — dismissed the coroner's assessment, going with the hospital's "disease" explanation
+- [[3 - S.o.a.K.]] — quoted in the City Gazette; recommended as a contact by Lysander; interviewed by the party 4/14/26; updated by the party on [[Seraphim Hospital]] findings 6/2/26 — dismissed the coroner's assessment, going with the hospital's "disease" explanation; responded to fountain attack 7/7/26; personally witnessed [[Dr. Svardh]] transform from werewolf to human form after capture; has [[Dr. Svardh]] in police custody; actively working with the party; sourcing more silver weapons
 
 #stockholm #investigating

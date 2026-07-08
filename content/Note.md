@@ -265,5 +265,75 @@ HQ? no
 Extraordinary action? yes (for Killian)
 
 
+# 7/7/26
+Killian, Niklas, Abraham
 
+We're still at the bar and Killian is still angry. Niklas tries to calm me down so we just head back to the hotel and crash
 
+The next day we wake - Sunday 10/15
+
+We need to chill that day if I want to heal my anger. Niklas keeps calming me down. We do some just-for-fun seances to kill time until 11 pm when I'm calmed. We've been drinking all day (except Abraham).
+
+At 11, the chief Utterson shows up and says there's been another attack and asks us to come with him. We go to the statue south of the hotel in a square. It's a dragon that symbolizes the war between Sweden and Denmark. It's near a cathedral and fountain. 
+
+We see people gathering around the fountain and we get closer and see the water is turning red. There's a dead man face-down and a woman crying not too far from him. Commish says they haven't touched anything.
+
+I ask who it is and he tells me it's Dr. Jenz Svardh, the doctor who was helping in Whitehills. 
+
+His body shifts and he rises up coughing. So he's not actually dead. We ask what happened. He starts convulsing as we approach and his mouth gapes but no sound comes out. He's in great pain. We all pass a fear test but Niklas starts throwing up.
+
+I perform medicine and am able to get him stable with Abraham's help. The ambulance shows up and takes him and the woman to the hospital. 
+
+We investigate the area. We find a leather satchel near where the doctor was. There's a black notebook in it with surgical instruments. Book has his name on it with subtitle about transplantation from cadavers. It has notes and diagrams about transplants and stuff. We tell the commissioner that we appear to have found the source of the plague in Whitehill. He says this attack matches the pattern of attacks on bad people but still doesn't explain the outlier of the opera singer.
+
+I do another scan of the area for footprints, fur, etc. No footprints, handprints, pawprints, blood trail, etc. so we get a carriage and head to the hospital with the commish.
+
+The woman is outside the Dr's room. She's out of sorts and mumbly. I try to comfort her and get her attention but fail. The surgeon (Dr. Gregorius) is working on him. The surgeon comes out and pulls us aside and tells us that our stabilizing efforts saved his life and that he should recover. He goes to speak to the wife and calm her down.
+
+She asked if we know her husband. He's a good man and treats everyone so well. I ask what happened at the fountain. She said a dark figure appeared and knocked her down and the next thing she knew, she saw him face-down in the fountain. She only remembers the growl and green angry eyes staring. 
+
+The sound of breaking glass from the room and then it's empty and all the glass is outside. So he's a werewolf now? We dig into our werewolf lore again and know that becoming a lycan doesn't require waiting til the next full moon, but sometimes when they feel emotional.
+
+Can be stopped by:
+1. silver bullet
+2. relative calls them by their right name
+3. ????
+4. profit
+
+He was bleeding before he went out the window and Abraham is able to see a blood trail outside heading toward the town between the bridges. We hear a howl. And then a howl in response.
+
+I try to convince her to come with us to track the beast "that stole her husband" but fail.
+
+The commish comes to get us and we go follow the trail.
+
+We head toward the town and we start to lose track of the blood. Commish suggests getting the coroner because she might know something. Her house is close. We hear the howl again.
+
+As we get near Volk's apartment, wereJenz appears. Commish runs into the apartment door and I yell Jenz's name to distract him. A couple of people come around the corner and don't notice the wereJenz. He kills them so I shoot him in the butt. I tell him to stay but he growls at me as he walks toward us. We start running. I toss my monkey skull at him but it doesn't slow him down. 
+
+The commish comes to us with the carriage and wereJenz is now focused on the horse. We tell the commish to get out of the carriage but he keeps going and distracts him so we can get away. We start sneaking off into an alleyway.
+
+We head back to the hotel for sleep. 
+
+We wake the next morning 10/16 by pounding on our doors. The commish is pissed because we were sleeping. I tell him we need silver bullets and knives. He said they have that all in the archive so we head that way and he tells the lady at the front desk that we're taking it.
+
+We get a silver knife and 3 silver bullets inscribed they're from Transylvania for use against supernatural beings.
+
+I ask commish where he last saw the werewolf. He said it was in the main part of town not far from the police station. A few officers are out on patrol. We head out to go find it.
+
+Niklas hears a scream off in the distance near the Golden Peace so we head off in that direction. A few more screams, getting closer. I have the bullets and Niklas has the knife.
+
+Niklas attacks and stabs him. Abraham is trying to get bystanders out of the way. Werewolf bites Niklas. I shoot him and he starts to flee so Niklas throws the knife and gets him in the back and knocks him down. The commish handcuffs him and asks how strong werewolves are and whether he and his men need to be concerned. We tell him they need to be extremely careful.
+
+I ask who can make us some more silvered bullets. He said he'll find out and let us know. Also says we'll need to return the knife when we're done.
+
+We tell him we're taking Niklas to the hospital and then heading back to the hotel.
+
+XP
+participated? yes
+vaesen? yes
+identify vaesen? yes
+secret? no
+risk? yes
+learned? yes, Dr Svardh was the Whitehill killer
+hq? no
+extraordinary? no but niklas and abraham did

@@ -31,4 +31,4 @@ tags: #clue #soak #murders #sverker
 - Why did the killer target him specifically, breaking the pattern of criminal victims?
 - Is the note he was singing significant — could a specific pitch have triggered or attracted the vaesen?
 
-**See also:** [[Serial Murders - Wound Pattern]], [[Serial Murders - Timeline & Moon Phase]], [[Royal Opera]], [[Rufus Holberg]], [[Unknown Vaesen (Stockholm Opera Killer)]]
+**See also:** [[Serial Murders - Wound Pattern]], [[Serial Murders - Timeline & Moon Phase]], [[Royal Opera]], [[Rufus Holberg]], [[Werewolf (Stockholm)]]

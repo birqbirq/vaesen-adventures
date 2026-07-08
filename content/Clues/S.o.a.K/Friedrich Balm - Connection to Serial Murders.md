@@ -42,4 +42,4 @@ Niklas contacted Friedrich's spirit. He:
 - [[Sverker von Essen]] remains the only victim without a known criminal history — still the outlier.
 - [[Gabriel Utterson]] noted the conductor ([[Mortimer Cronstedt]]) may need to be reconsidered as a connected case if Sverker had a motive.
 
-**See also:** [[Serial Murders - Wound Pattern]], [[Serial Murders - Timeline & Moon Phase]], [[Unknown Vaesen (Stockholm Opera Killer)]], [[Coroner Volk]], [[Gabriel Utterson]], [[Maids Missing in the White Hills]]
+**See also:** [[Serial Murders - Wound Pattern]], [[Serial Murders - Timeline & Moon Phase]], [[Werewolf (Stockholm)]], [[Coroner Volk]], [[Gabriel Utterson]], [[Maids Missing in the White Hills]]

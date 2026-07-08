@@ -30,4 +30,7 @@ A Thursday's Child with occult abilities. Assertive and physically capable — o
 ## Adventure Log
 - **Adventure 1:** Investigated Castle Gyllencreutz; took the castle deed and broke Manfred's power; freed the trapped souls
 - **Adventure 2:** Investigated the [[Witch Cat Inn]]; led séances; helped lay [[Oskar Hjort]] to rest
-- **Adventure 3:** Traveling to Stockholm to investigate the [[Royal Opera]] murder
+- **Adventure 3 (ongoing):** Traveling to Stockholm; triple-success séance contacting 3 spirits at the church (incl. [[Friedrich Balm]]); confronted [[Professor Liebholz]]; **stabbed were-Svardh with a silver knife** during the Oct 16 capture, then threw the knife to knock him unconscious — ended the fight; **bitten by were-Svardh** (physical injury: Wounded); currently recovering at [[Seraphim Hospital]]
+
+## Current Conditions
+- **Wounded** (physical) — bitten by were-Svardh on Oct 16; being treated at [[Seraphim Hospital]]; cannot engage in mystery activities until healed

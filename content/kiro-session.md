@@ -67,7 +67,8 @@ Castle spreadsheet: https://docs.google.com/spreadsheets/d/1AjeOQvpPHPOMFaLM1vZo
 - 6th murder: church organist [[Friedrich Balm]], found in a Stockholm church with abdomen torn out — also the murderer of the missing Whitehill maids (notebook with portraits + Whitehill addresses found on body); gray animal fur found at scene — **werewolf hypothesis active**
 - Niklas made contact with 3 spirits via séance at the church; moon phase correction: murders occur around the **full moon** not new moon
 - At [[Bern's Salon]]: met [[August Strindberg]] (writer, local fixture, fan of Abraham's work — new contact); confirmed [[Professor Liebholz]] is a genuine medium (not a Thursday's child, but has cultivated the ability); Liebholz is withholding something; Killian took a mental injury (Angry)
-- Pending leads: [[Dr. Svardh]] (Sunday morning), [[Sigrid]] (National Archives), [[Professor Liebholz]] (holding back — show runs Sun/Mon), Whitehill surgery location, Royal Opera / Rufus Holberg, hospital administrator Anna (Monday), why Sverker was targeted; deliver fur + hair to [[Coroner Volk]]
+- **7/7/26:** Dr. Svardh found attacked at a fountain near a cathedral — survived with party's help; his satchel contained a notebook confirming he was behind the Whitehill transplant surgeries; he transformed into a werewolf at the hospital and fled; **werewolf confirmed**; Niklas bit during capture (Wounded); Svardh now in police custody; a second werewolf heard but unidentified; monkey skull memento lost
+- Pending leads: second werewolf identity, Svardh questioning, [[Sigrid]] (National Archives), [[Professor Liebholz]] (holding back — show runs Sun/Mon), Royal Opera / Rufus Holberg, hospital administrator Anna (Monday), why Sverker was targeted; need more silver weapons
 - [[Abraham]] has a green gemstone jewelry piece left by [[Franzibald Hansen]] (Danish author, has the Sight, works with the Society) to research
 
 ### Key Recurring NPCs
@@ -80,7 +81,7 @@ Castle spreadsheet: https://docs.google.com/spreadsheets/d/1AjeOQvpPHPOMFaLM1vZo
 - [[Erik Johan Stagnelius]] — poet, permanent resident at the Golden Peace, Sverker's close friend
 - [[Coroner Volk]] — Stockholm city coroner; sharp and forthcoming; key forensic source
 - [[Dr. Tyko Gregorius]] — junior doctor at [[Seraphim Hospital]]; provided transplant surgery intel
-- [[Dr. Svardh]] — senior physician at [[Seraphim Hospital]]; visits Whitehill; **person of interest**
+- [[Dr. Svardh]] — senior physician at [[Seraphim Hospital]]; confirmed as the Whitehill transplant surgeon (notebook recovered); **attacked by vaesen, survived, transformed into a werewolf, recaptured; in police custody**
 - [[Professor Liebholz]] — German performer at [[Bern's Salon]]; genuine medium (not a Thursday's child, cultivated ability); communicates with dead via mirror; withholding something
 - [[August Strindberg]] — prominent Swedish writer; regular at [[Bern's Salon]]; fan of [[Abraham]]'s work; politically radical but no occult knowledge; available as a contact
 

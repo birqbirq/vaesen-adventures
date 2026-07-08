@@ -42,4 +42,15 @@ Based on the fur evidence and wound pattern, [[Abraham]] assessed what is known 
 - Calling the werewolf by their **Christian name once** may break the transformation and force them back to human form.
 - The full moon was October 11th — the October 14th killing was 3 days later, within the transformation window.
 
-**See also:** [[Serial Murders - Timeline & Moon Phase]], [[Unknown Vaesen (Stockholm Opera Killer)]], [[Friedrich Balm - Connection to Serial Murders]]
+### ✅ Werewolf confirmed
+**The vaesen is a werewolf.** Confirmed Oct 15, 1897 when [[Dr. Svardh]] transformed at [[Seraphim Hospital]] after being attacked. Physical details from the fountain attack match all prior cases:
+- [[Dr. Svardh]]'s wife described the attacker as a **dark figure** with **large, green, glowing, angry eyes** and a terrifying growl
+- Svardh's back wounds were consistent with tearing/clawing
+
+**Silver weapons are effective:**
+- Silver knife (Niklas) did 2 damage — were-Svardh took 5 injuries total before fleeing
+- Silver bullet (Killian, point-blank) did 2 damage — triggered retreat
+- Lead bullets caused pain and distraction only; no lasting damage
+- Were-Svardh bit [[Niklas Natt|Niklas]] during the fight (physical injury: Wounded); this is consistent with the **bite spreading the curse**
+
+**See also:** [[Serial Murders - Timeline & Moon Phase]], [[Werewolf (Stockholm)]], [[Friedrich Balm - Connection to Serial Murders]], [[Dr. Svardh]]

@@ -27,4 +27,7 @@ A Thursday's Child with strong occult instincts and a hunger to understand the s
 ## Adventure Log
 - **Adventure 1:** Investigated Castle Gyllencreutz; helped defeat [[Manfred]] and free the trapped souls
 - **Adventure 2:** Investigated the [[Witch Cat Inn]]; helped lay [[Oskar Hjort]] to rest
-- **Adventure 3:** Traveling to Stockholm to investigate the [[Royal Opera]] murder
+- **Adventure 3 (ongoing):** Traveling to Stockholm; dark secret triggered at church murder scene; took mental injury (Angry) pushing [[Professor Liebholz]]; mental injury healed during recovery day; field medicine saved [[Dr. Svardh]]'s life at the fountain; shot were-Svardh with a silver bullet during capture; **monkey skull memento lost** (thrown at were-Svardh as distraction, batted aside)
+
+## Lost Items
+- **Monkey skull memento** — thrown at were-Svardh on Oct 15; lost somewhere in Stockholm
