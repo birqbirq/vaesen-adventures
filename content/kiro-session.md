@@ -68,7 +68,8 @@ Castle spreadsheet: https://docs.google.com/spreadsheets/d/1AjeOQvpPHPOMFaLM1vZo
 - Niklas made contact with 3 spirits via séance at the church; moon phase correction: murders occur around the **full moon** not new moon
 - At [[Bern's Salon]]: met [[August Strindberg]] (writer, local fixture, fan of Abraham's work — new contact); confirmed [[Professor Liebholz]] is a genuine medium (not a Thursday's child, but has cultivated the ability); Liebholz is withholding something; Killian took a mental injury (Angry)
 - **7/7/26:** Dr. Svardh found attacked at a fountain near a cathedral — survived with party's help; his satchel contained a notebook confirming he was behind the Whitehill transplant surgeries; he transformed into a werewolf at the hospital and fled; **werewolf confirmed**; Niklas bit during capture (Wounded); Svardh now in police custody; a second werewolf heard but unidentified; monkey skull memento lost
-- Pending leads: second werewolf identity, Svardh questioning, [[Sigrid]] (National Archives), [[Professor Liebholz]] (holding back — show runs Sun/Mon), Royal Opera / Rufus Holberg, hospital administrator Anna (Monday), why Sverker was targeted; need more silver weapons
+- **7/21/26:** Niklas healed (Abraham paid). Visited [[National Archives]] — [[Sigrid Holgersdotter]] provided murder geography analysis (most murders cluster on central island; 2 outliers in the north) and directed party to Sala Jewelers for silver. Abraham researched werewolf lore: voluntary werewolves more bloodthirsty; curse lasts ~7 years; emotional triggers (including happiness); can sometimes become a bear; all three cures now known (silver; close relative calls by name; disturbing folk cure). Hospital administrator Anna deprioritized. Party heading to check in with Utterson.
+- Pending leads: second werewolf identity, Svardh questioning, [[Professor Liebholz]] (holding back — show may be done for the week), Royal Opera / Rufus Holberg, why Sverker was targeted; Sala Jewelers for silver; return knife to Archives
 - [[Abraham]] has a green gemstone jewelry piece left by [[Franzibald Hansen]] (Danish author, has the Sight, works with the Society) to research
 
 ### Key Recurring NPCs
@@ -80,6 +81,7 @@ Castle spreadsheet: https://docs.google.com/spreadsheets/d/1AjeOQvpPHPOMFaLM1vZo
 - [[Gabriel Utterson]] — Stockholm Police Commissioner, Lysander's friend; covering up Mortimer's murder; dismisses the coroner
 - [[Erik Johan Stagnelius]] — poet, permanent resident at the Golden Peace, Sverker's close friend
 - [[Coroner Volk]] — Stockholm city coroner; sharp and forthcoming; key forensic source
+- [[Sigrid Holgersdotter]] — Stockholm National Archives archivist; sharp, precise, dislikes people; spoke with party Oct 16; provided murder geography analysis and silver supply lead (Sala Jewelers); silver knife still on loan to party
 - [[Dr. Tyko Gregorius]] — junior doctor at [[Seraphim Hospital]]; provided transplant surgery intel
 - [[Dr. Svardh]] — senior physician at [[Seraphim Hospital]]; confirmed as the Whitehill transplant surgeon (notebook recovered); **attacked by vaesen, survived, transformed into a werewolf, recaptured; in police custody**
 - [[Professor Liebholz]] — German performer at [[Bern's Salon]]; genuine medium (not a Thursday's child, cultivated ability); communicates with dead via mirror; withholding something

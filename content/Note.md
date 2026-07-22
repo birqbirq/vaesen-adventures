@@ -337,3 +337,42 @@ risk? yes
 learned? yes, Dr Svardh was the Whitehill killer
 hq? no
 extraordinary? no but niklas and abraham did
+
+
+# 7/21/26
+Killian, Niklas, Abraham, Dixon
+
+Monday 10/16, noon-ish
+
+Niklas is hurt but doesn't feel tingly or anything. He doesn't seem to be affected by the werewolf bite. The doctor fixes him up and sends him home. 
+
+We need to rest for a day so Niklas can heal. We can go to Bern's salon tonight (1930), the masked ball at the Royal Opera (1900). Heather changes her mind and lets us pay to heal him.
+
+We don't need to talk to the hospital administrator Anna now because we were going to ask about Dr. Svardh.
+
+We head to the Archive so Abraham can research and we can talk to Sigrid the archivist. We go over the bridge from the hospital. Sigrid greets us and asks about the knife. She asks if she needs to be worried for her safety. Dixon reassured her. 
+
+Abraham asked about lycanthrope books. She directed him to the same place we got the knife. I ask her if she has heard or read anything lately that might explain the vigilante killings. She says she'll get back to us in the next little while while Abraham is researching. 
+
+I also ask if there have been serial murders like this before where people are torn apart by a wild beast. She says there are lots of stories about this kind of thing, for example during Viking times with berserkers that would become enraged in battle, but nothing like this around here. There are rumors of this happening in Russia and other areas. There's probably a book about it, but she tells us about just a word-of-mouth story of soldiers in war between Russian and Finland who heard or saw werewolves. This was in the past 20 years or so.
+
+Abraham starts looking for info about lycanthropes, weaknesses, hunting, traits, etc. Found info about berserkers, etc. and info about werewolves. Those that choose to be werewolves are more bloodthirsty than accidental turns.  Can be turned if attacking a pregnant woman and eats the fetus. The curse only lasts 7 years.
+
+On the way out, Sigrid tells us the main trend is that the deaths happened on the island. Only 2 outside the island - in the northern part of Stockholm, which is less crime-ridden than other parts of the city, especially the southern part. 
+
+She also tells us that there are a couple silver mines in the area that sell stuff in town. We'd just need to find a jeweler or silversmith. There's a jeweler near the Golden Peace - Sala Jewelers.
+
+That's about all she could find. She told us again that we need to bring the knife back in perfect shape.
+
+We decide to go see the commissioner before he leaves for the day. End of session
+
+XP
+participated? yes
+vaesen? no
+identify vaesen? no
+secret? no
+risk? no (just Abraham)
+learned? yes, werewolf facts
+hq? no
+extraordinary? no
+

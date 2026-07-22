@@ -32,14 +32,24 @@ The werewolf appears to target those who prey on others — criminals, murderers
 - The second howl on Oct 15 suggests two werewolves may be coordinating — or at minimum both are active
 
 ## Werewolf Lore (known to the party)
+*Updated with research from the [[National Archives]] (Oct 16, 1897)*
+
 - Transforms **on the full moon** without fail; can also transform in days before/after if bloodlust is strong
-- Most cannot control themselves in wolf form
+- **Voluntary werewolves** are far more bloodthirsty than those accidentally turned
+- **Transformation triggers:** some are moon-dependent; some are triggered by strong emotion (anger, fear, sadness, joy — even **happiness**)
+- Some can **choose when to transform**; most cannot control it once started
+- Some can **choose to become a bear** instead of a wolf
+- Some can choose to be **invisible to humans** in wolf form; many prefer to be visible — the fear of the prey is part of the hunt
+- Bloodlust **increases over time** — the longer a werewolf has been one, the more dangerous
+- The **curse typically lasts 7 years**
 - The bite can **spread the curse** — [[Dr. Svardh]] appears to have transformed after being attacked, not after the next full moon
-- **Vulnerabilities:**
-  - Silver weapons (confirmed effective — silver knife did 2 damage; silver bullet broke were-Svardh)
-  - A close relative calling it by its **right name** (full human name) may break transformation
-  - A third method exists that the party does not yet know
+- Most cannot control themselves in wolf form
+- **Ways to end the curse:**
+  1. **Silver weapons** (confirmed effective — silver knife did 2 damage; silver bullet broke were-Svardh)
+  2. A **close relative calls it by its right name** (full human name) — may break transformation
+  3. The werewolf **attacks a pregnant woman, tears out the fetus, and eats it** — a recorded folk cure; party will not be pursuing this
 - **Lead bullets** are ineffective — cause pain and distraction but no lasting damage
+- There are historical records of werewolves/berserkers from Viking times (shape-shifting warriors); also rumors from the **Finno-Russian wars ~20 years ago** of something similar
 
 ## Dr. Svardh (Captured Werewolf)
 - Attacked at the fountain on Oct 15; survived; transformed at the hospital

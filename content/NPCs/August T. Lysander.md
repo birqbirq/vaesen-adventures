@@ -18,7 +18,7 @@ Wealthy Stockholm occultist and client for Adventure 3. Owner of Lysander Cork F
 - [[Linnea Elfeklint]] — old friend; hadn't spoken in decades before sending the letter
 - [[Gabriel Utterson]] — close friend; Police Commissioner of Stockholm
 - [[Karl-Axel Trygg]] — coachman and valet
-- [[Sigrid]] — on good terms with her due to his wealth
+- [[Sigrid Holgersdotter]] — on good terms with her due to his wealth
 
 ## Adventure Appearances
 - [[3 - S.o.a.K.]] — client; his letter to Linnea kicked off the adventure; met the party at Stockholm station; covering their accommodations at the [[Golden Peace]]
