@@ -23,4 +23,4 @@ An unnamed beggar encountered outside the [[Golden Peace]]. One of the few survi
 ## Adventure Appearances
 - [[3 - S.o.a.K.]] — encountered twice; provided key info on the Whitehill transplant operation; escorted to [[Seraphim Hospital]]; **died during treatment** (6/2/26) — hand too far gone from rejection/infection
 
-#stockholm #resolved
+#stockholm #resolved #npc

@@ -9,6 +9,6 @@ Venue in Stockholm hosting a spiritualist ghost show by [[Professor Liebholz]].
 - Flagged by the party as worth investigating
 
 ## Adventure Appearances
-- [[3 - S.o.a.K.]] — noted from the City Gazette as a location of interest
+- [[3 - S.o.a.K.]] — noted from the City Gazette; party visited to interview [[Professor Liebholz]]; [[August Strindberg]] is a regular here
 
 #stockholm

@@ -22,4 +22,4 @@ Stockholm city coroner. Works in the basement morgue of the police headquarters 
 ## Adventure Appearances
 - [[3 - S.o.a.K.]] — interviewed in the morgue; provided key forensic details on all victims
 
-#stockholm #investigating
+#stockholm #investigating #npc

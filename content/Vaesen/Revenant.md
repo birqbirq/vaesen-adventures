@@ -13,4 +13,4 @@ A type of Vaesen — a ghost bound to the mortal world by unresolved injustice o
 ## Adventure Appearances
 - [[2 - Dance of Dreams|Dance of Dreams]] — Oskar Hjort identified as a Revenant after the mystery was resolved
 
-#sigtuna #resolved
+#sigtuna #resolved #vaesen

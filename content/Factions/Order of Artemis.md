@@ -12,4 +12,4 @@ The predecessor organization to [[The Society]]. Founded by Mats Rosenberg and o
 ## Adventure Appearances
 - [[2 - Dance of Dreams|Dance of Dreams]] — discovered via Carl Linnaeus's journal in the castle library
 
-#uppsala
+#uppsala #faction

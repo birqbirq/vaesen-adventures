@@ -9,6 +9,6 @@ A church in Stockholm where [[Sverker]] was practicing before his murder.
 - His throat was ripped open when he hit a high note shortly after
 
 ## Adventure Appearances
-- [[3 - S.o.a.K.|New Adventure]] — referenced in Sverker's séance as the location where he was stalked before his death
+- [[3 - S.o.a.K.]] — referenced in Sverker's séance as the location where he was stalked before his death
 
-#stockholm 
+#stockholm

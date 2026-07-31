@@ -2,6 +2,9 @@
 
 tags: #clue #soak #lead #steamboats
 
+> [!warning] Status
+> Likely moot — werewolf confirmed as the killer; steamboat schedule as a lead has been superseded.
+
 **Source:** City Gazette, October 14, 1897
 
 The murders follow a monthly pattern tied to the new moon (May–September). Steamboats running regular routes between Stockholm and other cities could place the same crew or passengers in Stockholm on each murder date. This is an uninvestigated lead.

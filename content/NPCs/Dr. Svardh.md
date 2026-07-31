@@ -52,4 +52,4 @@ Senior physician and research director at [[Seraphim Hospital]]. Confirmed as th
 ## Adventure Appearances
 - [[3 - S.o.a.K.]] — mentioned by [[Dr. Tyko Gregorius]] 6/2/26; confirmed as Whitehill transplant surgeon 7/7/26; attacked, transformed, captured 7/7/26
 
-#stockholm #resolved #werewolf
+#stockholm #resolved #werewolf #npc

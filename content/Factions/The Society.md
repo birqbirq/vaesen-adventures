@@ -38,4 +38,4 @@ A secret organization of people with the Sight, dedicated to understanding and c
 - [[1 - Intro Session|Intro Session]] — party learns of the Society and inherits the castle
 - [[2 - Dance of Dreams|Dance of Dreams]] — party researches Society history; Olaus Klint's family connection revealed
 
-#uppsala #sigtuna
+#uppsala #sigtuna #faction

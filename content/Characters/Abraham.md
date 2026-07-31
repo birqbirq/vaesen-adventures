@@ -29,4 +29,4 @@ A published author of occult and occult-adjacent novels. Hungry for new vaesen a
 ## Adventure Log
 - **Adventure 1:** Investigated Castle Gyllencreutz; helped defeat [[Manfred]] and free the trapped souls
 - **Adventure 2:** Investigated the [[Witch Cat Inn]]; helped lay [[Oskar Hjort]] to rest; gained condition Hopelessness during bone recovery
-- **Adventure 3:** Traveling to Stockholm to investigate the [[Royal Opera]] murder
+- **Adventure 3 (ongoing):** Traveling to Stockholm; assisted [[Killian]] in stabilizing [[Dr. Svardh]] at the fountain (field medicine); contributed to were-Svardh capture Oct 16; helped clear bystanders during werewolf fight; researched lycanthrope lore at [[National Archives]] with [[Sigrid Holgersdotter]]

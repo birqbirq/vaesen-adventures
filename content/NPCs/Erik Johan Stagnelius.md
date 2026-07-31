@@ -27,4 +27,4 @@ Poet and actor based in Stockholm. Close friend of [[Sverker]] von Essen. Perman
 ## Adventure Appearances
 - [[3 - S.o.a.K.]] — recommended by Sigrund as a local contact; met at the Golden Peace; provided early leads on suspects
 
-#stockholm
+#stockholm #npc

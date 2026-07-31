@@ -25,4 +25,4 @@ Presumably deceased (events took place ~50 years before the campaign). No confir
 ## Adventure Appearances
 - [[2 - Dance of Dreams|Dance of Dreams]] — referenced throughout; central to the backstory of Oskar's murder
 
-#sigtuna #sight
+#sigtuna #sight #npc

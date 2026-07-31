@@ -14,4 +14,4 @@ Deceased conductor of the [[Royal Opera]] in Stockholm. Died approximately six w
 ## Adventure Appearances
 - [[3 - S.o.a.K.]] — death reported in the City Gazette; confirmed murder by Coroner Volk on 4/14/26
 
-#stockholm #investigating
+#stockholm #investigating #npc

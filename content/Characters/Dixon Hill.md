@@ -27,4 +27,4 @@ A private detective with a sharp eye for investigation — when the dice coopera
 ## Adventure Log
 - **Adventure 1:** Investigated Castle Gyllencreutz; helped defeat [[Manfred]] and free the trapped souls
 - **Adventure 2:** Absent (missed sessions 5–6)
-- **Adventure 3:** Traveling to Stockholm to investigate the [[Royal Opera]] murder
+- **Adventure 3 (ongoing):** Traveling to Stockholm; investigated serial murders; present for Oct 16 werewolf capture of [[Dr. Svardh]]

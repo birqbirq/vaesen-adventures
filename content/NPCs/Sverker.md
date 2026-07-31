@@ -20,7 +20,7 @@ Deceased tenor at the [[Royal Opera]] in Stockholm. Murdered mid-performance. Ce
 - Described St. James Church as elegantly constructed with great reverb — you can harmonize with yourself
 
 ## Relationships
-- Wife — unnamed; second most loved person in his life
+- Bernhardina — wife; named during the séance
 - [[Erik Johan Stagnelius]] — close friend; spent many nights together at the [[Golden Peace]] after performances
 - [[Rufus Holberg]] — understudy; strained relationship over the role dispute in *A Masked Ball*
 - [[Mortimer Cronstedt]] — conductor; had decided to replace Sverker with Rufus before both their deaths
@@ -28,4 +28,4 @@ Deceased tenor at the [[Royal Opera]] in Stockholm. Murdered mid-performance. Ce
 ## Adventure Appearances
 - [[3 - S.o.a.K.]] — murder victim; party conducted a séance to gather clues
 
-#stockholm #investigating
+#stockholm #investigating #npc

@@ -12,4 +12,4 @@ The central island district of Stockholm. The party's primary area of operation 
 ## Adventure Appearances
 - [[3 - S.o.a.K.]] — party arrived here with [[August T. Lysander]]
 
-#stockholm 
+#stockholm

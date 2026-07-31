@@ -11,6 +11,7 @@ Hotel and tavern in Stockholm, located on the southeast side of the Town Between
 - [[Erik Johan Stagnelius]] has a permanent residence here
 - [[Rufus Holberg]] occasionally visits but mostly stays away
 - [[Mortimer Cronstedt]] died here after consuming turtle soup — suspected botulism
+- [[Mortimer Cronstedt]] — conductor who died here; officially attributed to turtle soup, actually opium murder
 
 ## Adventure Appearances
 - [[3 - S.o.a.K.]] — party's base of operations; site of the turtle soup death

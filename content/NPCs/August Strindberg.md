@@ -27,4 +27,4 @@ Prominent Swedish writer and political radical. Regular fixture at [[Bern's Salo
 ## Adventure Appearances
 - [[3 - S.o.a.K.]] — met at [[Bern's Salon]] 6/23/26; recognized Abraham; gave address; no occult knowledge confirmed
 
-#stockholm #contact
+#stockholm #contact #npc

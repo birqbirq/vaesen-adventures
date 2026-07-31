@@ -22,4 +22,4 @@ Defeated. Ghostly spirit fled the castle after the deed was taken. Presumed gone
 ## Adventure Appearances
 - [[1 - Intro Session|Intro Session]] — primary villain; defeated at the end of the adventure
 
-#uppsala #resolved #sight
+#uppsala #resolved #sight #npc

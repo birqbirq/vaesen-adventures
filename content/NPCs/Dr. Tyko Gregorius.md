@@ -26,4 +26,4 @@ Junior doctor at [[Seraphim Hospital]]. Treated the party's beggar contact ([[Mu
 ## Adventure Appearances
 - [[3 - S.o.a.K.]] — interviewed at [[Seraphim Hospital]] 6/2/26
 
-#stockholm #investigating
+#stockholm #investigating #npc

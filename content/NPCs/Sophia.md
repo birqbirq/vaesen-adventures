@@ -20,4 +20,4 @@ Daughter of [[Sami Harjula]], innkeeper of the [[Witch Cat Inn]]. Was visited ni
 ## Adventure Appearances
 - [[2 - Dance of Dreams|Dance of Dreams]] — performed the shadow play; key to uncovering Oskar's story
 
-#sigtuna #sight
+#sigtuna #sight #npc

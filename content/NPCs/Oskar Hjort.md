@@ -28,4 +28,4 @@ At rest. Bones buried in consecrated ground near the Witch Cat Inn.
 ## Adventure Appearances
 - [[2 - Dance of Dreams|Dance of Dreams]] — central mystery; ghost laid to rest at end of adventure
 
-#sigtuna #resolved #sight
+#sigtuna #resolved #sight #npc

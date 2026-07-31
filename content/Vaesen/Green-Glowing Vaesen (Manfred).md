@@ -19,4 +19,4 @@ An unidentified Vaesen associated with [[Manfred]] at [[Castle Gyllencreutz]]. M
 ## Adventure Appearances
 - [[1 - Intro Session|Intro Session]] — primary supernatural threat; defeated at the end of the adventure
 
-#uppsala #resolved
+#uppsala #resolved #vaesen

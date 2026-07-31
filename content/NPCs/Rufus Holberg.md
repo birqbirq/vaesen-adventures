@@ -16,4 +16,4 @@ Understudy tenor at the [[Royal Opera]] in Stockholm. Took over [[Sverker]] von 
 ## Adventure Appearances
 - [[3 - S.o.a.K.]] — named as a suspect by Erik Johan Stagnelius
 
-#stockholm #investigating
+#stockholm #investigating #npc

@@ -35,4 +35,4 @@ A German performer at [[Bern's Salon]] in Stockholm, presenting an evening of sp
 ## Adventure Appearances
 - [[3 - S.o.a.K.]] — noted from the City Gazette; party met him 6/23/26; confirmed as genuine medium; withholding something; Killian took mental injury (Angry) during the encounter; party returned to the bar
 
-#stockholm #investigating
+#stockholm #investigating #npc
