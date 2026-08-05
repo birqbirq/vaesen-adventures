@@ -37,6 +37,9 @@ These are notes for an ongoing Kiro CLI chat session to assist with a Vaesen TTR
 ### HQ: Castle Gyllencreutz, Uppsala
 Starting upgrades: Library (free), Butler Algot Frisk (free)
 After Dance of Dreams: Séance Parlor built (5 DP spent)
+After A Stranger in Stockholm: Workshop built + Map Room built (4 DP spent; 6 DP remaining)
+- **Workshop** — Using a well-maintained weapon or tool grants an advantage
+- **Map Room** — Grants an extra advantage; player must justify how an old map is relevant
 Castle spreadsheet: https://docs.google.com/spreadsheets/d/1AjeOQvpPHPOMFaLM1vZollt79eVSl2LAPMR0tsC4bLY/edit?usp=drive_link
 
 ### Adventure 1: Intro Session ([[1 - Intro Session|1. Intro Session.md]])
@@ -56,7 +59,7 @@ Castle spreadsheet: https://docs.google.com/spreadsheets/d/1AjeOQvpPHPOMFaLM1vZo
 - Olaus tried to recruit party to the [[Rosenberg Faction]] (believes all Vaesen are evil — party declined)
 - Reward: [[Nora's Journal|Nora's journal]]; Séance Parlor built at castle
 
-### Adventure 3: A Stranger in Stockholm ([[3 - S.o.a.K.|S.o.a.K.]]) — ONGOING
+### Adventure 3: A Stranger in Stockholm ([[3 - S.o.a.K.|S.o.a.K.]]) — ✅ COMPLETE
 - Client: [[August T. Lysander]] (wealthy Stockholm occultist) — believes a vaesen killed tenor [[Sverker]] von Essen at the [[Royal Opera]]
 - Séance with Sverker: something watched him from shadows near [[St. James Church]] as he sang; throat ripped open mid-note
 - Conductor [[Mortimer Cronstedt]] also dead — officially turtle soup, actually opium poisoning (confirmed murder, covered up by Commissioner Utterson)
@@ -64,28 +67,31 @@ Castle spreadsheet: https://docs.google.com/spreadsheets/d/1AjeOQvpPHPOMFaLM1vZo
 - Erik names understudy [[Rufus Holberg]] as prime suspect — Sverker refused to step aside for him; Rufus has an alibi
 - Interviewed Commissioner [[Gabriel Utterson]] and Coroner [[Coroner Volk|Volk]]: all victims died from violent animal-like tearing wounds; murder dates follow a pattern
 - [[Whitehill]] slums: a "disease" is actually forced limb transplants by a well-dressed perpetrator; [[Mutilation]] (survivor) died at [[Seraphim Hospital]]; [[Dr. Svardh]] is a person of interest
-- 6th murder: church organist [[Friedrich Balm]], found in a Stockholm church with abdomen torn out — also the murderer of the missing Whitehill maids (notebook with portraits + Whitehill addresses found on body); gray animal fur found at scene — **werewolf hypothesis active**
+- 6th murder: church organist [[Friedrich Balm]], found in a Stockholm church with abdomen torn out — also the murderer of the missing Whitehill maids; gray animal fur found at scene — **werewolf hypothesis active**
 - Niklas made contact with 3 spirits via séance at the church; moon phase correction: murders occur around the **full moon** not new moon
-- At [[Bern's Salon]]: met [[August Strindberg]] (writer, local fixture, fan of Abraham's work — new contact); confirmed [[Professor Liebholz]] is a genuine medium (not a Thursday's child, but has cultivated the ability); Liebholz is withholding something; Killian took a mental injury (Angry)
-- **7/7/26:** Dr. Svardh found attacked at a fountain near a cathedral — survived with party's help; his satchel contained a notebook confirming he was behind the Whitehill transplant surgeries; he transformed into a werewolf at the hospital and fled; **werewolf confirmed**; Niklas bit during capture (Wounded); Svardh now in police custody; a second werewolf heard but unidentified; monkey skull memento lost
-- **7/21/26:** Niklas healed (Abraham paid). Visited [[National Archives]] — [[Sigrid Holgersdotter]] provided murder geography analysis (most murders cluster on central island; 2 outliers in the north) and directed party to Sala Jewelers for silver. Abraham researched werewolf lore: voluntary werewolves more bloodthirsty; curse lasts ~7 years; emotional triggers (including happiness); can sometimes become a bear; all three cures now known (silver; close relative calls by name; disturbing folk cure). Hospital administrator Anna deprioritized. Party heading to check in with Utterson.
-- Pending leads: second werewolf identity, Svardh questioning, [[Professor Liebholz]] (holding back — show may be done for the week), Royal Opera / Rufus Holberg, why Sverker was targeted; Sala Jewelers for silver; return knife to Archives
-- [[Abraham]] has a green gemstone jewelry piece left by [[Franzibald Hansen]] (Danish author, has the Sight, works with the Society) to research
+- At [[Bern's Salon]]: met [[August Strindberg]] (writer, local fixture, fan of Abraham's work — new contact); confirmed [[Professor Liebholz]] is a genuine medium; Killian took a mental injury (Angry)
+- **7/7/26:** Dr. Svardh found attacked at a fountain — survived with party's help; his satchel confirmed he was behind the Whitehill transplant surgeries; transformed into a werewolf at the hospital and fled; **werewolf confirmed**; Niklas bit (Wounded); Svardh captured and in police custody; a second werewolf heard but unidentified; monkey skull memento lost
+- **7/21/26:** Niklas healed. Visited [[National Archives]] — [[Sigrid Holgersdotter]] provided murder geography analysis; directed party to Sala Jewelers for silver. Abraham researched werewolf lore: voluntary werewolves more bloodthirsty; curse lasts ~7 years; emotional triggers; can sometimes become a bear; all three cures known.
+- **8/4/26 — RESOLUTION:** Party visits Utterson; coroner's office is dark and locked — unusual. Party goes to Volk's apartment. Housekeeper [[Miss Stephenson]] answers in a panic — Volk locked herself in the basement two days ago. Dixon bluffs probable cause (successful Manipulation); key found behind a book on the bookshelf. Basement reveals a small laboratory — and [[Coroner Volk|Esther Volk]] chained to the wall with iron shackles. **She reveals she is the werewolf.** Has been chaining herself to protect others; her chemical suppression treatment recently stopped working; no close relatives; asks the party to kill her. Before the party can decide, Svardh escapes custody (shackles broke) and arrives in werewolf form at the top of the stairs. Volk transforms from frustration and exertion. Combat: Killian shoots Volk (silver, leg), uses Tactician to give Dixon +2; Dixon shoots Svardh through the heart (silver, 7 dice) — Svardh falls down the stairs dead. Volk expires from the wound and exhaustion. **Both werewolves dead.** Utterson covers both deaths as natural causes. Killian finds a [[Pocket Watch (Lieutenant)|pocket watch]] engraved with a lieutenant's name (F---e---) with a photo of young Esther Volk and a young man in military fatigues — Volk was from **Finland**, a field medic, and the curse likely traces to the Russo-Finnish War. **Mystery resolved.**
+- **7 DP earned; 5 XP per character**
+- Open thread for next adventure: [[Abraham]]'s green gemstone jewelry piece left by [[Franzibald Hansen]]
 
 ### Key Recurring NPCs
 - [[Linnea Elfeklint]] — last original Society member, lives at Uppsala asylum, mentor figure
 - [[Algot Frisk]] — castle butler
 - [[Sigrund Hierta]] — journalist, Uppsala, ally/contact
 - [[Olaus Klint]] — private detective, [[Rosenberg Faction]] (believes Vaesen are evil), not an ally
-- [[August T. Lysander]] — wealthy Stockholm occultist, client for current adventure
-- [[Gabriel Utterson]] — Stockholm Police Commissioner, Lysander's friend; covering up Mortimer's murder; dismisses the coroner
+- [[August T. Lysander]] — wealthy Stockholm occultist, client for Adventure 3 (now concluded)
+- [[Gabriel Utterson]] — Stockholm Police Commissioner; witnessed both werewolf deaths; covered everything as natural causes; **confirmed ally**
 - [[Erik Johan Stagnelius]] — poet, permanent resident at the Golden Peace, Sverker's close friend
-- [[Coroner Volk]] — Stockholm city coroner; sharp and forthcoming; key forensic source
-- [[Sigrid Holgersdotter]] — Stockholm National Archives archivist; sharp, precise, dislikes people; spoke with party Oct 16; provided murder geography analysis and silver supply lead (Sala Jewelers); silver knife still on loan to party
+- [[Coroner Volk]] — Stockholm city coroner; **revealed as the original werewolf serial killer; deceased (Oct 16, 1897)**
+- [[Sigrid Holgersdotter]] — Stockholm National Archives archivist; sharp, precise; silver knife still on loan to party — must be returned
 - [[Dr. Tyko Gregorius]] — junior doctor at [[Seraphim Hospital]]; provided transplant surgery intel
-- [[Dr. Svardh]] — senior physician at [[Seraphim Hospital]]; confirmed as the Whitehill transplant surgeon (notebook recovered); **attacked by vaesen, survived, transformed into a werewolf, recaptured; in police custody**
-- [[Professor Liebholz]] — German performer at [[Bern's Salon]]; genuine medium (not a Thursday's child, cultivated ability); communicates with dead via mirror; withholding something
-- [[August Strindberg]] — prominent Swedish writer; regular at [[Bern's Salon]]; fan of [[Abraham]]'s work; politically radical but no occult knowledge; available as a contact
+- [[Dr. Svardh]] — senior physician at [[Seraphim Hospital]]; Whitehill transplant surgeon; **turned werewolf; escaped custody; deceased (Oct 16, 1897)**
+- [[Miss Stephenson]] — Volk's former housekeeper; older woman; touched by supernatural events; possible castle recruit
+- [[Professor Liebholz]] — German performer at [[Bern's Salon]]; genuine medium; communicates with dead via mirror; was withholding something — may have known more than he said
+- [[August Strindberg]] — prominent Swedish writer; regular at [[Bern's Salon]]; fan of [[Abraham]]'s work; available as a contact
+- [[Franzibald Hansen]] — Danish author; has the Sight; works with the Society; left Abraham a green gemstone jewelry piece to research — **leads to next adventure**
 
 ## User Preferences
 - Prefers plain text files over MHT/DOCX for handbook reference

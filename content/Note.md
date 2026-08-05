@@ -376,3 +376,47 @@ learned? yes, werewolf facts
 hq? no
 extraordinary? no
 
+# 8/4/26
+Killian, Niklas, Abraham, Dixon
+Monday, late in the day
+
+Leaving the Archives and heading to see the commissioner. He's reading reports and stuff. He tells us about the jeweler near Golden Peace. He asks if we had dropped the fur off at the coroner for analysis. We hadn't yet so we're going to. He tells us he's heard that Dr Svardh has woken up so we should go talk to him. We go to drop off the fur at the coroner's office but it's locked and she's gone. He wants to go check on her so we go with him.
+
+He gets a carriage and we go to her apartment not too far from the Golden Peace. He knocks. An older lady answers, and seems nervous, excited. We go inside. She explains that Esther (Volk) the coroner has locked herself in the basement and won't open the door. Dixon asks if she's heard anything. She has heard occasional glassware clanking, general movement. Commish is conflicted about whether or not we should interrupt - she's got some PTSD from the war and might need some space. She tells us that Esther has a lab-ish thing downstairs and does some work from home. Miss Stephanson is her name and she's the housekeeper.
+
+Dixon says he thinks he heard a scream or something coming from the basement so we should get down there and get into the room immediately. Miss S bought it and pointed us in the direction of where the key is. We found it and unlocked the door.
+
+We head downstairs and see a small laboratory. On one table is a revolver. Smells of chemicals and fur. Esther is chained to the wall. I ask her what's up. She's a werewolf and chainer herself up to keep people safe. She's working on a concoction to prevent turning but it's not working well lately. It used to work. She doesn't think she has time to get it working again. She doesn't have any close relatives. 
+
+We hear a howl outside. She doesn't have any sedatives but has a revolver with silver bullets. She wants us to kill her.
+
+Miss S screams from upstairs. Svardhwolf comes down the stairs toward us. Esther tells us to free her so she can help but we don't believe her. She gets mad and turns.
+
+Initiative 
+Killian - 2
+Dixon - 5
+Niklas - Last
+Abraham - Almost last
+
+I shoot Esther and she dies on her turn. Dixon shoots at Svardhwolf and hits him right in the heart and falls down the stairs dead. Miss S was still alive and just fainted. I look around for something mystical or occultish and find a pocket watch with a photo inside - it's not Esther's name, it's a lieutenant's name (F--e---) - Picture is a younger her with a young guy in military uniforms. The commish doesn't recognize him. She didn't talk a lot about her time in the war. He could have something to do with her lycanthropy. He apologizes for not trusting us at the beginning. 
+
+XP
+
+participated? yes
+vaesen? yes
+identify vaesen? yes
+secret? no
+risk? no
+learned? yes - Volk was the killer and was in the war
+hq? yes - workshop and map room
+extraordinary? - yes - killed 2 werewolves
+
+Development Points
+Scene at hq? yes
+New vaesen? yes
+Place of magic? no
+Subjected to magic? yes
+Books or items brought back? yes - pocket watch
+Contacts? yes - commissioner and Lysander
+Difficult mystery? - yes
+Solve mystery? - yes

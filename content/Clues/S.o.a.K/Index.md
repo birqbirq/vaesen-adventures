@@ -4,61 +4,55 @@ tags: #soak #index
 
 Master index of clues gathered during the *Stranger in Stockholm* mystery.
 
+> ✅ **MYSTERY RESOLVED** — Oct 16, 1897. Both werewolves killed. See [[Werewolf (Stockholm)]].
+
 ---
 
 ## The Serial Murders
-- [[Serial Murders - Timeline & Moon Phase]] — 6+ murders; **full moon pattern** confirmed (not new moon). Two pedestrians killed by were-Svardh Oct 15. Original werewolf still at large.
-- [[Serial Murders - Wound Pattern]] — Animal-like tearing wounds; gray fur at Oct 14 scene; **werewolf confirmed**; silver weapons effective.
-- [[Sverker von Essen - Death]] — The 5th victim. Séance details, circumstances, Rufus alibi. **Still the primary outlier — no criminal record.**
-- [[Friedrich Balm - Connection to Serial Murders]] — The 6th victim; organist; murderer of the missing maids. ✅ Maids case resolved.
+- [[Serial Murders - Timeline & Moon Phase]] — 6+ murders; **full moon pattern** confirmed. ✅ Resolved: [[Coroner Volk]] was the original killer; [[Dr. Svardh]] killed two additional pedestrians after being turned.
+- [[Serial Murders - Wound Pattern]] — Animal-like tearing wounds; gray fur at Oct 14 scene; **werewolf confirmed**; silver weapons effective. ✅ Resolved.
+- [[Sverker von Essen - Death]] — The 5th victim. Séance details, circumstances, Rufus alibi. Killed by [[Coroner Volk]]. **Reason still unclear — no criminal record found, but Volk believed something.**
+- [[Friedrich Balm - Connection to Serial Murders]] — The 6th victim; organist; murderer of the missing maids. ✅ Resolved.
 
 ## Connected Deaths
-- [[Mortimer Cronstedt - Cause of Death]] — Conductor. Officially bad turtle soup; actually opium murder. May be connected to Sverker.
+- [[Mortimer Cronstedt - Cause of Death]] — Conductor. Officially bad turtle soup; actually opium murder. ✅ Utterson has covered this up; considered closed.
 
 ## Whitehill Threads
-- [[Whitehill Limb Transplants]] — ✅ **RESOLVED** — [[Dr. Svardh]] confirmed as perpetrator (notebook found at fountain). Svardh in police custody.
+- [[Whitehill Limb Transplants]] — ✅ **RESOLVED** — [[Dr. Svardh]] confirmed as perpetrator (notebook found at fountain). Svardh now deceased.
 
 ## The Vaesen
-- [[Werewolf (Stockholm)]] — **Confirmed vaesen type**. Were-Svardh captured; in police custody. Original werewolf (at least 1 other) still active. Green glowing eyes. Silver effective.
-  - **Three cures now known:** silver bullet; close relative calls by human name; disturbing folk cure involving a pregnant woman (party will not pursue).
-  - New lore (Oct 16 research): voluntary werewolves more bloodthirsty; curse lasts ~7 years; emotional triggers (including happiness); can sometimes become a bear instead.
+- [[Werewolf (Stockholm)]] — ✅ **RESOLVED.** Both werewolves dead.
+  - **[[Coroner Volk]]** (Esther Volk) — the original serial killer; Finnish field medic; cursed during/after the Russo-Finnish War; killed Oct 16, 1897
+  - **[[Dr. Svardh]]** — turned by Volk's bite; killed Oct 16, 1897
+  - **Three cures known:** silver bullet (confirmed); close relative calls by human name; disturbing folk cure (not pursued)
+
+## Items of Note
+- [[Pocket Watch (Lieutenant)]] — Found in Volk's lab. Engraved with a lieutenant's name (F---e---). Photo of young Volk and a young man in military fatigues. **Possible future hook.**
 
 ---
 
 ## Key People
-- [[Gabriel Utterson]] — Police Commissioner. Covering up Mortimer's murder. Witnessed Svardh transform. Has Svardh in custody. Sourcing more silver weapons.
-- [[Coroner Volk]] — Primary forensic source. Has gray fur and lock of hair samples.
-- [[Dr. Tyko Gregorius]] — Junior doctor at [[Seraphim Hospital]]. Briefed party on surgical details.
-- [[Dr. Svardh]] — ✅ Confirmed Whitehill transplant surgeon. **Captured werewolf; in police custody.** Not yet questioned by party.
-- [[Mutilation]] — Beggar with transplanted hand. Died at [[Seraphim Hospital]] Oct 14.
-- [[August T. Lysander]] — Client. Wants resolution, not destruction. Covering party expenses.
-- [[Erik Johan Stagnelius]] — Sverker's close friend. Local contact at [[Golden Peace]].
-- [[Rufus Holberg]] — Understudy. Alibi confirmed. Not yet visited at [[Royal Opera]].
-- [[Sverker]] — 5th victim. Séance conducted.
-- [[Professor Liebholz]] — Genuine medium at [[Bern's Salon]]. **Withholding something.** Show was Sun/Mon; may be done for the week.
-- [[August Strindberg]] — Writer, Bern's Salon regular. Fan of Abraham. Available as contact. No occult knowledge.
-- [[Sigrid Holgersdotter]] — National Archives archivist. Spoken with Oct 16. Provided murder geography analysis (central island cluster; 2 northern outliers) and directed party to Sala Jewelers for silver. Silver knife still on loan to party; must be returned in perfect condition.
+- [[Gabriel Utterson]] — Police Commissioner. Witnessed both deaths. Covering everything as "natural causes." **Confirmed ally.**
+- [[Coroner Volk]] — ✅ Confirmed as the original werewolf serial killer. Deceased.
+- [[Dr. Tyko Gregorius]] — Junior doctor at [[Seraphim Hospital]]. Intel on Svardh; no longer an active thread.
+- [[Dr. Svardh]] — ✅ Confirmed Whitehill transplant surgeon. **Deceased.** Turned werewolf by Volk's bite.
+- [[Miss Stephenson]] — Volk's housekeeper. Present during the final confrontation. Possible future contact or castle recruit.
+- [[August T. Lysander]] — Client. Mystery resolved; to be debriefed.
+- [[Erik Johan Stagnelius]] — Sverker's close friend. No further action needed.
+- [[Rufus Holberg]] — Understudy. Alibi confirmed; not the killer.
+- [[Professor Liebholz]] — Genuine medium. Was withholding something — may have known something about Volk; no longer urgent.
+- [[August Strindberg]] — Writer, Bern's Salon regular. Available as a contact.
+- [[Sigrid Holgersdotter]] — National Archives archivist. Silver knife must be returned.
 
 ---
 
-## Leads Still Open
+## Open Threads (Post-Mystery)
 
-### 🔴 Active / High Priority
-- **Original werewolf** — Identity unknown. Still at large. See [[Werewolf (Stockholm)]].
-- **Second werewolf** — Heard but not identified on Oct 15. May be the original killer; may be connected to Svardh.
-- **[[Dr. Jens Svardh|Dr. Svardh]] in custody** — Not yet questioned by party. Key witness on werewolf pack/sire and Whitehill surgeries.
-- **Why was [[Sverker]] targeted?** — Still the primary outlier; no criminal record found. Central unresolved question.
-
-### 🟡 Uninvestigated
-- **[[Professor Liebholz]]** — Withholding something. Last show was Monday night; may need another approach.
-- **[[Rufus Holberg]] / [[Royal Opera]]** — Not yet visited directly.
-- **Silver weapons** — Sala Jewelers (near [[Golden Peace]]) confirmed as source; [[Gabriel Utterson|Utterson]] also sourcing ammunition. Return knife to [[National Archives]] when done.
-- **[[Abraham]]'s green gemstone** — Jewelry piece left by [[Franzibald Hansen]]; research still pending.
-
-### 🟢 Deprioritized / Likely Moot
-- **Anna** (hospital administrator) — No longer a priority; Svardh's notebook makes her intel moot.
-- **Niklas — werewolf bite** — No symptoms yet after Oct 16; werewolf bite may spread the curse but appears not to have in this case.
-- [[Steamboat Schedules - Potential Lead]] — Uninvestigated; likely moot given werewolf confirmation.
+- [ ] **Silver knife** — Must be returned to the [[National Archives]] in perfect condition ([[Sigrid Holgersdotter]])
+- [ ] **[[August T. Lysander]]** — Client; needs to be debriefed on the resolution
+- [ ] **[[Miss Stephenson]]** — Possible castle contact/recruit
+- [ ] **The pocket watch lieutenant** — Identity unknown; possible future adventure hook
+- [ ] **[[Abraham]]'s green gemstone jewelry piece** from [[Franzibald Hansen]] — Leads to the next adventure
 
 ---
 
