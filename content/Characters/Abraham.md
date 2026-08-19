@@ -20,6 +20,7 @@ A published author of occult and occult-adjacent novels. Hungry for new vaesen a
 - Tried to inspire Roland Hertdig to leave the castle (failed)
 - Attempted to figure out next steps after finding Oskar's bones; rolled badly and gained the condition: Hopelessness
 - Realized the party needed to carry Oskar's bones over the cemetery wall (not through the gate) to consecrated ground
+- Spotted [[Alfred (TA)]] attempting to steal a first-edition book from the library (two successes on Vigilance/Logic); diplomatically confronted him at the door with his walking stick — book returned
 
 ## Relationships
 - Member of [[The Society]], based at [[Castle Gyllencreutz]]
@@ -29,4 +30,5 @@ A published author of occult and occult-adjacent novels. Hungry for new vaesen a
 ## Adventure Log
 - **Adventure 1:** Investigated Castle Gyllencreutz; helped defeat [[Manfred]] and free the trapped souls
 - **Adventure 2:** Investigated the [[Witch Cat Inn]]; helped lay [[Oskar Hjort]] to rest; gained condition Hopelessness during bone recovery
-- **Adventure 3 (ongoing):** Traveling to Stockholm; assisted [[Killian]] in stabilizing [[Dr. Svardh]] at the fountain (field medicine); contributed to were-Svardh capture Oct 16; helped clear bystanders during werewolf fight; researched lycanthrope lore at [[National Archives]] with [[Sigrid Holgersdotter]]
+- **Adventure 3 (complete):** Traveling to Stockholm; assisted [[Killian]] in stabilizing [[Dr. Svardh]] at the fountain (field medicine); contributed to were-Svardh capture Oct 16; helped clear bystanders during werewolf fight; researched lycanthrope lore at [[National Archives]] with [[Sigrid Holgersdotter]]
+- **Adventure 4 (ongoing):** Returned to Uppsala; received two letters (Linnea's warning + [[Josef Strasser]]'s prison letter); caught [[Alfred (TA)]] stealing a first edition from the library; party preparing to travel to [[Lemberg]] in Galicia

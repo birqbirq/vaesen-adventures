@@ -17,5 +17,6 @@ Former butler of [[Castle Gyllencreutz]], now serving the party. Loyal, knowledg
 - [[1 - Intro Session|Intro Session]] — appeared at the end; offered to serve as butler
 - [[2 - Dance of Dreams|Dance of Dreams]] — delivered Olaus Klint's invitation; provided background on the Klint/Rosenberg lineage
 - [[3 - S.o.a.K.]] — informed the party that Linnea wanted to speak with them
+- [[4 - Carpathia]] — received two letters while party was away; answered the door for [[Dr. Djerf]] and [[Alfred (TA)]]; tasked with verifying Dr. Djerf's university credentials; asked to find a Society contact in Prague
 
 #uppsala #npc
