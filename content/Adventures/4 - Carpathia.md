@@ -87,3 +87,111 @@ Per Strasser's letter, these cannot be brought into the prison:
 - HQ? ✅ (workshop upgrade — sword-cane)
 
 **XP this session: 3**
+
+---
+
+# 9/1/26
+*[[Killian]], [[Abraham]], [[Niklas Natt|Niklas]]*
+*S1D2*
+
+Continuing the journey to [[Lemberg]] and [[Brygidki Prison]]. Still on the road — Day 2.
+
+## At the Castle (Before Departure)
+
+### Killian's Introduction
+Killian opens with a personal monologue: he's spent a good deal of time in lockup across Scotland and Europe — jails, holding cells, worse. He knows how prisons breathe. This one, strange as it is, feels like going home.
+
+### Abraham's Library Research
+Before leaving, [[Abraham]] spent time in the castle library researching [[Brygidki Prison]]. What he found:
+
+- **Oldest prison in [[Lemberg]]** (Lviv) — the longest-standing detention facility in the region
+- **Originally a convent**, built in 1614 for the **Bridgetine Order** (Order of the Most Holy Savior) — an order founded in Scandinavia, with a direct connection to **Bridget of Sweden**
+- The convent housed girls from noble families; at its height it held around 30 nuns
+- In **1782**, the Austrian administration **secularized the convent** and converted it into a prison
+- The name **"Brygidki"** literally means *Bridgetine nuns* in Polish — the building never shed its old name
+- Under Austrian rule it became a **political and detention prison**, holding dissenters — Polish, Jewish, and Ukrainian prisoners among them
+- The general population is fairly ordinary, with a notable proportion of **political prisoners** opposed to Austrian authority
+- The site carries a dark weight in history — though what the future holds, no one yet knows
+
+### Advantages Confirmed
+The party finalizes their adventure advantages before boarding.
+
+- **[[Killian]]** — *Individual advantage:* **+1 Physique** for any Physique roll during this mystery. Stems from his prison familiarity and the confidence that comes with his sword-cane. *(The sword-cane itself already grants advantage on Agility rolls — established last session.)*
+- **[[Niklas Natt|Niklas]]** — *Individual advantage:* **+1 Ranged Combat** for the mystery, from practicing knife throws in the courtyard before departure.
+- **Old Map Bonus (party advantage):** The Mythic Carpathia map from the castle map room grants **+1 Logic** — [[Niklas Natt|Niklas]] takes this, since he already has 4 in Logic and it compounds well.
+
+## On the Train
+
+The journey continues southeast. The countryside rolls past in darkness.
+
+### The Card Game
+A friendly game of **5-card stud** breaks out in one of the compartments.
+
+- [[Niklas Natt|Niklas]] wins one round
+- [[Abraham]] wins one round
+- [[Killian]] wins zero rounds
+- Niklas retires from the table as reigning champion
+
+### The Dining Car
+The waiter — **Stephan** (or Stefan) — serves a very Swedish spread: meatballs, pickled herring, lutefisk. A long way from Galicia.
+
+Other tables in the dining car:
+- A group of **Hamburg tourists**, animated and excited
+- A **Danish-speaking group** at another table — Abraham picks out a few words. They're talking about family.
+
+### The Observation Car — Northern Lights
+Late in the evening, the observation car draws everyone out.
+
+A **waning crescent moon** lights the countryside in silver. Then the aurora appears — stunning, sweeping greens and whites. And then, rarer still: **a red corona**.
+
+What the characters know from folklore and research:
+- **Icelandic tradition:** Red lights are a *bad omen*. Pregnant women should stay indoors.
+- **Norwegian tradition:** A positive sign — the lights are ancestral, the dead watching over the living.
+- **Swedish folklore:** If reflected on water, a good omen for fishing; but they can also signal coming **violence or danger**.
+
+[[Killian]] and [[Niklas Natt|Niklas]] both know it's mostly wives' tales. They watch anyway. Neither one feels entirely easy about it.
+
+## Hamburg Stop
+
+The train pulls into Hamburg around **7am**. A one-hour stop.
+
+The city is just waking up — bakeries opening, coffee being poured. The group stretches their legs on the platform. They don't go into town.
+
+### The Selkies
+Near the station, they notice **three women in seal-skin capes** — something about them immediately catches the eye.
+
+[[Killian]] approaches, keeping his manner open and non-threatening.
+
+The **tall one** speaks first. Her name is **[[Libby]]**.
+
+- The other two are **[[Sophia]]** and **[[Iona]]**
+- They've been in Hamburg **for a few years**, quietly learning everything they can about the area and its people
+- They're searching for their **lost sister, [[Fern]]** — last believed to be somewhere near **Warsaw**
+
+Killian listens. Offers to help — after Prague, once the current business is settled. He gives Libby the **castle phone number** and asks them to stay in touch.
+
+The encounter is calm. No hostility on either side. A door left open.
+
+> *New vaesen encountered: Selkies — non-hostile. A family of four (three present), searching for a missing sister. Based in Hamburg.*
+
+## Toward Prague
+
+The train presses on southeast. The Society's contact in Prague has been confirmed: **[[Jarmil Holub]]**. Algot's earlier message went ahead under a placeholder name — that's now resolved.
+
+*Session ends just before the train reaches Prague.*
+
+---
+
+**Next session:** Arrive in Prague. Meet [[Jarmil Holub]] at the Society office. Then onward to [[Lemberg]].
+
+## XP
+- Participate? ✅
+- Vaesen? ❌
+- New vaesen? ✅ (selkies)
+- Secret? ❌
+- Risks? ❌
+- Learned? ✅ (history of Brygidki convent and prison, selkies/wereseals, red aurora folklore)
+- HQ? ❌
+- Extraordinary? ❌
+
+**XP this session: 3**

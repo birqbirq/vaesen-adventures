@@ -76,6 +76,15 @@ Castle spreadsheet: https://docs.google.com/spreadsheets/d/1AjeOQvpPHPOMFaLM1vZo
 - **7 DP earned; 5 XP per character**
 - Open thread for next adventure: [[Abraham]]'s green gemstone jewelry piece left by [[Franzibald Hansen]]
 
+### Adventure 4: Carpathia ([[4 - Carpathia|4 - Carpathia.md]]) — 🔄 IN PROGRESS
+- Party heading to [[Brygidki Prison]] in [[Lemberg]], Galicia, responding to Warden [[Josef Strasser]]'s letter about gruesome supernatural prisoner deaths
+- Also received a letter from [[Linnea Elfeklint]] referencing "Sandemann" — something serious stirring in Denmark
+- Castle visitors: [[Dr. Djerf]] (researcher, lost wife at the castle) and his TA [[Alfred (TA)|Alfred]] (attempted book theft, caught by Abraham, let off diplomatically)
+- Advantages: Killian sword-cane (Agility), Killian +1 Physique for mystery; Niklas +1 Ranged Combat (knife throwing); Niklas +1 Logic (old map / Mythic Carpathia)
+- **8/18/26 (S1D1):** Letters received, decided to go to Carpathia; map room consulted; sword-cane built; Jarmil Holub identified as Prague Society contact
+- **9/1/26 (S1D2):** Abraham researched Brygidki — oldest prison in Lemberg; converted from a 1614 Bridgetine convent by Austrian administration in 1782; holds political prisoners. Card game on train (Niklas wins). Rare red northern lights seen (folklore discussed). Hamburg stop — met selkies [[Libby]], Sophia, and [[Iona]] searching for lost sister Fern (near Warsaw); gave them castle phone number. Session ended before Prague.
+- **Next:** Arrive Prague, meet [[Jarmil Holub]] at the Society office, then continue to Lemberg
+
 ### Key Recurring NPCs
 - [[Linnea Elfeklint]] — last original Society member, lives at Uppsala asylum, mentor figure
 - [[Algot Frisk]] — castle butler
@@ -92,6 +101,10 @@ Castle spreadsheet: https://docs.google.com/spreadsheets/d/1AjeOQvpPHPOMFaLM1vZo
 - [[Professor Liebholz]] — German performer at [[Bern's Salon]]; genuine medium; communicates with dead via mirror; was withholding something — may have known more than he said
 - [[August Strindberg]] — prominent Swedish writer; regular at [[Bern's Salon]]; fan of [[Abraham]]'s work; available as a contact
 - [[Franzibald Hansen]] — Danish author; has the Sight; works with the Society; left Abraham a green gemstone jewelry piece to research — **leads to next adventure**
+- [[Josef Strasser]] — Warden of [[Brygidki Prison]] in Lemberg; reached out to the Society about supernatural prisoner deaths; current client
+- [[Dr. Djerf]] — Uppsala University philosopher; wife went missing at Castle Gyllencreutz; researching the occult; came with his TA Alfred to access the library
+- [[Jarmil Holub]] — Society contact in Prague; not yet met; Algot sent ahead
+- [[Libby]] — Selkie; tall; group leader; met in Hamburg; searching for missing sister Fern near Warsaw; has the castle phone number; may reach out for help
 
 ## User Preferences
 - Prefers plain text files over MHT/DOCX for handbook reference
